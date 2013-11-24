@@ -1,0 +1,45 @@
+<html>
+<head>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	
+</head>
+<body>
+	<script type="text/javascript">
+		//<![CDATA[
+		$(document).ready(function(){
+			for (var i=0; i<3; i++) {
+				var d = new Date();
+				d.setDate(d.getDate() - i);
+				
+				var month = d.getMonth()+1;
+				var day = d.getDate();
+				var year = d.getFullYear();
+				
+				var fullMonth = (month<10 ? '0' : '') + month 
+				var fullDay = (day<10 ? '0' : '') + day
+				
+				var href = "http://download.cbsnews.com/media/" + year + "/" + month + "/" + day + "/EN_" + month + day + "_FULL_1296.m4v"; 
+				
+				// todo test if link is "File not found" or 404
+				
+				$('#news-link-'+i).attr('href', href);
+				$('#news-link-'+i).text(month + "/" + day + "/" + year);
+			}
+		});
+		//]]>
+	</script>
+	<img src="icon.png"/>
+	<h1>Evening News</h1>
+	<ul>
+		<li>
+			<a id="news-link-0" href="http://download.cbsnews.com/media/2013/11/22/EN_1122_FULL_1296.m4v">11/23/2013</a>
+		</li>
+		<li>
+			<a id="news-link-1" href="http://download.cbsnews.com/media/2013/11/22/EN_1122_FULL_1296.m4v">11/23/2013</a>
+		</li>
+		<li>
+			<a id="news-link-2" href="http://download.cbsnews.com/media/2013/11/22/EN_1122_FULL_1296.m4v">11/23/2013</a>
+		</li>
+	</ul>
+</body>
+</html>
