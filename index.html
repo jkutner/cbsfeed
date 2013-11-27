@@ -6,6 +6,16 @@
 <body>
 	<script type="text/javascript">
 		//<![CDATA[
+		
+		// important links
+		// http://cbsnews.treemo.com/cbsnews/cnetnativevideolist?
+		
+		// 60 Minutes:
+		// http://api.cnet.com/rest/v1.0/video?videoId=50159354&iod=videoMedia&players=Download,Streaming
+		
+		// Evening News:
+		// http://api.cnet.com/rest/v1.0/video?videoId=50159803&iod=videoMedia&players=Download,Streaming
+		
 		function withDateComponents(date, callback) {
 			var month = date.getMonth()+1;
 			var day = date.getDate();
@@ -30,10 +40,11 @@
 			}
 			
 			var sunday = new Date();
-			sunday.setDate(0);
+			//console.log(sunday.getDate());
+			sunday.setDate(sunday.getDate() - sunday.getDay());
 			
 			for (var i=0; i<40; i+=7) {
-				var d = new Date();
+				var d = sunday;
 				d.setDate(d.getDate() - i);
 				
 				withDateComponents(d, function(year, month, day) {					
