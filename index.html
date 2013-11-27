@@ -40,14 +40,12 @@
 			}
 			
 			var sunday = new Date();
-			//console.log(sunday.getDate());
 			sunday.setDate(sunday.getDate() - sunday.getDay());
 			
 			for (var i=0; i<40; i+=7) {
-				var d = sunday;
-				d.setDate(d.getDate() - i);
+				sunday.setDate(sunday.getDate() - i);
 				
-				withDateComponents(d, function(year, month, day) {					
+				withDateComponents(sunday, function(year, month, day) {					
 					var href = "http://download.cbsnews.com/media/" + year + "/" + month + "/" + day + "/60_" + month + day + "_FULL_1296.m4v"; 
 									
 					$('#60-min-list').append("<li><a href='"+href+"'>"+month + "/" + day + "/" + year+"</a></li>");
