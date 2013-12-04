@@ -30,7 +30,7 @@
 			var fullMonth = (month<10 ? '0' : '') + month 
 			var fullDay = (day<10 ? '0' : '') + day
 			
-			callback(year, month, day);
+			callback(year, fullMonth, fullDay);
 		}
 		
 		$(document).ready(function(){
@@ -43,12 +43,11 @@
 										
 					$('#cbs-news-list').append("<li><a href='"+href+"'>"+month + "/" + day + "/" + year+"</a></li>");
 				});
-			}
-			
-			var sunday = new Date();
-			sunday.setDate(sunday.getDate() - sunday.getDay());
+			}			
 			
 			for (var i=0; i<40; i+=7) {
+				var sunday = new Date();
+				sunday.setDate(sunday.getDate() - sunday.getDay());
 				sunday.setDate(sunday.getDate() - i);
 				
 				withDateComponents(sunday, function(year, month, day) {					
