@@ -1,3 +1,8 @@
+---
+layout: none
+title: CBS Feed
+---
+
 <html>
 <head>
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
@@ -43,19 +48,7 @@
 										
 					$('#cbs-news-list').append("<li><a href='"+href+"'>"+month + "/" + day + "/" + year+"</a></li>");
 				});
-			}			
-			
-			for (var i=0; i<40; i+=7) {
-				var sunday = new Date();
-				sunday.setDate(sunday.getDate() - sunday.getDay());
-				sunday.setDate(sunday.getDate() - i);
-				
-				withDateComponents(sunday, function(year, month, day) {					
-					var href = "http://download.cbsnews.com/media/" + year + "/" + month + "/" + day + "/60_" + month + day + "_FULL_1296.m4v"; 
-									
-					$('#60-min-list').append("<li><a href='"+href+"'>"+month + "/" + day + "/" + year+"</a></li>");
-				});
-			}
+			}						
 		});
 		//]]>
 	</script>
@@ -65,6 +58,9 @@
 	</ul>
 	<h1>60 Minutes</h1>
 	<ul id="60-min-list">
+	  {% for episode in site.data.sixtymin %}
+	    <li><a href="http://download.cbsnews.com/{{ episode.link }}">{{ episode.title }}</a></li>
+	  {% endfor %}
 	</ul>
 </body>
 </html>
