@@ -1,66 +1,52 @@
 ---
-layout: none
+layout: master
 title: CBS Feed
 ---
 
-<html>
-<head>
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	<meta name="viewport" content="width=256" />
-	<style>
-		li {
-			margin: 25px;
-			font-size: 18pt;
-		}
-	</style>
-</head>
-<body>
-	<script type="text/javascript">
-		//<![CDATA[
+<script type="text/javascript">
+	//<![CDATA[
+	
+	// important links
+	// http://cbsnews.treemo.com/cbsnews/cnetnativevideolist?
+	
+	// 60 Minutes:
+	// http://api.cnet.com/rest/v1.0/video?videoId=50159354&iod=videoMedia&players=Download,Streaming
+	
+	// Evening News:
+	// http://api.cnet.com/rest/v1.0/video?videoId=50159803&iod=videoMedia&players=Download,Streaming
+	
+	function withDateComponents(date, callback) {
+		var month = date.getMonth()+1;
+		var day = date.getDate();
+		var year = date.getFullYear();
 		
-		// important links
-		// http://cbsnews.treemo.com/cbsnews/cnetnativevideolist?
+		var fullMonth = (month<10 ? '0' : '') + month 
+		var fullDay = (day<10 ? '0' : '') + day
 		
-		// 60 Minutes:
-		// http://api.cnet.com/rest/v1.0/video?videoId=50159354&iod=videoMedia&players=Download,Streaming
-		
-		// Evening News:
-		// http://api.cnet.com/rest/v1.0/video?videoId=50159803&iod=videoMedia&players=Download,Streaming
-		
-		function withDateComponents(date, callback) {
-			var month = date.getMonth()+1;
-			var day = date.getDate();
-			var year = date.getFullYear();
+		callback(year, fullMonth, fullDay);
+	}
+	
+	$(document).ready(function(){
+		for (var i=0; i<5; i++) {
+			var d = new Date();
+			d.setDate(d.getDate() - i);
 			
-			var fullMonth = (month<10 ? '0' : '') + month 
-			var fullDay = (day<10 ? '0' : '') + day
-			
-			callback(year, fullMonth, fullDay);
-		}
-		
-		$(document).ready(function(){
-			for (var i=0; i<5; i++) {
-				var d = new Date();
-				d.setDate(d.getDate() - i);
-				
-				withDateComponents(d, function(year, month, day) {				
-					var href = "http://download.cbsnews.com/media/" + year + "/" + month + "/" + day + "/EN_" + month + day + "_FULL_1296.m4v"; 
-										
-					$('#cbs-news-list').append("<li><a href='"+href+"'>"+month + "/" + day + "/" + year+"</a></li>");
-				});
-			}						
-		});
-		//]]>
-	</script>
-	<img src="icon.png"/>
-	<h1>Evening News</h1>
-	<ul id="cbs-news-list">
-	</ul>
-	<h1>60 Minutes</h1>
-	<ul id="60-min-list">
-	  {% for episode in site.data.sixtymin %}
-	    <li><a href="http://download.cbsnews.com/{{ episode.link }}">{{ episode.title }}</a></li>
-	  {% endfor %}
-	</ul>
-</body>
-</html>
+			withDateComponents(d, function(year, month, day) {				
+				var href = "http://download.cbsnews.com/media/" + year + "/" + month + "/" + day + "/EN_" + month + day + "_FULL_1296.m4v"; 
+									
+				$('#cbs-news-list').append("<li><a href='"+href+"'>"+month + "/" + day + "/" + year+"</a></li>");
+			});
+		}						
+	});
+	//]]>
+</script>
+<img src="icon.png"/>
+<h1>Evening News</h1>
+<ul id="cbs-news-list">
+</ul>
+<h1>60 Minutes</h1>
+<ul id="60-min-list">
+  {% for episode in site.data.sixtymin %}
+	<li><a href="http://download.cbsnews.com/{{ episode.link }}">{{ episode.title }}</a></li>
+  {% endfor %}
+</ul>
