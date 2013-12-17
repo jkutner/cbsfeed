@@ -40,20 +40,31 @@ def update_cbs
 
     h = r.body
 
-    raw = h.scan(/(media\\\/201\d\\\/\d\d\\\/\d\d\\\/(\d+\\\/)?60_\d\d\d\d_FULL_796\.mp4)/i)
-    mp4_link = raw[0].is_a?(Array) ? raw[0][0] : raw[0]
-    if mp4_link
-      mp4_link.gsub!(/796/, '1296')
-      mp4_link.gsub!(/\\/, '')
+    raw = h.scan(/(media\\\/201\d\\\/\d\d\\\/\d\d\\\/(\d+\\\/)?60_(\d\d\d\d)_FULL_796\.mp4)/i)
+    matches = raw[0].is_a?(Array) ? raw[0] : raw
 
-      {'title' => title, 'link' => mp4_link}
+    if matches.empty?
+      puts "    No mp4 link found for: #{title}"
     else
-      nil
+      mp4_link = matches[0]
+      raw_date = matches[2]
+
+      formatted_date = raw_date.insert(2, '/')
+
+      if mp4_link
+        mp4_link.gsub!(/796/, '1296')
+        mp4_link.gsub!(/\\/, '')
+
+        {'title' => title, 'link' => mp4_link, 'date' => formatted_date}
+      else
+        nil
+      end
     end
   end.compact
 
   puts "Merging previous episodes..."
   previous_episodes = YAML.load_file(SIXTY_MIN_FILE)
+  previous_episodes ||= []
   previous_episodes.each do |previous_episode|
     if video_urls.index(previous_episode)
       puts "Discarding duplicate episode: #{previous_episode['title']}"
