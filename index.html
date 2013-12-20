@@ -42,7 +42,10 @@ title: CBS Feed
 </script>
 <img src="icon.png"/>
 <h1>Evening News</h1>
-<ul id="cbs-news-list">
+<ul id="60-min-list">
+    {% for episode in site.data.evening_news %}
+    <li><a href="http://download.cbsnews.com/{{ episode.link }}">{{ episode.title }}</a></li>
+    {% endfor %}
 </ul>
 <h1>60 Minutes</h1>
 <ul id="60-min-list">

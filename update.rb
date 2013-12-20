@@ -1,11 +1,10 @@
 require "rubygems"
-
+require 'pry'
 require 'yaml'
+require 'time'
 
 gem 'typhoeus', '=0.6.6'
 require "typhoeus"
-
-SIXTY_MIN_FILE = "_data/sixtymin.yml"
 
 def update_tmz
   puts "fetching TMZ feed..."
@@ -24,46 +23,60 @@ def update_tmz
   end
 end
 
-def update_cbs
-  puts "fetching CBS feed..."
-
-  response = Typhoeus.get("http://www.cbsnews.com/60-minutes/full-episodes/")
+def scrape_cbs_url(url, show_key, output_file, extra_re='') 
+  response = Typhoeus.get(url)
   html = response.body
 
-  raw_scan = html.scan(/<a class\s*=\s*"main" href\s*=\s*"(\/videos\/.*)" title="(.*)">/)
+  raw_scan = html.scan(/href\s*=\s*"(\/videos\/.*)"#{extra_re}/)
+  seen = []
   video_urls = raw_scan.map do |raw|
-    title = raw[1]
     link = raw[0]
-    puts "  #{title}"
-    puts "    #{link}"
-    r = Typhoeus.get("http://www.cbsnews.com/#{link}")
-
-    h = r.body
-
-    raw = h.scan(/(media\\\/201\d\\\/\d\d\\\/\d\d\\\/(\d+\\\/)?60_(\d\d\d\d)_FULL_796\.mp4)/i)
-    matches = raw[0].is_a?(Array) ? raw[0] : raw
-
-    if matches.empty?
-      puts "    No mp4 link found for: #{title}"
+    if seen.index(link)
+      nil
     else
-      mp4_link = matches[0]
-      raw_date = matches[2]
-
-      formatted_date = raw_date.insert(2, '/')
-
-      if mp4_link
-        mp4_link.gsub!(/796/, '1296')
-        mp4_link.gsub!(/\\/, '')
-
-        {'title' => title, 'link' => mp4_link, 'date' => formatted_date}
+      seen << link
+    
+      mr = link.match(/(\d+-\d+)-/)
+      if mr 
+        title = mr[1]
+        date_digits = Time.parse("#{Time.now.year}-#{title}").strftime("%m%d")
       else
-        nil
+        title = raw.size > 2 ? raw[2] : "Unknown Episode"
+        date_digits = '\d\d\d\d'
+      end
+      
+      puts "  #{title}"
+      puts "    #{link}"
+      r = Typhoeus.get("http://www.cbsnews.com/#{link}")
+
+      h = r.body
+
+      raw = h.scan(/(media(\\\mpx)?\\\/201\d\\\/\d\d\\\/\d\d\\\/(\d+\\\/)?#{show_key}_(#{date_digits})_FULL_(NEW_)?796\.mp4)/i)
+      matches = raw[0].is_a?(Array) ? raw[0] : raw
+
+      if matches.empty?
+        puts "    No mp4 link found for: #{title}"
+      else
+        mp4_link = matches[0]
+        raw_date = matches[3]
+
+        year = Time.now.year
+        video_date = Time.parse("#{year}/#{raw_date.insert(2, '/')}")
+
+        if mp4_link
+          mp4_link.gsub!(/796/, '1296')
+          mp4_link.gsub!(/\\/, '')
+
+          {'title' => title, 'link' => mp4_link, 'date' => video_date}
+        else
+          nil
+        end
       end
     end
-  end.compact
+  end.compact.sort{|a,b| b['date'] <=> a['date'] }
 
   puts "Merging previous episodes..."
-  previous_episodes = YAML.load_file(SIXTY_MIN_FILE)
+  previous_episodes = YAML.load_file(output_file)
   previous_episodes ||= []
   previous_episodes.each do |previous_episode|
     if video_urls.index(previous_episode)
@@ -72,10 +85,21 @@ def update_cbs
       video_urls << previous_episode
     end
   end
-  File.open(SIXTY_MIN_FILE, "w+") do |f|
+  File.open(output_file, "w+") do |f|
     f.write(video_urls.to_yaml)
   end
 end
 
+def update_60min
+  puts "fetching 60Minutes feed..."
+  scrape_cbs_url("http://www.cbsnews.com/60-minutes/full-episodes/", "60", "_data/sixtymin.yml", ' (title="(.*)")')
+end
+
+def update_evening_news
+  puts "fetching EveningNews feed..."
+  scrape_cbs_url("http://www.cbsnews.com/evening-news/full-episodes/", "EN", "_data/evening_news.yml")
+end
+
 #update_tmz
-update_cbs
+update_60min
+update_evening_news
