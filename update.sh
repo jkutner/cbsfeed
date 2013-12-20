@@ -1,3 +1,4 @@
+cd /home/tmux/cbsfeed
 git pull origin gh-pages
 bundle exec ruby update.rb
 git add _data/*.yml
