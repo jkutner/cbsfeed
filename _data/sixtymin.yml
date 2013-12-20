@@ -1,24 +1,47 @@
 ---
 - title: Inside the NSA, The Copts
   link: media/2013/12/15/92167235830/60_1214_FULL_1296.mp4
-  date: 2013-12-14 00:00:00.000000000 -06:00
+  date: 2013-12-14 00:00:00.000000000 +00:00
 - title: Mandela, Survivor
   link: media/2013/12/08/84830787836/60_1208_FULL_1296.mp4
-  date: 2013-12-08 00:00:00.000000000 -06:00
+  date: 2013-12-08 00:00:00.000000000 +00:00
 - title: Amazon, The Capitol Dome, Free Diving
   link: media/2013/12/01/77776451591/60_1130_FULL_1296.mp4
-  date: 2013-11-30 00:00:00.000000000 -06:00
+  date: 2013-11-30 00:00:00.000000000 +00:00
 - title: The Gaskos, The War Within, Gladwell
   link: media/2013/11/24/71261763880/60_1123_FULL_1296.mp4
-  date: 2013-11-23 00:00:00.000000000 -06:00
+  date: 2013-11-23 00:00:00.000000000 +00:00
 - title: Gitmo, The Giving Pledge, The Recyclers
   link: !binary |-
     bWVkaWEvMjAxMy8xMS8xOC82NDY5OTk3MTcwMS82MF8xMTE3X0ZVTExfMTI5
     Ni5tcDQ=
-  date: 2013-11-17 00:00:00.000000000 -06:00
+  date: 2013-11-17 00:00:00.000000000 +00:00
 - title: 40 Million Mistakes, A Face in the Crowd, The Nile Crocodile
   link: media/2013/08/25/60_0825_full_1296.mp4
-  date: 2013-08-25 00:00:00.000000000 -05:00
+  date: 2013-08-25 00:00:00.000000000 +00:00
 - title: Morten Storm, Robin Hood, Free Diving
   link: media/2013/08/17/60_0818_FULL_1296.mp4
-  date: 2013-08-18 00:00:00.000000000 -05:00
+  date: 2013-08-18 00:00:00.000000000 +00:00
+- title: Inside the NSA, The Copts
+  link: media/2013/12/15/92167235830/60_1214_FULL_1296.mp4
+  date: 2013-12-14 06:00:00.000000000 +00:00
+- title: Mandela, Survivor
+  link: media/2013/12/08/84830787836/60_1208_FULL_1296.mp4
+  date: 2013-12-08 06:00:00.000000000 +00:00
+- title: Amazon, The Capitol Dome, Free Diving
+  link: media/2013/12/01/77776451591/60_1130_FULL_1296.mp4
+  date: 2013-11-30 06:00:00.000000000 +00:00
+- title: The Gaskos, The War Within, Gladwell
+  link: media/2013/11/24/71261763880/60_1123_FULL_1296.mp4
+  date: 2013-11-23 06:00:00.000000000 +00:00
+- title: Gitmo, The Giving Pledge, The Recyclers
+  link: !binary |-
+    bWVkaWEvMjAxMy8xMS8xOC82NDY5OTk3MTcwMS82MF8xMTE3X0ZVTExfMTI5
+    Ni5tcDQ=
+  date: 2013-11-17 06:00:00.000000000 +00:00
+- title: 40 Million Mistakes, A Face in the Crowd, The Nile Crocodile
+  link: media/2013/08/25/60_0825_full_1296.mp4
+  date: 2013-08-25 05:00:00.000000000 +00:00
+- title: Morten Storm, Robin Hood, Free Diving
+  link: media/2013/08/17/60_0818_FULL_1296.mp4
+  date: 2013-08-18 05:00:00.000000000 +00:00

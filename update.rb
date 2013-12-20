@@ -1,9 +1,8 @@
 require "rubygems"
+require "bundler/setup"
 require 'pry'
 require 'yaml'
 require 'time'
-
-gem 'typhoeus', '=0.6.6'
 require "typhoeus"
 
 def update_tmz
