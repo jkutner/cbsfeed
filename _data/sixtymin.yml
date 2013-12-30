@@ -1,45 +1,58 @@
 ---
 - title: Susan Rice, Rocky Mountain High, Quarterback Guru
   links:
-  - media/2013/12/22/98345027831/60_1222_FULL_1296.mp4
-  - 
-  - 
-  date: 2013-12-22 00:00:00.000000000 -06:00
+    mp4_240: media/2013/12/22/98345027831/60_1222_FULL_240.mp4
+    mp4_740: media/2013/12/22/98345027831/60_1222_FULL_740.mp4
+    mp4_796: media/2013/12/22/98345027831/60_1222_FULL_796.mp4
+    mp4_1296: media/2013/12/22/98345027831/60_1222_FULL_1296.mp4
+  date: 2013-12-22 00:00:00.000000000 +00:00
 - title: Inside the NSA, The Copts
   links:
-  - media/2013/12/15/92167235830/60_1214_FULL_1296.mp4
-  - 
-  - 
-  date: 2013-12-14 00:00:00.000000000 -06:00
+    mp4_240: media/2013/12/15/92167235830/60_1214_FULL_240.mp4
+    mp4_740: media/2013/12/15/92167235830/60_1214_FULL_740.mp4
+    mp4_796: media/2013/12/15/92167235830/60_1214_FULL_796.mp4
+    mp4_1296: media/2013/12/15/92167235830/60_1214_FULL_1296.mp4
+  date: 2013-12-14 00:00:00.000000000 +00:00
 - title: Mandela, Survivor
   links:
-  - media/2013/12/08/84830787836/60_1208_FULL_1296.mp4
-  - 
-  - 
-  date: 2013-12-08 00:00:00.000000000 -06:00
+    mp4_240: media/2013/12/08/84830787836/60_1208_FULL_240.mp4
+    mp4_740: media/2013/12/08/84830787836/60_1208_FULL_740.mp4
+    mp4_796: media/2013/12/08/84830787836/60_1208_FULL_796.mp4
+    mp4_1296: media/2013/12/08/84830787836/60_1208_FULL_1296.mp4
+  date: 2013-12-08 00:00:00.000000000 +00:00
 - title: Amazon, The Capitol Dome, Free Diving
   links:
-  - media/2013/12/01/77776451591/60_1130_FULL_1296.mp4
-  - 
-  - 
-  date: 2013-11-30 00:00:00.000000000 -06:00
+    mp4_240: media/2013/12/01/77776451591/60_1130_FULL_240.mp4
+    mp4_740: media/2013/12/01/77776451591/60_1130_FULL_740.mp4
+    mp4_796: media/2013/12/01/77776451591/60_1130_FULL_796.mp4
+    mp4_1296: media/2013/12/01/77776451591/60_1130_FULL_1296.mp4
+  date: 2013-11-30 00:00:00.000000000 +00:00
 - title: The Gaskos, The War Within, Gladwell
   links:
-  - media/2013/11/24/71261763880/60_1123_FULL_1296.mp4
-  - 
-  - 
-  date: 2013-11-23 00:00:00.000000000 -06:00
+    mp4_240: media/2013/11/24/71261763880/60_1123_FULL_240.mp4
+    mp4_740: media/2013/11/24/71261763880/60_1123_FULL_740.mp4
+    mp4_796: media/2013/11/24/71261763880/60_1123_FULL_796.mp4
+    mp4_1296: media/2013/11/24/71261763880/60_1123_FULL_1296.mp4
+  date: 2013-11-23 00:00:00.000000000 +00:00
 - title: Gitmo, The Giving Pledge, The Recyclers
   links:
-  - !binary |-
-    bWVkaWEvMjAxMy8xMS8xOC82NDY5OTk3MTcwMS82MF8xMTE3X0ZVTExfMTI5
-    Ni5tcDQ=
-  - 
-  - 
-  date: 2013-11-17 00:00:00.000000000 -06:00
+    mp4_240: !binary |-
+      bWVkaWEvMjAxMy8xMS8xOC82NDY5OTk3MTcwMS82MF8xMTE3X0ZVTExfMjQw
+      Lm1wNA==
+    mp4_740: !binary |-
+      bWVkaWEvMjAxMy8xMS8xOC82NDY5OTk3MTcwMS82MF8xMTE3X0ZVTExfNzQw
+      Lm1wNA==
+    mp4_796: !binary |-
+      bWVkaWEvMjAxMy8xMS8xOC82NDY5OTk3MTcwMS82MF8xMTE3X0ZVTExfNzk2
+      Lm1wNA==
+    mp4_1296: !binary |-
+      bWVkaWEvMjAxMy8xMS8xOC82NDY5OTk3MTcwMS82MF8xMTE3X0ZVTExfMTI5
+      Ni5tcDQ=
+  date: 2013-11-17 00:00:00.000000000 +00:00
 - title: 40 Million Mistakes, A Face in the Crowd, The Nile Crocodile
   links:
-  - media/2013/08/25/60_0825_full_1296.mp4
-  - 
-  - 
-  date: 2013-08-25 00:00:00.000000000 -05:00
+    mp4_240: media/2013/08/25/60_0825_full_240.mp4
+    mp4_740: media/2013/08/25/60_0825_full_740.mp4
+    mp4_796: media/2013/08/25/60_0825_full_796.mp4
+    mp4_1296: media/2013/08/25/60_0825_full_1296.mp4
+  date: 2013-08-25 00:00:00.000000000 +00:00
