@@ -1,91 +1,113 @@
 ---
 - title: !binary |-
     MTItMjg=
-  link: !binary |-
-    bWVkaWEvMjAxMy8xMi8yOS8xMDIxMTEyOTk5MTkvRU5fMTIyOF9GVUxMXzEy
-    OTYubXA0
-  date: 2013-12-28 00:00:00.000000000 +00:00
+  links:
+    mp4_240: !binary |-
+      bWVkaWEvMjAxMy8xMi8yOS8xMDIxMTEyOTk5MTkvRU5fMTIyOF9GVUxMXzI0
+      MC5tcDQ=
+    mp4_740: !binary |-
+      bWVkaWEvMjAxMy8xMi8yOS8xMDIxMTEyOTk5MTkvRU5fMTIyOF9GVUxMXzc0
+      MC5tcDQ=
+    mp4_796: !binary |-
+      bWVkaWEvMjAxMy8xMi8yOS8xMDIxMTEyOTk5MTkvRU5fMTIyOF9GVUxMXzc5
+      Ni5tcDQ=
+    mp4_1296: !binary |-
+      bWVkaWEvMjAxMy8xMi8yOS8xMDIxMTEyOTk5MTkvRU5fMTIyOF9GVUxMXzEy
+      OTYubXA0
+  date: 2013-12-28 00:00:00.000000000 -06:00
 - title: !binary |-
     MTItMjc=
-  link: !binary |-
-    bWVkaWEvMjAxMy8xMi8yOC8xMDE0NjcyMDM1NTQvRU5fMTIyN19GVUxMXzEy
-    OTYubXA0
-  date: 2013-12-27 00:00:00.000000000 +00:00
+  links:
+    mp4_240: !binary |-
+      bWVkaWEvMjAxMy8xMi8yOC8xMDE0NjcyMDM1NTQvRU5fMTIyN19GVUxMXzI0
+      MC5tcDQ=
+    mp4_740: !binary |-
+      bWVkaWEvMjAxMy8xMi8yOC8xMDE0NjcyMDM1NTQvRU5fMTIyN19GVUxMXzc0
+      MC5tcDQ=
+    mp4_796: !binary |-
+      bWVkaWEvMjAxMy8xMi8yOC8xMDE0NjcyMDM1NTQvRU5fMTIyN19GVUxMXzc5
+      Ni5tcDQ=
+    mp4_1296: !binary |-
+      bWVkaWEvMjAxMy8xMi8yOC8xMDE0NjcyMDM1NTQvRU5fMTIyN19GVUxMXzEy
+      OTYubXA0
+  date: 2013-12-27 00:00:00.000000000 -06:00
+- title: !binary |-
+    MTItMjY=
+  links:
+    mp4_240: !binary |-
+      bWVkaWEvbXB4LzIwMTMvMTIvMjcvMTAwNzEwNDY3NjYxL0VOXzEyMjZfRlVM
+      TF8yNDAubXA0
+    mp4_740: !binary |-
+      bWVkaWEvbXB4LzIwMTMvMTIvMjcvMTAwNzEwNDY3NjYxL0VOXzEyMjZfRlVM
+      TF83NDAubXA0
+    mp4_796: !binary |-
+      bWVkaWEvbXB4LzIwMTMvMTIvMjcvMTAwNzEwNDY3NjYxL0VOXzEyMjZfRlVM
+      TF83OTYubXA0
+    mp4_1296: !binary |-
+      bWVkaWEvbXB4LzIwMTMvMTIvMjcvMTAwNzEwNDY3NjYxL0VOXzEyMjZfRlVM
+      TF8xMjk2Lm1wNA==
+  date: 2013-12-26 00:00:00.000000000 -06:00
 - title: !binary |-
     MTItMjU=
-  link: !binary |-
-    bWVkaWEvMjAxMy8xMi8yNi8xMDAxNTAzMzk3MDQvRU5fMTIyNV9GVUxMXzEy
-    OTYubXA0
-  date: 2013-12-25 00:00:00.000000000 +00:00
-- title: "12-26"
-  link: "http://download.cbsnews.com/media/mpx/2013/12/27/100710467661/EN_1226_FULL_740.mp4"
-  date: 2013-26-12 00:00:00.000000000 +00:00
+  links:
+    mp4_240: !binary |-
+      bWVkaWEvMjAxMy8xMi8yNi8xMDAxNTAzMzk3MDQvRU5fMTIyNV9GVUxMXzI0
+      MC5tcDQ=
+    mp4_740: !binary |-
+      bWVkaWEvMjAxMy8xMi8yNi8xMDAxNTAzMzk3MDQvRU5fMTIyNV9GVUxMXzc0
+      MC5tcDQ=
+    mp4_796: !binary |-
+      bWVkaWEvMjAxMy8xMi8yNi8xMDAxNTAzMzk3MDQvRU5fMTIyNV9GVUxMXzc5
+      Ni5tcDQ=
+    mp4_1296: !binary |-
+      bWVkaWEvMjAxMy8xMi8yNi8xMDAxNTAzMzk3MDQvRU5fMTIyNV9GVUxMXzEy
+      OTYubXA0
+  date: 2013-12-25 00:00:00.000000000 -06:00
 - title: !binary |-
     MTItMjQ=
-  link: !binary |-
-    bWVkaWEvMjAxMy8xMi8yNS85OTY3ODI3NTc5NS9FTl8xMjI0X0ZVTExfMTI5
-    Ni5tcDQ=
-  date: 2013-12-24 00:00:00.000000000 +00:00
+  links:
+    mp4_240: !binary |-
+      bWVkaWEvMjAxMy8xMi8yNS85OTY3ODI3NTc5NS9FTl8xMjI0X0ZVTExfMjQw
+      Lm1wNA==
+    mp4_740: !binary |-
+      bWVkaWEvMjAxMy8xMi8yNS85OTY3ODI3NTc5NS9FTl8xMjI0X0ZVTExfNzQw
+      Lm1wNA==
+    mp4_796: !binary |-
+      bWVkaWEvMjAxMy8xMi8yNS85OTY3ODI3NTc5NS9FTl8xMjI0X0ZVTExfNzk2
+      Lm1wNA==
+    mp4_1296: !binary |-
+      bWVkaWEvMjAxMy8xMi8yNS85OTY3ODI3NTc5NS9FTl8xMjI0X0ZVTExfMTI5
+      Ni5tcDQ=
+  date: 2013-12-24 00:00:00.000000000 -06:00
 - title: !binary |-
     MTItMjM=
-  link: !binary |-
-    bWVkaWEvMjAxMy8xMi8yNC85OTA2MDgwMzUwNi9FTl8xMjIzX0Z1bGxfMTI5
-    Ni5tcDQ=
-  date: 2013-12-23 00:00:00.000000000 +00:00
+  links:
+    mp4_240: !binary |-
+      bWVkaWEvMjAxMy8xMi8yNC85OTA2MDgwMzUwNi9FTl8xMjIzX0Z1bGxfMjQw
+      Lm1wNA==
+    mp4_740: !binary |-
+      bWVkaWEvMjAxMy8xMi8yNC85OTA2MDgwMzUwNi9FTl8xMjIzX0Z1bGxfNzQw
+      Lm1wNA==
+    mp4_796: !binary |-
+      bWVkaWEvMjAxMy8xMi8yNC85OTA2MDgwMzUwNi9FTl8xMjIzX0Z1bGxfNzk2
+      Lm1wNA==
+    mp4_1296: !binary |-
+      bWVkaWEvMjAxMy8xMi8yNC85OTA2MDgwMzUwNi9FTl8xMjIzX0Z1bGxfMTI5
+      Ni5tcDQ=
+  date: 2013-12-23 00:00:00.000000000 -06:00
 - title: !binary |-
     MTItMjI=
-  link: !binary |-
-    bWVkaWEvMjAxMy8xMi8yMy85ODQ2OTQ0MzcxMy9FTl8xMjIyX0ZVTExfMTI5
-    Ni5tcDQ=
-  date: 2013-12-22 00:00:00.000000000 +00:00
-- title: !binary |-
-    MTItMjE=
-  link: !binary |-
-    bWVkaWEvMjAxMy8xMi8yMi85ODAxNjgzNTkzNC9FTl8xMjIxX0ZVTExfMTI5
-    Ni5tcDQ=
-  date: 2013-12-21 00:00:00.000000000 +00:00
-- title: !binary |-
-    MTItMjA=
-  link: !binary |-
-    bWVkaWEvMjAxMy8xMi8yMS85NzU2NjI3NTcxMS9FTl8xMjIwX0Z1bGxfTkVX
-    XzEyOTYubXA0
-  date: 2013-12-20 00:00:00.000000000 +00:00
-- title: !binary |-
-    MTItMTk=
-  link: !binary |-
-    bWVkaWEvMjAxMy8xMi8yMC85NzE0Mzg3NTgxNi9FTl8xMjE5X0ZVTExfMTI5
-    Ni5tcDQ=
-  date: 2013-12-19 00:00:00.000000000 +00:00
-- title: !binary |-
-    MTItMTg=
-  link: !binary |-
-    bWVkaWEvMjAxMy8xMi8xOS85NjA1MjgwMzY5Mi9FTl8xMjE4X0ZVTExfMTI5
-    Ni5tcDQ=
-  date: 2013-12-18 00:00:00.000000000 +00:00
-- title: !binary |-
-    MTItMTc=
-  link: !binary |-
-    bWVkaWEvMjAxMy8xMi8xOC85NDc2OTIxOTU2Mi9FTl8xMjE3X0ZVTExfMTI5
-    Ni5tcDQ=
-  date: 2013-12-17 00:00:00.000000000 +00:00
-- title: 12-16
-  link: media/2013/12/17/93503043989/EN_1216_Full_1296.mp4
-  date: 2013-12-16 00:00:00.000000000 +00:00
-- title: 12-15
-  link: media/2013/12/16/92337731945/EN_1215_FULL_1296.mp4
-  date: 2013-12-15 00:00:00.000000000 +00:00
-- title: 12-14
-  link: media/2013/12/15/91335747705/EN_1214_FULL_1296.mp4
-  date: 2013-12-14 00:00:00.000000000 +00:00
-- title: 12-13
-  link: media/2013/12/14/90357315739/EN_1213_FULL_1296.mp4
-  date: 2013-12-13 00:00:00.000000000 +00:00
-- title: 12-12
-  link: media/2013/12/13/89152579553/EN_1212_FULL_1296.mp4
-  date: 2013-12-12 00:00:00.000000000 +00:00
-- title: 12-11
-  link: media/2013/12/12/87996995930/EN_1211_FULL_NEW_1296.mp4
-  date: 2013-12-11 00:00:00.000000000 +00:00
-- title: 12-10
-  link: media/2013/12/11/86890051863/EN_1210_Full_1296.mp4
-  date: 2013-12-10 00:00:00.000000000 +00:00
+  links:
+    mp4_240: !binary |-
+      bWVkaWEvMjAxMy8xMi8yMy85ODQ2OTQ0MzcxMy9FTl8xMjIyX0ZVTExfMjQw
+      Lm1wNA==
+    mp4_740: !binary |-
+      bWVkaWEvMjAxMy8xMi8yMy85ODQ2OTQ0MzcxMy9FTl8xMjIyX0ZVTExfNzQw
+      Lm1wNA==
+    mp4_796: !binary |-
+      bWVkaWEvMjAxMy8xMi8yMy85ODQ2OTQ0MzcxMy9FTl8xMjIyX0ZVTExfNzk2
+      Lm1wNA==
+    mp4_1296: !binary |-
+      bWVkaWEvMjAxMy8xMi8yMy85ODQ2OTQ0MzcxMy9FTl8xMjIyX0ZVTExfMTI5
+      Ni5tcDQ=
+  date: 2013-12-22 00:00:00.000000000 -06:00

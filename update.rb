@@ -22,6 +22,15 @@ def update_tmz
   end
 end
 
+def cbs_link_pattern(show_key, date_digits, size)
+ /(media(\\\/mpx)?\\\/201\d\\\/\d\d\\\/\d\d\\\/(\d+\\\/)?#{show_key}_(#{date_digits})_FULL_(NEW_)?#{size}\.mp4)/i
+end
+
+def fetch_cbs_matches(html, show_key, date_digits, size)
+  raw = html.scan(cbs_link_pattern(show_key, date_digits, size))
+  raw[0].is_a?(Array) ? raw[0] : raw
+end
+
 def scrape_cbs_url(url, show_key, output_file, extra_re='') 
   response = Typhoeus.get(url)
   html = response.body
@@ -50,8 +59,7 @@ def scrape_cbs_url(url, show_key, output_file, extra_re='')
 
       h = r.body
 
-      raw = h.scan(/(media(\\\mpx)?\\\/201\d\\\/\d\d\\\/\d\d\\\/(\d+\\\/)?#{show_key}_(#{date_digits})_FULL_(NEW_)?796\.mp4)/i)
-      matches = raw[0].is_a?(Array) ? raw[0] : raw
+      matches = fetch_cbs_matches(h, show_key, date_digits, '(796|740|240)')
 
       if matches.empty?
         puts "    No mp4 link found for: #{title}"
@@ -63,10 +71,20 @@ def scrape_cbs_url(url, show_key, output_file, extra_re='')
         video_date = Time.parse("#{year}/#{raw_date.insert(2, '/')}")
 
         if mp4_link
-          mp4_link.gsub!(/796/, '1296')
-          mp4_link.gsub!(/\\/, '')
+          links = ['240', '740', '796', '1296'].map do |size|
+            mp4_link.gsub!(/240/, size)
+            mp4_link.gsub!(/740/, size)
+            mp4_link.gsub!(/796/, size)
+            mp4_link.gsub!(/\\/, '')
+            mp4_link.dup
+          end
 
-          {'title' => title, 'link' => mp4_link, 'date' => video_date}
+          {'title' => title, 'links' => {
+            'mp4_240' => links[0],
+            'mp4_740' => links[1],
+            'mp4_796' => links[2],
+            'mp4_1296' => links[3]}, 
+          'date' => video_date}
         else
           nil
         end
@@ -85,7 +103,7 @@ def scrape_cbs_url(url, show_key, output_file, extra_re='')
     end
   end
   File.open(output_file, "w+") do |f|
-    f.write(video_urls.to_yaml)
+    f.write(video_urls[0..6].to_yaml)
   end
 end
 
