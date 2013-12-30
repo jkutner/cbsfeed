@@ -2,6 +2,7 @@
 
 cd /home/tmux/cbsfeed
 
+date
 git pull origin gh-pages
 echo "Running the update script with bundler..."
 ruby update.rb 
