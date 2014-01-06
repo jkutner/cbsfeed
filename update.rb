@@ -23,7 +23,7 @@ def update_tmz
 end
 
 def cbs_link_pattern(show_key, date_digits, size)
- /(media(\\\/mpx)?\\\/201\d\\\/\d\d\\\/\d\d\\\/(\d+\\\/)?#{show_key}_(#{date_digits})_FULL_(NEW_)?#{size}\.mp4)/i
+ /(media(\\\/mpx)?\\\/201\d\\\/\d\d\\\/\d\d\\\/(\d+\\\/)?#{show_key}_(#{date_digits})(1\d)?_FULL_?(NEW_)?#{size}\.mp4)/i
 end
 
 def fetch_cbs_matches(html, show_key, date_digits, size)
