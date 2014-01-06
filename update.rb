@@ -103,7 +103,7 @@ def scrape_cbs_url(url, show_key, output_file, extra_re='')
     end
   end
   File.open(output_file, "w+") do |f|
-    f.write(video_urls[0..6].to_yaml)
+    f.write(video_urls.to_yaml)
   end
 end
 
