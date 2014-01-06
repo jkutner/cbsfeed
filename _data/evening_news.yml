@@ -1,195 +1,87 @@
 ---
-- title: !binary |-
-    MTItMzE=
+- title: 12-31
   links:
-    mp4_240: !binary |-
-      bWVkaWEvMjAxNC8wMS8wMS8xMDQxNTk4MTE2MDMvRU5fMTIzMV9GVUxMXzI0
-      MC5tcDQ=
-    mp4_740: !binary |-
-      bWVkaWEvMjAxNC8wMS8wMS8xMDQxNTk4MTE2MDMvRU5fMTIzMV9GVUxMXzc0
-      MC5tcDQ=
-    mp4_796: !binary |-
-      bWVkaWEvMjAxNC8wMS8wMS8xMDQxNTk4MTE2MDMvRU5fMTIzMV9GVUxMXzc5
-      Ni5tcDQ=
-    mp4_1296: !binary |-
-      bWVkaWEvMjAxNC8wMS8wMS8xMDQxNTk4MTE2MDMvRU5fMTIzMV9GVUxMXzEy
-      OTYubXA0
+    mp4_240: media/2014/01/01/104159811603/EN_1231_FULL_240.mp4
+    mp4_740: media/2014/01/01/104159811603/EN_1231_FULL_740.mp4
+    mp4_796: media/2014/01/01/104159811603/EN_1231_FULL_796.mp4
+    mp4_1296: media/2014/01/01/104159811603/EN_1231_FULL_1296.mp4
   date: 2014-12-31 00:00:00.000000000 +00:00
-- title: !binary |-
-    MTItMzA=
+- title: 12-30
   links:
-    mp4_240: !binary |-
-      bWVkaWEvMjAxMy8xMi8zMS8xMDM0NDQwMzU2MzQvRU5fMTIzMF9GVUxMXzI0
-      MC5tcDQ=
-    mp4_740: !binary |-
-      bWVkaWEvMjAxMy8xMi8zMS8xMDM0NDQwMzU2MzQvRU5fMTIzMF9GVUxMXzc0
-      MC5tcDQ=
-    mp4_796: !binary |-
-      bWVkaWEvMjAxMy8xMi8zMS8xMDM0NDQwMzU2MzQvRU5fMTIzMF9GVUxMXzc5
-      Ni5tcDQ=
-    mp4_1296: !binary |-
-      bWVkaWEvMjAxMy8xMi8zMS8xMDM0NDQwMzU2MzQvRU5fMTIzMF9GVUxMXzEy
-      OTYubXA0
+    mp4_240: media/2013/12/31/103444035634/EN_1230_FULL_240.mp4
+    mp4_740: media/2013/12/31/103444035634/EN_1230_FULL_740.mp4
+    mp4_796: media/2013/12/31/103444035634/EN_1230_FULL_796.mp4
+    mp4_1296: media/2013/12/31/103444035634/EN_1230_FULL_1296.mp4
   date: 2014-12-30 00:00:00.000000000 +00:00
-- title: !binary |-
-    MTItMjk=
+- title: 12-29
   links:
-    mp4_240: !binary |-
-      bWVkaWEvMjAxMy8xMi8zMC8xMDI4MDYwODM3NTMvRU5fMTIyOV9GVUxMXzI0
-      MC5tcDQ=
-    mp4_740: !binary |-
-      bWVkaWEvMjAxMy8xMi8zMC8xMDI4MDYwODM3NTMvRU5fMTIyOV9GVUxMXzc0
-      MC5tcDQ=
-    mp4_796: !binary |-
-      bWVkaWEvMjAxMy8xMi8zMC8xMDI4MDYwODM3NTMvRU5fMTIyOV9GVUxMXzc5
-      Ni5tcDQ=
-    mp4_1296: !binary |-
-      bWVkaWEvMjAxMy8xMi8zMC8xMDI4MDYwODM3NTMvRU5fMTIyOV9GVUxMXzEy
-      OTYubXA0
+    mp4_240: media/2013/12/30/102806083753/EN_1229_FULL_240.mp4
+    mp4_740: media/2013/12/30/102806083753/EN_1229_FULL_740.mp4
+    mp4_796: media/2013/12/30/102806083753/EN_1229_FULL_796.mp4
+    mp4_1296: media/2013/12/30/102806083753/EN_1229_FULL_1296.mp4
   date: 2014-12-29 00:00:00.000000000 +00:00
-- title: !binary |-
-    MTItMjg=
+- title: 12-28
   links:
-    mp4_240: !binary |-
-      bWVkaWEvMjAxMy8xMi8yOS8xMDIxMTEyOTk5MTkvRU5fMTIyOF9GVUxMXzI0
-      MC5tcDQ=
-    mp4_740: !binary |-
-      bWVkaWEvMjAxMy8xMi8yOS8xMDIxMTEyOTk5MTkvRU5fMTIyOF9GVUxMXzc0
-      MC5tcDQ=
-    mp4_796: !binary |-
-      bWVkaWEvMjAxMy8xMi8yOS8xMDIxMTEyOTk5MTkvRU5fMTIyOF9GVUxMXzc5
-      Ni5tcDQ=
-    mp4_1296: !binary |-
-      bWVkaWEvMjAxMy8xMi8yOS8xMDIxMTEyOTk5MTkvRU5fMTIyOF9GVUxMXzEy
-      OTYubXA0
+    mp4_240: media/2013/12/29/102111299919/EN_1228_FULL_240.mp4
+    mp4_740: media/2013/12/29/102111299919/EN_1228_FULL_740.mp4
+    mp4_796: media/2013/12/29/102111299919/EN_1228_FULL_796.mp4
+    mp4_1296: media/2013/12/29/102111299919/EN_1228_FULL_1296.mp4
   date: 2014-12-28 00:00:00.000000000 +00:00
-- title: !binary |-
-    MTItMjc=
+- title: 12-27
   links:
-    mp4_240: !binary |-
-      bWVkaWEvMjAxMy8xMi8yOC8xMDE0NjcyMDM1NTQvRU5fMTIyN19GVUxMXzI0
-      MC5tcDQ=
-    mp4_740: !binary |-
-      bWVkaWEvMjAxMy8xMi8yOC8xMDE0NjcyMDM1NTQvRU5fMTIyN19GVUxMXzc0
-      MC5tcDQ=
-    mp4_796: !binary |-
-      bWVkaWEvMjAxMy8xMi8yOC8xMDE0NjcyMDM1NTQvRU5fMTIyN19GVUxMXzc5
-      Ni5tcDQ=
-    mp4_1296: !binary |-
-      bWVkaWEvMjAxMy8xMi8yOC8xMDE0NjcyMDM1NTQvRU5fMTIyN19GVUxMXzEy
-      OTYubXA0
+    mp4_240: media/2013/12/28/101467203554/EN_1227_FULL_240.mp4
+    mp4_740: media/2013/12/28/101467203554/EN_1227_FULL_740.mp4
+    mp4_796: media/2013/12/28/101467203554/EN_1227_FULL_796.mp4
+    mp4_1296: media/2013/12/28/101467203554/EN_1227_FULL_1296.mp4
   date: 2014-12-27 00:00:00.000000000 +00:00
-- title: !binary |-
-    MTItMjY=
+- title: 12-26
   links:
-    mp4_240: !binary |-
-      bWVkaWEvbXB4LzIwMTMvMTIvMjcvMTAwNzEwNDY3NjYxL0VOXzEyMjZfRlVM
-      TF8yNDAubXA0
-    mp4_740: !binary |-
-      bWVkaWEvbXB4LzIwMTMvMTIvMjcvMTAwNzEwNDY3NjYxL0VOXzEyMjZfRlVM
-      TF83NDAubXA0
-    mp4_796: !binary |-
-      bWVkaWEvbXB4LzIwMTMvMTIvMjcvMTAwNzEwNDY3NjYxL0VOXzEyMjZfRlVM
-      TF83OTYubXA0
-    mp4_1296: !binary |-
-      bWVkaWEvbXB4LzIwMTMvMTIvMjcvMTAwNzEwNDY3NjYxL0VOXzEyMjZfRlVM
-      TF8xMjk2Lm1wNA==
+    mp4_240: media/mpx/2013/12/27/100710467661/EN_1226_FULL_240.mp4
+    mp4_740: media/mpx/2013/12/27/100710467661/EN_1226_FULL_740.mp4
+    mp4_796: media/mpx/2013/12/27/100710467661/EN_1226_FULL_796.mp4
+    mp4_1296: media/mpx/2013/12/27/100710467661/EN_1226_FULL_1296.mp4
   date: 2014-12-26 00:00:00.000000000 +00:00
-- title: !binary |-
-    MTItMjU=
+- title: 12-25
   links:
-    mp4_240: !binary |-
-      bWVkaWEvMjAxMy8xMi8yNi8xMDAxNTAzMzk3MDQvRU5fMTIyNV9GVUxMXzI0
-      MC5tcDQ=
-    mp4_740: !binary |-
-      bWVkaWEvMjAxMy8xMi8yNi8xMDAxNTAzMzk3MDQvRU5fMTIyNV9GVUxMXzc0
-      MC5tcDQ=
-    mp4_796: !binary |-
-      bWVkaWEvMjAxMy8xMi8yNi8xMDAxNTAzMzk3MDQvRU5fMTIyNV9GVUxMXzc5
-      Ni5tcDQ=
-    mp4_1296: !binary |-
-      bWVkaWEvMjAxMy8xMi8yNi8xMDAxNTAzMzk3MDQvRU5fMTIyNV9GVUxMXzEy
-      OTYubXA0
+    mp4_240: media/2013/12/26/100150339704/EN_1225_FULL_240.mp4
+    mp4_740: media/2013/12/26/100150339704/EN_1225_FULL_740.mp4
+    mp4_796: media/2013/12/26/100150339704/EN_1225_FULL_796.mp4
+    mp4_1296: media/2013/12/26/100150339704/EN_1225_FULL_1296.mp4
   date: 2014-12-25 00:00:00.000000000 +00:00
-- title: !binary |-
-    MTItMjQ=
+- title: 12-24
   links:
-    mp4_240: !binary |-
-      bWVkaWEvMjAxMy8xMi8yNS85OTY3ODI3NTc5NS9FTl8xMjI0X0ZVTExfMjQw
-      Lm1wNA==
-    mp4_740: !binary |-
-      bWVkaWEvMjAxMy8xMi8yNS85OTY3ODI3NTc5NS9FTl8xMjI0X0ZVTExfNzQw
-      Lm1wNA==
-    mp4_796: !binary |-
-      bWVkaWEvMjAxMy8xMi8yNS85OTY3ODI3NTc5NS9FTl8xMjI0X0ZVTExfNzk2
-      Lm1wNA==
-    mp4_1296: !binary |-
-      bWVkaWEvMjAxMy8xMi8yNS85OTY3ODI3NTc5NS9FTl8xMjI0X0ZVTExfMTI5
-      Ni5tcDQ=
+    mp4_240: media/2013/12/25/99678275795/EN_1224_FULL_240.mp4
+    mp4_740: media/2013/12/25/99678275795/EN_1224_FULL_740.mp4
+    mp4_796: media/2013/12/25/99678275795/EN_1224_FULL_796.mp4
+    mp4_1296: media/2013/12/25/99678275795/EN_1224_FULL_1296.mp4
   date: 2014-12-24 00:00:00.000000000 +00:00
-- title: !binary |-
-    MS00
+- title: 1-4
   links:
-    mp4_240: !binary |-
-      bWVkaWEvMjAxNC8wMS8wNS8xMDcwNTIwOTk4ODMvRU5fMDEwNF9GVUxMTkVX
-      XzI0MC5tcDQ=
-    mp4_740: !binary |-
-      bWVkaWEvMjAxNC8wMS8wNS8xMDcwNTIwOTk4ODMvRU5fMDEwNF9GVUxMTkVX
-      Xzc0MC5tcDQ=
-    mp4_796: !binary |-
-      bWVkaWEvMjAxNC8wMS8wNS8xMDcwNTIwOTk4ODMvRU5fMDEwNF9GVUxMTkVX
-      Xzc5Ni5tcDQ=
-    mp4_1296: !binary |-
-      bWVkaWEvMjAxNC8wMS8wNS8xMDcwNTIwOTk4ODMvRU5fMDEwNF9GVUxMTkVX
-      XzEyOTYubXA0
+    mp4_240: media/2014/01/05/107052099883/EN_0104_FULLNEW_240.mp4
+    mp4_740: media/2014/01/05/107052099883/EN_0104_FULLNEW_740.mp4
+    mp4_796: media/2014/01/05/107052099883/EN_0104_FULLNEW_796.mp4
+    mp4_1296: media/2014/01/05/107052099883/EN_0104_FULLNEW_1296.mp4
   date: 2014-01-04 00:00:00.000000000 +00:00
-- title: !binary |-
-    MS0z
+- title: 1-3
   links:
-    mp4_240: !binary |-
-      bWVkaWEvMjAxNC8wMS8wNC8xMDYzMDQwNjc5MzAvRU5fMDEwMzE0X0ZVTExf
-      MjQwLm1wNA==
-    mp4_740: !binary |-
-      bWVkaWEvMjAxNC8wMS8wNC8xMDYzMDQwNjc5MzAvRU5fMDEwMzE0X0ZVTExf
-      NzQwLm1wNA==
-    mp4_796: !binary |-
-      bWVkaWEvMjAxNC8wMS8wNC8xMDYzMDQwNjc5MzAvRU5fMDEwMzE0X0ZVTExf
-      Nzk2Lm1wNA==
-    mp4_1296: !binary |-
-      bWVkaWEvMjAxNC8wMS8wNC8xMDYzMDQwNjc5MzAvRU5fMDEwMzE0X0ZVTExf
-      MTI5Ni5tcDQ=
+    mp4_240: media/2014/01/04/106304067930/EN_010314_FULL_240.mp4
+    mp4_740: media/2014/01/04/106304067930/EN_010314_FULL_740.mp4
+    mp4_796: media/2014/01/04/106304067930/EN_010314_FULL_796.mp4
+    mp4_1296: media/2014/01/04/106304067930/EN_010314_FULL_1296.mp4
   date: 2014-01-03 00:00:00.000000000 +00:00
-- title: !binary |-
-    MS0y
+- title: 1-2
   links:
-    mp4_240: !binary |-
-      bWVkaWEvMjAxNC8wMS8wMy8xMDU2MTU0Mjc3NTYvRU5fMDEwMjE0X0ZVTExf
-      MjQwLm1wNA==
-    mp4_740: !binary |-
-      bWVkaWEvMjAxNC8wMS8wMy8xMDU2MTU0Mjc3NTYvRU5fMDEwMjE0X0ZVTExf
-      NzQwLm1wNA==
-    mp4_796: !binary |-
-      bWVkaWEvMjAxNC8wMS8wMy8xMDU2MTU0Mjc3NTYvRU5fMDEwMjE0X0ZVTExf
-      Nzk2Lm1wNA==
-    mp4_1296: !binary |-
-      bWVkaWEvMjAxNC8wMS8wMy8xMDU2MTU0Mjc3NTYvRU5fMDEwMjE0X0ZVTExf
-      MTI5Ni5tcDQ=
+    mp4_240: media/2014/01/03/105615427756/EN_010214_FULL_240.mp4
+    mp4_740: media/2014/01/03/105615427756/EN_010214_FULL_740.mp4
+    mp4_796: media/2014/01/03/105615427756/EN_010214_FULL_796.mp4
+    mp4_1296: media/2014/01/03/105615427756/EN_010214_FULL_1296.mp4
   date: 2014-01-02 00:00:00.000000000 +00:00
-- title: !binary |-
-    MS0x
+- title: 1-1
   links:
-    mp4_240: !binary |-
-      bWVkaWEvMjAxNC8wMS8wMi8xMDQ5MTI0NTE5NTMvRU5fMDEwMV9GVUxMXzI0
-      MC5tcDQ=
-    mp4_740: !binary |-
-      bWVkaWEvMjAxNC8wMS8wMi8xMDQ5MTI0NTE5NTMvRU5fMDEwMV9GVUxMXzc0
-      MC5tcDQ=
-    mp4_796: !binary |-
-      bWVkaWEvMjAxNC8wMS8wMi8xMDQ5MTI0NTE5NTMvRU5fMDEwMV9GVUxMXzc5
-      Ni5tcDQ=
-    mp4_1296: !binary |-
-      bWVkaWEvMjAxNC8wMS8wMi8xMDQ5MTI0NTE5NTMvRU5fMDEwMV9GVUxMXzEy
-      OTYubXA0
+    mp4_240: media/2014/01/02/104912451953/EN_0101_FULL_240.mp4
+    mp4_740: media/2014/01/02/104912451953/EN_0101_FULL_740.mp4
+    mp4_796: media/2014/01/02/104912451953/EN_0101_FULL_796.mp4
+    mp4_1296: media/2014/01/02/104912451953/EN_0101_FULL_1296.mp4
   date: 2014-01-01 00:00:00.000000000 +00:00
 - title: 12-23
   links:
