@@ -69,13 +69,6 @@
     mp4_796: media/2014/01/05/107532867684/60_0105_FULL_796.mp4
     mp4_1296: media/2014/01/05/107532867684/60_0105_FULL_1296.mp4
   date: 2014-01-05 00:00:00.000000000 +00:00
-- title: The Gaskos, The War Within, Gladwell
-  links:
-    mp4_240: media/2013/11/24/71261763880/60_1123_FULL_240.mp4
-    mp4_740: media/2013/11/24/71261763880/60_1123_FULL_740.mp4
-    mp4_796: media/2013/11/24/71261763880/60_1123_FULL_796.mp4
-    mp4_1296: media/2013/11/24/71261763880/60_1123_FULL_1296.mp4
-  date: 2014-11-23 00:00:00.000000000 +00:00
 - title: The Cleantech Crash, Hollywood’s Villain, Volcanoes
   links:
     mp4_240: media/2014/01/05/107532867684/60_0105_FULL_240.mp4
@@ -83,6 +76,13 @@
     mp4_796: media/2014/01/05/107532867684/60_0105_FULL_796.mp4
     mp4_1296: media/2014/01/05/107532867684/60_0105_FULL_1296.mp4
   date: 2014-01-05 00:00:00.000000000 +00:00
+- title: The Gaskos, The War Within, Gladwell
+  links:
+    mp4_240: media/2013/11/24/71261763880/60_1123_FULL_240.mp4
+    mp4_740: media/2013/11/24/71261763880/60_1123_FULL_740.mp4
+    mp4_796: media/2013/11/24/71261763880/60_1123_FULL_796.mp4
+    mp4_1296: media/2013/11/24/71261763880/60_1123_FULL_1296.mp4
+  date: 2014-11-23 00:00:00.000000000 +00:00
 - title: Gitmo, The Giving Pledge, The Recyclers
   links:
     mp4_240: media/2013/11/18/64699971701/60_1117_FULL_240.mp4
