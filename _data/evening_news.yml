@@ -1,4 +1,18 @@
 ---
+- title: 8-23
+  links:
+    mp4_240: media/2013/08/23/en_0823_full_240.mp4
+    mp4_740: media/2013/08/23/en_0823_full_740.mp4
+    mp4_796: media/2013/08/23/en_0823_full_796.mp4
+    mp4_1296: media/2013/08/23/en_0823_full_1296.mp4
+  date: 2014-08-23 00:00:00.000000000 +00:00
+- title: 6-17
+  links:
+    mp4_240: media/mpx/2013/06/17/EN_0617_Full_240.mp4
+    mp4_740: media/mpx/2013/06/17/EN_0617_Full_740.mp4
+    mp4_796: media/mpx/2013/06/17/EN_0617_Full_796.mp4
+    mp4_1296: media/mpx/2013/06/17/EN_0617_Full_1296.mp4
+  date: 2014-06-17 00:00:00.000000000 +00:00
 - title: 1-15
   links:
     mp4_240: media/2014/01/16/117956675971/EN_0115_Full_240.mp4
