@@ -34,13 +34,6 @@
     mp4_796: media/2013/08/25/60_0825_full_796.mp4
     mp4_1296: media/2013/08/25/60_0825_full_1296.mp4
   date: 2014-08-25 00:00:00.000000000 +00:00
-- title: Morten Storm, Robin Hood, Free Diving
-  links:
-    mp4_240: media/2013/08/17/60_0818_FULL_240.mp4
-    mp4_740: media/2013/08/17/60_0818_FULL_740.mp4
-    mp4_796: media/2013/08/17/60_0818_FULL_796.mp4
-    mp4_1296: media/2013/08/17/60_0818_FULL_1296.mp4
-  date: 2014-08-18 00:00:00.000000000 +00:00
 - title: Sheryl Sandberg, David McCullough
   links:
     mp4_240: media/mpx/2013/06/29/60_0629_FULL_240.mp4
@@ -62,13 +55,13 @@
     mp4_796: media/2014/01/05/107532867684/60_0105_FULL_796.mp4
     mp4_1296: media/2014/01/05/107532867684/60_0105_FULL_1296.mp4
   date: 2014-01-05 00:00:00.000000000 +00:00
-- title: The Super Cartel, Sticker Shock, Barca
+- title: Morten Storm, Robin Hood, Free Diving
   links:
-    mp4_240: media/mpx/2013/06/16/60_0616_FULL_240.mp4
-    mp4_740: media/mpx/2013/06/16/60_0616_FULL_740.mp4
-    mp4_796: media/mpx/2013/06/16/60_0616_FULL_796.mp4
-    mp4_1296: media/mpx/2013/06/16/60_0616_FULL_1296.mp4
-  date: 2014-06-16 00:00:00.000000000 +00:00
+    mp4_240: media/2013/08/17/60_0818_FULL_240.mp4
+    mp4_740: media/2013/08/17/60_0818_FULL_740.mp4
+    mp4_796: media/2013/08/17/60_0818_FULL_796.mp4
+    mp4_1296: media/2013/08/17/60_0818_FULL_1296.mp4
+  date: 2014-08-18 00:00:00.000000000 +00:00
 - title: The Cleantech Crash, Hollywood’s Villain, Volcanoes
   links:
     mp4_240: media/2014/01/05/107532867684/60_0105_FULL_240.mp4
@@ -76,6 +69,13 @@
     mp4_796: media/2014/01/05/107532867684/60_0105_FULL_796.mp4
     mp4_1296: media/2014/01/05/107532867684/60_0105_FULL_1296.mp4
   date: 2014-01-05 00:00:00.000000000 +00:00
+- title: The Super Cartel, Sticker Shock, Barca
+  links:
+    mp4_240: media/mpx/2013/06/16/60_0616_FULL_240.mp4
+    mp4_740: media/mpx/2013/06/16/60_0616_FULL_740.mp4
+    mp4_796: media/mpx/2013/06/16/60_0616_FULL_796.mp4
+    mp4_1296: media/mpx/2013/06/16/60_0616_FULL_1296.mp4
+  date: 2014-06-16 00:00:00.000000000 +00:00
 - title: The Gaskos, The War Within, Gladwell
   links:
     mp4_240: media/2013/11/24/71261763880/60_1123_FULL_240.mp4
