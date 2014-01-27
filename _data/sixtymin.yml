@@ -20,13 +20,6 @@
     mp4_796: media/2013/12/08/84830787836/60_1208_FULL_796.mp4
     mp4_1296: media/2013/12/08/84830787836/60_1208_FULL_1296.mp4
   date: 2014-12-08 00:00:00.000000000 +00:00
-- title: Amazon, The Capitol Dome, Free Diving
-  links:
-    mp4_240: media/2013/12/01/77776451591/60_1130_FULL_240.mp4
-    mp4_740: media/2013/12/01/77776451591/60_1130_FULL_740.mp4
-    mp4_796: media/2013/12/01/77776451591/60_1130_FULL_796.mp4
-    mp4_1296: media/2013/12/01/77776451591/60_1130_FULL_1296.mp4
-  date: 2014-11-30 00:00:00.000000000 +00:00
 - title: 40 Million Mistakes, A Face in the Crowd, The Nile Crocodile
   links:
     mp4_240: media/2013/08/25/60_0825_full_240.mp4
@@ -55,6 +48,13 @@
     mp4_796: media/mpx/2013/06/16/60_0616_FULL_796.mp4
     mp4_1296: media/mpx/2013/06/16/60_0616_FULL_1296.mp4
   date: 2014-06-16 00:00:00.000000000 +00:00
+- title: Nowhere to Go, Help Wanted, Jay Leno
+  links:
+    mp4_240: media/2014/01/26/127432259619/60_0126_FULL_240.mp4
+    mp4_740: media/2014/01/26/127432259619/60_0126_FULL_740.mp4
+    mp4_796: media/2014/01/26/127432259619/60_0126_FULL_796.mp4
+    mp4_1296: media/2014/01/26/127432259619/60_0126_FULL_1296.mp4
+  date: 2014-01-26 00:00:00.000000000 +00:00
 - title: The Case of Alex Rodriguez, Memory Wizards
   links:
     mp4_240: media/2014/01/13/115037251907/60_0112_FULL_240.mp4
@@ -69,6 +69,13 @@
     mp4_796: media/2014/01/05/107532867684/60_0105_FULL_796.mp4
     mp4_1296: media/2014/01/05/107532867684/60_0105_FULL_1296.mp4
   date: 2014-01-05 00:00:00.000000000 +00:00
+- title: Amazon, The Capitol Dome, Free Diving
+  links:
+    mp4_240: media/2013/12/01/77776451591/60_1130_FULL_240.mp4
+    mp4_740: media/2013/12/01/77776451591/60_1130_FULL_740.mp4
+    mp4_796: media/2013/12/01/77776451591/60_1130_FULL_796.mp4
+    mp4_1296: media/2013/12/01/77776451591/60_1130_FULL_1296.mp4
+  date: 2014-11-30 00:00:00.000000000 +00:00
 - title: The Cleantech Crash, Hollywood’s Villain, Volcanoes
   links:
     mp4_240: media/2014/01/05/107532867684/60_0105_FULL_240.mp4
