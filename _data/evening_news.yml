@@ -1,96 +1,43 @@
 ---
-- title: !binary |-
-    Mi00
+- title: 2-4
   links:
-    mp4_240: !binary |-
-      bWVkaWEvMjAxNC8wMi8wNS8xMzg2NTgzNzE2MzYvRU5fMDIwNF9GVUxMX0ZJ
-      WF8yNDAubXA0
-    mp4_740: !binary |-
-      bWVkaWEvMjAxNC8wMi8wNS8xMzg2NTgzNzE2MzYvRU5fMDIwNF9GVUxMX0ZJ
-      WF83NDAubXA0
-    mp4_796: !binary |-
-      bWVkaWEvMjAxNC8wMi8wNS8xMzg2NTgzNzE2MzYvRU5fMDIwNF9GVUxMX0ZJ
-      WF83OTYubXA0
-    mp4_1296: !binary |-
-      bWVkaWEvMjAxNC8wMi8wNS8xMzg2NTgzNzE2MzYvRU5fMDIwNF9GVUxMX0ZJ
-      WF8xMjk2Lm1wNA==
-  date: 2014-02-04 00:00:00.000000000 -06:00
-- title: !binary |-
-    Mi0z
+    mp4_240: media/2014/02/05/138658371636/EN_0204_FULL_FIX_240.mp4
+    mp4_740: media/2014/02/05/138658371636/EN_0204_FULL_FIX_740.mp4
+    mp4_796: media/2014/02/05/138658371636/EN_0204_FULL_FIX_796.mp4
+    mp4_1296: media/2014/02/05/138658371636/EN_0204_FULL_FIX_1296.mp4
+  date: 2014-02-04 00:00:00.000000000 +00:00
+- title: 2-3
   links:
-    mp4_240: !binary |-
-      bWVkaWEvMjAxNC8wMi8wNS8xMzg3MDQ0NTE2MjYvRU5fMDIwMzE0X0ZVTExf
-      RklYXzI0MC5tcDQ=
-    mp4_740: !binary |-
-      bWVkaWEvMjAxNC8wMi8wNS8xMzg3MDQ0NTE2MjYvRU5fMDIwMzE0X0ZVTExf
-      RklYXzc0MC5tcDQ=
-    mp4_796: !binary |-
-      bWVkaWEvMjAxNC8wMi8wNS8xMzg3MDQ0NTE2MjYvRU5fMDIwMzE0X0ZVTExf
-      RklYXzc5Ni5tcDQ=
-    mp4_1296: !binary |-
-      bWVkaWEvMjAxNC8wMi8wNS8xMzg3MDQ0NTE2MjYvRU5fMDIwMzE0X0ZVTExf
-      RklYXzEyOTYubXA0
-  date: 2014-02-03 00:00:00.000000000 -06:00
-- title: !binary |-
-    Mi0y
+    mp4_240: media/2014/02/05/138704451626/EN_020314_FULL_FIX_240.mp4
+    mp4_740: media/2014/02/05/138704451626/EN_020314_FULL_FIX_740.mp4
+    mp4_796: media/2014/02/05/138704451626/EN_020314_FULL_FIX_796.mp4
+    mp4_1296: media/2014/02/05/138704451626/EN_020314_FULL_FIX_1296.mp4
+  date: 2014-02-03 00:00:00.000000000 +00:00
+- title: 2-2
   links:
-    mp4_240: !binary |-
-      bWVkaWEvMjAxNC8wMi8wMy8xMzUwNjc3MTU1NjkvRU5fMDIwMl9GVUxMTkVX
-      XzI0MC5tcDQ=
-    mp4_740: !binary |-
-      bWVkaWEvMjAxNC8wMi8wMy8xMzUwNjc3MTU1NjkvRU5fMDIwMl9GVUxMTkVX
-      Xzc0MC5tcDQ=
-    mp4_796: !binary |-
-      bWVkaWEvMjAxNC8wMi8wMy8xMzUwNjc3MTU1NjkvRU5fMDIwMl9GVUxMTkVX
-      Xzc5Ni5tcDQ=
-    mp4_1296: !binary |-
-      bWVkaWEvMjAxNC8wMi8wMy8xMzUwNjc3MTU1NjkvRU5fMDIwMl9GVUxMTkVX
-      XzEyOTYubXA0
-  date: 2014-02-02 00:00:00.000000000 -06:00
-- title: !binary |-
-    Mi0x
+    mp4_240: media/2014/02/03/135067715569/EN_0202_FULLNEW_240.mp4
+    mp4_740: media/2014/02/03/135067715569/EN_0202_FULLNEW_740.mp4
+    mp4_796: media/2014/02/03/135067715569/EN_0202_FULLNEW_796.mp4
+    mp4_1296: media/2014/02/03/135067715569/EN_0202_FULLNEW_1296.mp4
+  date: 2014-02-02 00:00:00.000000000 +00:00
+- title: 2-1
   links:
-    mp4_240: !binary |-
-      bWVkaWEvMjAxNC8wMi8wMi8xMzM5NjY5MTU2OTEvRU5fMDIwMV9GVUxMXzI0
-      MC5tcDQ=
-    mp4_740: !binary |-
-      bWVkaWEvMjAxNC8wMi8wMi8xMzM5NjY5MTU2OTEvRU5fMDIwMV9GVUxMXzc0
-      MC5tcDQ=
-    mp4_796: !binary |-
-      bWVkaWEvMjAxNC8wMi8wMi8xMzM5NjY5MTU2OTEvRU5fMDIwMV9GVUxMXzc5
-      Ni5tcDQ=
-    mp4_1296: !binary |-
-      bWVkaWEvMjAxNC8wMi8wMi8xMzM5NjY5MTU2OTEvRU5fMDIwMV9GVUxMXzEy
-      OTYubXA0
-  date: 2014-02-01 00:00:00.000000000 -06:00
-- title: !binary |-
-    MS0zMQ==
+    mp4_240: media/2014/02/02/133966915691/EN_0201_FULL_240.mp4
+    mp4_740: media/2014/02/02/133966915691/EN_0201_FULL_740.mp4
+    mp4_796: media/2014/02/02/133966915691/EN_0201_FULL_796.mp4
+    mp4_1296: media/2014/02/02/133966915691/EN_0201_FULL_1296.mp4
+  date: 2014-02-01 00:00:00.000000000 +00:00
+- title: 1-31
   links:
-    mp4_240: !binary |-
-      bWVkaWEvMjAxNC8wMi8wNS8xMzgyNDA4MDM2MjgvRU5fMDEzMTE0X0Z1bGxf
-      RklYXzI0MC5tcDQ=
-    mp4_740: !binary |-
-      bWVkaWEvMjAxNC8wMi8wNS8xMzg3NDA4MDM2MjgvRU5fMDEzMTE0X0Z1bGxf
-      RklYXzc0MC5tcDQ=
-    mp4_796: !binary |-
-      bWVkaWEvMjAxNC8wMi8wNS8xMzg3OTY4MDM2MjgvRU5fMDEzMTE0X0Z1bGxf
-      RklYXzc5Ni5tcDQ=
-    mp4_1296: !binary |-
-      bWVkaWEvMjAxNC8wMi8wNS8xMzgxMjk2ODAzNjI4L0VOXzAxMzExNF9GdWxs
-      X0ZJWF8xMjk2Lm1wNA==
-  date: 2014-01-31 00:00:00.000000000 -06:00
+    mp4_240: media/2014/02/05/138240803628/EN_013114_Full_FIX_240.mp4
+    mp4_740: media/2014/02/05/138740803628/EN_013114_Full_FIX_740.mp4
+    mp4_796: media/2014/02/05/138796803628/EN_013114_Full_FIX_796.mp4
+    mp4_1296: media/2014/02/05/1381296803628/EN_013114_Full_FIX_1296.mp4
+  date: 2014-01-31 00:00:00.000000000 +00:00
 - title: Unknown Episode
   links:
-    mp4_240: !binary |-
-      bWVkaWEvMjAxNC8wMi8wNS8xMzgyNDA4MDM2MjgvRU5fMDEzMTE0X0Z1bGxf
-      RklYXzI0MC5tcDQ=
-    mp4_740: !binary |-
-      bWVkaWEvMjAxNC8wMi8wNS8xMzg3NDA4MDM2MjgvRU5fMDEzMTE0X0Z1bGxf
-      RklYXzc0MC5tcDQ=
-    mp4_796: !binary |-
-      bWVkaWEvMjAxNC8wMi8wNS8xMzg3OTY4MDM2MjgvRU5fMDEzMTE0X0Z1bGxf
-      RklYXzc5Ni5tcDQ=
-    mp4_1296: !binary |-
-      bWVkaWEvMjAxNC8wMi8wNS8xMzgxMjk2ODAzNjI4L0VOXzAxMzExNF9GdWxs
-      X0ZJWF8xMjk2Lm1wNA==
-  date: 2014-01-31 00:00:00.000000000 -06:00
+    mp4_240: media/2014/02/05/138240803628/EN_013114_Full_FIX_240.mp4
+    mp4_740: media/2014/02/05/138740803628/EN_013114_Full_FIX_740.mp4
+    mp4_796: media/2014/02/05/138796803628/EN_013114_Full_FIX_796.mp4
+    mp4_1296: media/2014/02/05/1381296803628/EN_013114_Full_FIX_1296.mp4
+  date: 2014-01-31 00:00:00.000000000 +00:00
