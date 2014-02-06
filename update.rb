@@ -30,7 +30,7 @@ class CbsParser
   end
 
   def link_pattern(date_digits, size)
-   /(media(\\\/mpx)?\\\/201\d\\\/\d\d\\\/\d\d\\\/(\d+\\\/)?#{show_key}_(#{date_digits})(1\d)?_FULL\d*_?(NEW_)?#{size}\.mp4)/i
+   /(media(\\\/mpx)?\\\/201\d\\\/\d\d\\\/\d\d\\\/(\d+\\\/)?#{show_key}_(#{date_digits})(1\d)?_FULL\d*_?(NEW_)?(FIX_)?#{size}\.mp4)/i
   end
 
   def fetch_matches(html, date_digits, size)
