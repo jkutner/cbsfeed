@@ -119,7 +119,7 @@ class CbsParser
       end
     end
     File.open(output_file, "w+") do |f|
-      f.write(video_urls[0..5].to_yaml)
+      f.write(video_urls.to_yaml)
     end
   end
 
@@ -141,7 +141,9 @@ class CbsParser
       new_list << best
       list.delete(best)
     end
-    new_list
+    new_list[0..6]
+  rescue
+    list
   end
 end
 
@@ -156,5 +158,6 @@ def update_evening_news
 end
 
 #update_tmz
-#update_60min
+update_60min
 update_evening_news
+
