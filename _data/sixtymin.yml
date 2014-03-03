@@ -27,20 +27,6 @@
     mp4_796: media/2014/01/26/127432259619/60_0126_FULL_796.mp4
     mp4_1296: media/2014/01/26/127432259619/60_0126_FULL_1296.mp4
   date: 2014-01-26 00:00:00.000000000 +00:00
-- title: The Case of Alex Rodriguez, Memory Wizards
-  links:
-    mp4_240: media/2014/01/13/115037251907/60_0112_FULL_240.mp4
-    mp4_740: media/2014/01/13/115037251907/60_0112_FULL_740.mp4
-    mp4_796: media/2014/01/13/115037251907/60_0112_FULL_796.mp4
-    mp4_1296: media/2014/01/13/115037251907/60_0112_FULL_1296.mp4
-  date: 2014-01-12 00:00:00.000000000 +00:00
-- title: The Cleantech Crash, Hollywood’s Villain, Volcanoes
-  links:
-    mp4_240: media/2014/01/05/107532867684/60_0105_FULL_240.mp4
-    mp4_740: media/2014/01/05/107532867684/60_0105_FULL_740.mp4
-    mp4_796: media/2014/01/05/107532867684/60_0105_FULL_796.mp4
-    mp4_1296: media/2014/01/05/107532867684/60_0105_FULL_1296.mp4
-  date: 2014-01-05 00:00:00.000000000 +00:00
 - title: Susan Rice, Rocky Mountain High, Quarterback Guru
   links:
     mp4_240: media/2013/12/22/98345027831/60_1222_FULL_240.mp4
@@ -76,6 +62,13 @@
     mp4_796: media/mpx/2013/06/29/60_0629_FULL_796.mp4
     mp4_1296: media/mpx/2013/06/29/60_0629_FULL_1296.mp4
   date: 2014-06-29 00:00:00.000000000 +00:00
+- title: The Case of Alex Rodriguez, Memory Wizards
+  links:
+    mp4_240: media/2014/01/13/115037251907/60_0112_FULL_240.mp4
+    mp4_740: media/2014/01/13/115037251907/60_0112_FULL_740.mp4
+    mp4_796: media/2014/01/13/115037251907/60_0112_FULL_796.mp4
+    mp4_1296: media/2014/01/13/115037251907/60_0112_FULL_1296.mp4
+  date: 2014-01-12 00:00:00.000000000 +00:00
 - title: The Cleantech Crash, Hollywood’s Villain, Volcanoes
   links:
     mp4_240: media/2014/01/05/107532867684/60_0105_FULL_240.mp4
