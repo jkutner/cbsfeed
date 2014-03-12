@@ -30,7 +30,11 @@ class CbsParser
   end
 
   def link_pattern(date_digits, size)
-   /(media(\\\/mpx)?\\\/201\d\\\/\d\d\\\/\d\d\\\/(\d+\\\/)?#{show_key}_(#{date_digits})(1\d)?_FULL\d*_?(NEW_)?(FIX_)?#{size}\.mp4)/i
+   %r{(media(\\/mpx)?\\/201\d\\/\d\d\\/\d\d\\/(\d+\\/)?#{show_key}_(#{link_pattern_date(date_digits)})(1\d)?_FULL\d*_?((\d|\D)*_)?#{size}\.mp4)}i
+  end
+
+  def link_pattern_date(date_digits)
+   %r{#{date_digits[0..1]}(\d\d)?#{date_digits[-2..-1]}}i
   end
 
   def fetch_matches(html, date_digits, size)
@@ -74,9 +78,13 @@ class CbsParser
         links = %w(240 740 796 1296).map do |size|
           massage_link_by_sizes(size, mp4_link)
         end
-        yield links, Time.parse("#{Time.now.year}/#{raw_date.insert(2, '/')}")
+        yield links, parse_time(raw_date)
       end
     end
+  end
+
+  def parse_time(raw_date)
+    Time.parse("#{Time.now.year}/#{raw_date[0..1]}/#{raw_date[-2..-1]}")
   end
 
   def extract_video_urls(raw, seen)
@@ -119,7 +127,7 @@ class CbsParser
       end
     end
     File.open(output_file, "w+") do |f|
-      f.write(video_urls.to_yaml)
+      f.write(video_urls[0..8].to_yaml)
     end
   end
 
@@ -141,7 +149,7 @@ class CbsParser
       new_list << best
       list.delete(best)
     end
-    new_list[0..6]
+    new_list
   rescue
     list
   end
