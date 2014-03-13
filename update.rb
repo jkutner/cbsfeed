@@ -34,7 +34,7 @@ class CbsParser
   end
 
   def link_pattern_date(date_digits)
-   %r{#{date_digits[0..1]}(\d\d)?#{date_digits[-2..-1]}}i
+    %r{#{date_digits}|#{date_digits[0..1]}\d\d?#{date_digits[-2..-1]}}i
   end
 
   def fetch_matches(html, date_digits, size)
@@ -168,4 +168,3 @@ end
 #update_tmz
 update_60min
 update_evening_news
-
