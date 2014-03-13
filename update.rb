@@ -115,7 +115,14 @@ class CbsParser
     raw_scan = html.scan(/href\s*=\s*"(\/videos\/.*)"#{extra_re}/)
 
     video_urls = sort_according_to_today(raw_scan.inject([]) do |urls, raw|
-      urls + [extract_video_urls(raw, urls)]
+      video_url = extract_video_urls(raw, urls)
+      video_urls = [video_url]
+      urls.each do |url|
+        if video_url.nil? or (url['title'] == video_url['title'] and url['links']['mp4_1296'] == video_url['links']['mp4_1296'])
+          video_urls.pop
+        end
+      end
+      urls + video_urls
     end.compact)
 
     puts "Merging previous episodes..."
