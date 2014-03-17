@@ -54,8 +54,9 @@ class CbsParser
   def with_title_and_date_digits(raw, link)
     match_result = link.match(/(\d+-\d+)-/)
     if match_result
-      title = match_result[1]
-      date_digits = Time.parse("#{Time.now.year}-#{title}").strftime("%m%d")
+      month_and_day = match_result[1].split('-')
+      title = "#{format('%02d', month_and_day[0])}-#{format('%02d', month_and_day[1])}"
+      date_digits = parse_time(title).strftime("%m%d")
     else
       title = raw.size > 2 ? raw[2] : "Unknown Episode"
       date_digits = '\d\d\d\d'
@@ -73,18 +74,18 @@ class CbsParser
       puts "    No mp4 link found for: #{title}"
     else
       mp4_link = matches[0]
-      raw_date = matches[3]
+      #raw_date = matches[3]
       if mp4_link
         links = %w(240 740 796 1296).map do |size|
           massage_link_by_sizes(size, mp4_link)
         end
-        yield links, parse_time(raw_date)
+        yield links, parse_time(title)
       end
     end
   end
 
-  def parse_time(raw_date)
-    Time.parse("#{Time.now.year}/#{raw_date[0..1]}/#{raw_date[-2..-1]}")
+  def parse_time(title)
+    Time.parse("#{Time.now.year}-#{title}")
   end
 
   def extract_video_urls(raw, seen)
@@ -117,12 +118,13 @@ class CbsParser
     video_urls = sort_according_to_today(raw_scan.inject([]) do |urls, raw|
       video_url = extract_video_urls(raw, urls)
       video_urls = [video_url]
-      urls.each do |url|
-        if video_url.nil? or (url['title'] == video_url['title'] and url['links']['mp4_1296'] == video_url['links']['mp4_1296'])
+      pruned_urls = urls.compact
+      pruned_urls.each do |u|
+        if video_url.nil? or (u['title'] == video_url['title'] and u['links']['mp4_1296'] == video_url['links']['mp4_1296'])
           video_urls.pop
         end
       end
-      urls + video_urls
+      pruned_urls + video_urls
     end.compact)
 
     puts "Merging previous episodes..."
@@ -134,7 +136,7 @@ class CbsParser
       end
     end
     File.open(output_file, "w+") do |f|
-      f.write(video_urls[0..8].to_yaml)
+      f.write(video_urls.take(8).to_yaml)
     end
   end
 
@@ -144,7 +146,7 @@ class CbsParser
     now = Time.now
 
     until list.empty?
-      best = list.inject do |best, i|
+      cur_best = list.inject do |best, i|
         if best.nil?
           i
         else
@@ -153,8 +155,8 @@ class CbsParser
           diff > 0 and diff < best_diff ? i : best
         end
       end
-      new_list << best
-      list.delete(best)
+      new_list << cur_best
+      list.delete(cur_best)
     end
     new_list
   rescue
