@@ -30,7 +30,7 @@ class CbsParser
   end
 
   def link_pattern(date_digits, size)
-    /(media(\\\/mpx)?\\\/201\d\\\/\d\d\\\/\d\d\\\/(\d+\\\/)?#{show_key}_(#{link_pattern_date(date_digits)})_FULL\d*_?(NEW_)?(v2_)?(FIX_)?#{size}\.mp4)/i
+    /(media(\\\/mpx)?\\\/201\d\\\/\d\d\\\/\d\d\\\/(\d+\\\/)?#{show_key}_(#{link_pattern_date(date_digits)})_FULL\d*_?(NEW_)?(v2_)?(FIX_)?(EBlockFix_)?#{size}\.mp4)/i
   end
 
   def link_pattern_date(date_digits)
@@ -175,5 +175,5 @@ def update_evening_news
 end
 
 #update_tmz
-update_60min
+#update_60min
 update_evening_news
