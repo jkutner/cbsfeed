@@ -22,6 +22,58 @@ def update_tmz
   end
 end
 
+class CbsEpisode
+  attr :raw, :link
+
+  def initialize(raw, link)
+    @raw = raw
+    @link = link
+  end
+
+  def fetch_html
+    yield Typhoeus.get("http://www.cbsnews.com/#{@link}").body
+  end
+end
+
+class CbsEveningNewsEpisode < CbsEpisode
+  def title
+    unless @title
+      match_result = link.match(/(\d+-\d+)-/)
+      if match_result
+        month_and_day = match_result[1].split('-')
+        @title = "#{format('%02d', month_and_day[0])}-#{format('%02d', month_and_day[1])}"
+      else
+        @title = '00-00'
+      end
+    end
+    @title
+  end
+
+  def date_digits
+    @date_digits ||= time.strftime("%m%d")
+  end
+
+  def time(raw_date=nil)
+    @time ||= Time.parse("#{Time.now.year}-#{title}")
+  rescue ArgumentError
+    @time ||= raw_date || Time.now
+  end
+end
+
+class CbsSixtyMinEpisode < CbsEpisode
+  def title
+    raw.size > 2 ? raw[2] : "Unknown Episode"
+  end
+
+  def date_digits
+    '\d\d\d\d'
+  end
+
+  def time(raw_date=Time.now)
+    raw_date
+  end
+end
+
 class CbsParser
   attr_reader :show_key
 
@@ -37,9 +89,17 @@ class CbsParser
     %r{#{date_digits[0..1]}\d{2}?#{date_digits[-2..-1]}\d{2}?}i
   end
 
-  def fetch_matches(html, date_digits, size)
-    raw = html.scan(link_pattern(date_digits, size))
-    raw[0].is_a?(Array) ? raw[0] : raw
+  def fetch_matches(html, episode, size)
+    raw = html.scan(link_pattern(episode.date_digits, size))
+    matches = raw[0].is_a?(Array) ? raw[0] : raw
+
+    if matches.empty?
+      puts "    No mp4 link found for: #{episode.title}"
+    else
+      mp4_link = matches[0]
+      raw_date = matches[3]
+      yield mp4_link, raw_date if mp4_link
+    end
   end
 
   def massage_link_by_sizes(size, raw_link)
@@ -51,53 +111,33 @@ class CbsParser
     link
   end
 
-  def with_title_and_date_digits(raw, link)
-    match_result = link.match(/(\d+-\d+)-/)
-    if match_result
-      month_and_day = match_result[1].split('-')
-      title = "#{format('%02d', month_and_day[0])}-#{format('%02d', month_and_day[1])}"
-      date_digits = parse_time(title).strftime("%m%d")
+  def create_episode(raw, link)
+    if show_key == 'EN'
+      yield CbsEveningNewsEpisode.new(raw, link)
     else
-      title = raw.size > 2 ? raw[2] : "Unknown Episode"
-      date_digits = '\d\d\d\d'
+      yield CbsSixtyMinEpisode.new(raw, link)
     end
-    yield title, date_digits
   end
 
-  def fetch_link_html(link)
-    yield Typhoeus.get("http://www.cbsnews.com/#{link}").body
-  end
-
-  def with_size_links(html, title, date_digits)
-    matches = fetch_matches(html, date_digits, '(796|740|240)')
-    if matches.empty?
-      puts "    No mp4 link found for: #{title}"
-    else
-      mp4_link = matches[0]
-      #raw_date = matches[3]
-      if mp4_link
-        links = %w(240 740 796 1296).map do |size|
-          massage_link_by_sizes(size, mp4_link)
-        end
-        yield links, parse_time(title)
+  def with_size_links(html, episode)
+    fetch_matches(html, episode, '(796|740|240)') do |mp4_link, raw_date|
+      links = %w(240 740 796 1296).map do |size|
+        massage_link_by_sizes(size, mp4_link)
       end
+      yield links, episode.time(raw_date)
     end
-  end
-
-  def parse_time(title)
-    Time.parse("#{Time.now.year}-#{title}")
   end
 
   def extract_video_urls(raw, seen)
     link = raw[0]
     unless seen.index(link)
-      with_title_and_date_digits(raw, link) do |title, date_digits|
-        puts "  #{title}"
+      create_episode(raw, link) do |episode|
+        puts "  #{episode.title}"
         puts "    #{link}"
-        fetch_link_html(link) do |html|
-          with_size_links(html, title, date_digits) do |links, video_date|
+        episode.fetch_html do |html|
+          with_size_links(html, episode) do |links, video_date|
             return {
-                'title' => title,
+                'title' => episode.title,
                 'links' => {
                     'mp4_240' => links[0],
                     'mp4_740' => links[1],
@@ -175,5 +215,5 @@ def update_evening_news
 end
 
 #update_tmz
-#update_60min
+update_60min
 update_evening_news
