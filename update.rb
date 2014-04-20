@@ -139,7 +139,7 @@ class CbsParser
             return {
                 'title' => episode.title,
                 'links' => {
-                  'orig' => "http://www.cbsnews.com/#{link}",
+                  'orig' => link,
                   'mp4_240' => links[0],
                   'mp4_740' => links[1],
                   'mp4_796' => links[2],
