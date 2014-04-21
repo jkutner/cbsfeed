@@ -1,4 +1,20 @@
 ---
+- title: 04-20
+  links:
+    orig: /videos/4-20-south-korea-ferry-disaster-transcripts-reveal-confusion-among-crew-boston-marathon-security-front-and-center/
+    mp4_240: media/2014/04/20/232459331634/EN_0420_FULL_240.mp4
+    mp4_740: media/2014/04/20/232459331634/EN_0420_FULL_740.mp4
+    mp4_796: media/2014/04/20/232459331634/EN_0420_FULL_796.mp4
+    mp4_1296: media/2014/04/20/232459331634/EN_0420_FULL_1296.mp4
+  date: 2014-04-20 00:00:00.000000000 +00:00
+- title: 04-19
+  links:
+    orig: /videos/4-19-inexperience-may-have-caused-south-korean-ferry-disaster-cop-shot-in-boston-bombing-manhunt-defies-all-odds/
+    mp4_240: media/2014/04/20/231652419716/EN_0419_FULL_240.mp4
+    mp4_740: media/2014/04/20/231652419716/EN_0419_FULL_740.mp4
+    mp4_796: media/2014/04/20/231652419716/EN_0419_FULL_796.mp4
+    mp4_1296: media/2014/04/20/231652419716/EN_0419_FULL_1296.mp4
+  date: 2014-04-19 00:00:00.000000000 +00:00
 - title: 04-18
   links:
     orig: /videos/4-18-mount-everest-guide-describes-surreal-scene-after-avalanche-on-the-road-california-man-finds-purpose-in-baseball/
@@ -6,7 +22,7 @@
     mp4_740: media/2014/04/19/230858819730/EN_0418_FULL_740.mp4
     mp4_796: media/2014/04/19/230858819730/EN_0418_FULL_796.mp4
     mp4_1296: media/2014/04/19/230858819730/EN_0418_FULL_1296.mp4
-  date: 2014-04-18 00:00:00.000000000 -05:00
+  date: 2014-04-18 00:00:00.000000000 +00:00
 - title: 04-17
   links:
     orig: /videos/4-17-south-korea-ferry-evacuation-was-delayed-eastern-ukraine-tensions-turn-deadly/
@@ -14,7 +30,7 @@
     mp4_740: media/2014/04/17/229847107714/EN_0417_FULL_740.mp4
     mp4_796: media/2014/04/17/229847107714/EN_0417_FULL_796.mp4
     mp4_1296: media/2014/04/17/229847107714/EN_0417_FULL_1296.mp4
-  date: 2014-04-17 00:00:00.000000000 -05:00
+  date: 2014-04-17 00:00:00.000000000 +00:00
 - title: 04-16
   links:
     orig: /videos/4-16-obama-says-russia-will-face-consequences-over-actions-in-ukraine-the-art-of-deception-turning-forgery-into-an-art-form/
@@ -22,7 +38,7 @@
     mp4_740: media/2014/04/16/228781635699/EN_0416_FULL_740.mp4
     mp4_796: media/2014/04/16/228781635699/EN_0416_FULL_796.mp4
     mp4_1296: media/2014/04/16/228781635699/EN_0416_FULL_1296.mp4
-  date: 2014-04-16 00:00:00.000000000 -05:00
+  date: 2014-04-16 00:00:00.000000000 +00:00
 - title: 04-14
   links:
     orig: /videos/4-14-mother-reflects-on-son-dad-killed-near-kansas-city-mementos-helped-boston-heal-after-marathon-bombing/
@@ -30,20 +46,4 @@
     mp4_740: media/2014/04/15/226823235865/EN_0414_FULL_740.mp4
     mp4_796: media/2014/04/15/226823235865/EN_0414_FULL_796.mp4
     mp4_1296: media/2014/04/15/226823235865/EN_0414_FULL_1296.mp4
-  date: 2014-04-14 00:00:00.000000000 -05:00
-- title: 04-13
-  links:
-    orig: /videos/4-13-deadly-shootings-at-two-kansas-jewish-centers-celebrities-living-dangerously-to-raise-awareness-on-climate-change/
-    mp4_240: media/2014/04/14/225716291552/EN_0413_FULL_240.mp4
-    mp4_740: media/2014/04/14/225716291552/EN_0413_FULL_740.mp4
-    mp4_796: media/2014/04/14/225716291552/EN_0413_FULL_796.mp4
-    mp4_1296: media/2014/04/14/225716291552/EN_0413_FULL_1296.mp4
-  date: 2014-04-13 00:00:00.000000000 -05:00
-- title: 04-12
-  links:
-    orig: /videos/4-12-cause-of-deadly-calif-bus-crash-could-take-weeks-to-find-out-the-height-of-artistry-deep-beneath-new-york-city/
-    mp4_240: media/2014/04/13/224839235833/EN_0412_FULL_240.mp4
-    mp4_740: media/2014/04/13/224839235833/EN_0412_FULL_740.mp4
-    mp4_796: media/2014/04/13/224839235833/EN_0412_FULL_796.mp4
-    mp4_1296: media/2014/04/13/224839235833/EN_0412_FULL_1296.mp4
-  date: 2014-04-12 00:00:00.000000000 -05:00
+  date: 2014-04-14 00:00:00.000000000 +00:00
