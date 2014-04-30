@@ -95,6 +95,7 @@ class CbsParser
 
     if matches.empty?
       puts "    No mp4 link found for: #{episode.title}"
+      yield "", episode.date_digits
     else
       mp4_link = matches[0]
       raw_date = matches[3]
