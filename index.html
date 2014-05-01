@@ -9,6 +9,7 @@ title: CBS Feed
     {% for episode in site.data.evening_news %}
     <li>{{ episode.title }} <br/>
       (<a href="http://cbsnews.com{{ episode.links.orig }}">web</a> | 
+      (<a href="http://{{ episode.links.ipad }}">ipad</a> | 
       <a href="http://download.cbsnews.com/{{ episode.links.mp4_1296 }}">x-large</a> | 
       <a href="http://download.cbsnews.com/{{ episode.links.mp4_796 }}">large</a> | 
       <a href="http://download.cbsnews.com/{{ episode.links.mp4_740 }}">medium</a> | 

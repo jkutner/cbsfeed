@@ -89,18 +89,29 @@ class CbsParser
     %r{#{date_digits[0..1]}\d{2}?#{date_digits[-2..-1]}\d{2}?}i
   end
 
+  def ipad_link_pattern
+    %r{ipad-streaming.{50,100}_\d{3,6}_Full_500.m3u8}i
+  end
+
+  def test_temp_file
+    f = File.read('temp.html')
+    m = f.scan(ipad_link_pattern)
+    puts m.inspect
+  end
+
   def fetch_matches(html, episode, size)
     raw = html.scan(link_pattern(episode.date_digits, size))
     matches = raw[0].is_a?(Array) ? raw[0] : raw
 
-    if matches.empty?
-      puts "    No mp4 link found for: #{episode.title}"
-      yield "", episode.date_digits
-    else
-      mp4_link = matches[0]
-      raw_date = matches[3]
-      yield mp4_link, raw_date if mp4_link
-    end
+    ipad_match = html.scan(ipad_link_pattern)
+    ipad_link = ipad_match.empty? ? "" : ipad_match[0]
+
+    puts "    No mp4 link found for: #{episode.title}" if matches.empty?
+    puts "    No ipad link found for: #{episode.title}" if ipad_link == ""
+
+    mp4_link = matches[0] || ""
+    raw_date = matches[3]
+    yield mp4_link, ipad_link, raw_date if mp4_link
   end
 
   def massage_link_by_sizes(size, raw_link)
@@ -108,8 +119,12 @@ class CbsParser
     link.gsub!(/240/, size)
     link.gsub!(/740/, size)
     link.gsub!(/796/, size)
-    link.gsub!(/\\/, '')
+    massage_link(link)
     link
+  end
+
+  def massage_link(raw_link)
+    (raw_link.split('"')[0] || "").gsub(/\\/, '')
   end
 
   def create_episode(raw, link)
@@ -121,16 +136,17 @@ class CbsParser
   end
 
   def with_size_links(html, episode)
-    fetch_matches(html, episode, '(796|740|240)') do |mp4_link, raw_date|
+    fetch_matches(html, episode, '(796|740|240)') do |mp4_link, ipad_link, raw_date|
       links = %w(240 740 796 1296).map do |size|
         massage_link_by_sizes(size, mp4_link)
       end
+      links << massage_link(ipad_link)
       yield links, episode.time(raw_date)
     end
   end
 
   def extract_video_urls(raw, seen)
-    link = raw[0]
+    link = massage_link(raw[0])
     unless seen.index(link)
       create_episode(raw, link) do |episode|
         puts "  #{episode.title}"
@@ -141,6 +157,7 @@ class CbsParser
                 'title' => episode.title,
                 'links' => {
                   'orig' => link,
+                  'ipad' => links[4],
                   'mp4_240' => links[0],
                   'mp4_740' => links[1],
                   'mp4_796' => links[2],
@@ -219,3 +236,4 @@ end
 #update_tmz
 #update_60min
 update_evening_news
+#CbsParser.new('EN').test_temp_file
