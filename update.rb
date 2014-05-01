@@ -93,12 +93,6 @@ class CbsParser
     %r{ipad-streaming.{50,100}_\d{3,6}_Full_500.m3u8}i
   end
 
-  def test_temp_file
-    f = File.read('temp.html')
-    m = f.scan(ipad_link_pattern)
-    puts m.inspect
-  end
-
   def fetch_matches(html, episode, size)
     raw = html.scan(link_pattern(episode.date_digits, size))
     matches = raw[0].is_a?(Array) ? raw[0] : raw
