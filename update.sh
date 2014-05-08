@@ -1,5 +1,6 @@
-#source /home/tmux/.rvm/environments/ruby-1.9.3-p448
+#!/bin/sh
 
+#source /home/tmux/.rvm/environments/ruby-1.9.3-p448
 cd /home/tmux/cbsfeed
 
 date
