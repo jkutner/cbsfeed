@@ -5,7 +5,7 @@ cd /home/tmux/cbsfeed
 date
 git pull origin gh-pages
 echo "Running the update script with bundler..."
-ruby update.rb 
+ruby update.rb
 echo "Updating git repo..."
 git add _data/*.yml
 git commit -m "Updating with latest episdoes"
