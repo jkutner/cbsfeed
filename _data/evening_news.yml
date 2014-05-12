@@ -1,13 +1,4 @@
 ---
-- title: 00-00
-  links:
-    orig: /videos/cbs-evening-news-full-episode-april-29-2014/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/05/11/253060675593/FTN_0511_FULL_500/FTN_0511_FULL_500.m3u8
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 2014-05-12 03:31:52.377888657 +00:00
 - title: 05-11
   links:
     orig: /videos/5-11-violent-tornado-destroys-homes-buildings-in-missouri-town-singer-ben-harper-teams-up-with-mom/
@@ -53,3 +44,12 @@
     mp4_796: ''
     mp4_1296: ''
   date: 2014-05-07 00:00:00.000000000 +00:00
+- title: 05-06
+  links:
+    orig: /videos/5-6-why-does-boko-haram-terrorist-group-target-schools-government-agency-recovers-hundreds-of-priceless-artifacts/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/05/11/253060675593/FTN_0511_FULL_500/FTN_0511_FULL_500.m3u8
+    mp4_240: media\/2014\/05\/06\/248633411813\/EN_050614_Full_240.mp4
+    mp4_740: media\/2014\/05\/06\/248633411813\/EN_050614_Full_740.mp4
+    mp4_796: media\/2014\/05\/06\/248633411813\/EN_050614_Full_796.mp4
+    mp4_1296: media\/2014\/05\/06\/248633411813\/EN_050614_Full_1296.mp4
+  date: 2014-05-06 00:00:00.000000000 +00:00
