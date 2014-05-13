@@ -20,6 +20,13 @@ title: CBS Feed
 <h1>60 Minutes</h1>
 <ul id="60-min-list">
     {% for episode in site.data.sixtymin %}
-    <li><a href="http://download.cbsnews.com/{{ episode.links.mp4_1296 }}">{{ episode.title }}</a></li>
+      <li>{{ episode.title }} <br/>
+        (<a href="http://cbsnews.com{{ episode.links.orig }}">web</a> | 
+        <a href="http://{{ episode.links.ipad }}">ipad</a> | 
+        <a href="http://download.cbsnews.com/{{ episode.links.mp4_1296 }}">x-large</a> | 
+        <a href="http://download.cbsnews.com/{{ episode.links.mp4_796 }}">large</a> | 
+        <a href="http://download.cbsnews.com/{{ episode.links.mp4_740 }}">medium</a> | 
+        <a href="http://download.cbsnews.com/{{ episode.links.mp4_240 }}">small</a>) 
+      </li>
     {% endfor %}
 </ul>
