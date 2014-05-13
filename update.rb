@@ -192,7 +192,7 @@ class CbsParser
       end
     end
     File.open(output_file, "w+") do |f|
-      f.write(video_urls.take(6).to_yaml)
+      f.write(video_urls.take(show_key == "60" ? 10 : 6).to_yaml)
     end
   end
 
