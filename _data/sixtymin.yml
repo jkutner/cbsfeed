@@ -1,43 +1,55 @@
 ---
+- title: Washington's Open Secret, EMERGENCY, Salmon in the Sea
+  links:
+    orig: /videos/washingtons-open-secret-emergency-salmon-in-the-sea/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/05/11/252581955795/60_Full_0511_500/60_Full_0511_500.m3u8
+    mp4_240: media\/2014\/05\/11\/252581955795\/60_Full_0511_240.mp4
+    mp4_740: media\/2014\/05\/11\/252581955795\/60_Full_0511_740.mp4
+    mp4_796: media\/2014\/05\/11\/252581955795\/60_Full_0511_796.mp4
+    mp4_1296: media\/2014\/05\/11\/252581955795\/60_Full_0511_1296.mp4
+  date: Washington's Open Secret, EMERGENCY, Salmon in the Sea
+- title: Over A Barrel, 90+
+  links:
+    orig: /videos/over-a-barrel-90/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/03/02/178695235916/60_0302_FULL_500/60_0302_FULL_500.m3u8
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: Over A Barrel, 90+
+- title: America's Missile Fields, Saving the Children
+  links:
+    orig: /videos/americas-missile-fields-saving-the-children/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/04/27/239119427638/60_FULL_0427_v2_phone.m3u8
+    mp4_240: media\/2014\/04\/27\/239119427638\/60_FULL_0427_v2_240.mp4
+    mp4_740: media\/2014\/04\/27\/239119427638\/60_FULL_0427_v2_740.mp4
+    mp4_796: media\/2014\/04\/27\/239119427638\/60_FULL_0427_v2_796.mp4
+    mp4_1296: media\/2014\/04\/27\/239119427638\/60_FULL_0427_v2_1296.mp4
+  date: America's Missile Fields, Saving the Children
+- title: Robin Hood, Memory Wizards, Joy in the Congo
+  links:
+    orig: /videos/robin-hood-memory-wizards-joy-in-the-congo/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/03/02/178695235916/60_0302_FULL_500/60_0302_FULL_500.m3u8
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: Robin Hood, Memory Wizards, Joy in the Congo
+- title: Francis, Hometown Favorite
+  links:
+    orig: /videos/francis-hometown-favorite/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/03/02/178695235916/60_0302_FULL_500/60_0302_FULL_500.m3u8
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: Francis, Hometown Favorite
 - title: Three Years Later, The Health Wagon, Discovered
   links:
-    mp4_240: media/2014/04/06/218408515970/60_040614_Full_240.mp4
-    mp4_740: media/2014/04/06/218408515970/60_040614_Full_740.mp4
-    mp4_796: media/2014/04/06/218408515970/60_040614_Full_796.mp4
-    mp4_1296: media/2014/04/06/218408515970/60_040614_Full_1296.mp4
-  date: '040614'
-- title: Rigged, Fast Cars and Rocket Ships, The Virtuoso
-  links:
-    mp4_240: media/2014/03/02/178695235916/60_0302_FULL_240.mp4
-    mp4_740: media/2014/03/02/178695235916/60_0302_FULL_740.mp4
-    mp4_796: media/2014/03/02/178695235916/60_0302_FULL_796.mp4
-    mp4_1296: media/2014/03/02/178695235916/60_0302_FULL_1296.mp4
-  date: '0302'
-- title: Manhunt, The Pink Panthers, The Cartoonist
-  links:
-    mp4_240: media/2014/03/23/204352067936/60_0323_FULL_NEW_240.mp4
-    mp4_740: media/2014/03/23/204352067936/60_0323_FULL_NEW_740.mp4
-    mp4_796: media/2014/03/23/204352067936/60_0323_FULL_NEW_796.mp4
-    mp4_1296: media/2014/03/23/204352067936/60_0323_FULL_NEW_1296.mp4
-  date: '0323'
-- title: Bassem Youssef, Drones Over America, Cajun Ketchup
-  links:
-    mp4_240: media/2014/03/16/197282371922/60_0316_FULL_240.mp4
-    mp4_740: media/2014/03/16/197282371922/60_0316_FULL_740.mp4
-    mp4_796: media/2014/03/16/197282371922/60_0316_FULL_796.mp4
-    mp4_1296: media/2014/03/16/197282371922/60_0316_FULL_1296.mp4
-  date: '0316'
-- title: The Data Brokers, The Heart of the Revolution, ALMA
-  links:
-    mp4_240: media/2014/03/09/189120067745/60_0309_FULL_240.mp4
-    mp4_740: media/2014/03/09/189120067745/60_0309_FULL_740.mp4
-    mp4_796: media/2014/03/09/189120067745/60_0309_FULL_796.mp4
-    mp4_1296: media/2014/03/09/189120067745/60_0309_FULL_1296.mp4
-  date: 0309
-- title: The Shooting at Chardon High, The Con Artist, Liam Neeson
-  links:
-    mp4_240: media/2014/02/23/166895683729/60_0223_FULL_240.mp4
-    mp4_740: media/2014/02/23/166895683729/60_0223_FULL_740.mp4
-    mp4_796: media/2014/02/23/166895683729/60_0223_FULL_796.mp4
-    mp4_1296: media/2014/02/23/166895683729/60_0223_FULL_1296.mp4
-  date: '0223'
+    orig: /videos/three-years-later-the-health-wagon-discovered/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/04/06/218408515970/60_040614_Full_tablet.m3u8
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: Three Years Later, The Health Wagon, Discovered
