@@ -82,15 +82,15 @@ class CbsParser
   end
 
   def link_pattern(date_digits, size)
-    /(media(\\\/mpx)?\\\/201\d\\\/\d\d\\\/\d\d\\\/(\d+\\\/)?#{show_key}_(#{link_pattern_date(date_digits)})_FULL\d*_?(NEW_)?(v2_)?(FIX_)?(EBlockFix_)?#{size}\.mp4)/i
+    /(media(\\\/mpx)?\\\/201\d\\\/\d\d\\\/\d\d\\\/(\d{5,15}\\\/)?#{show_key}_?#{link_pattern_date}_FULL_#{link_pattern_date}.{0,20}_#{size}\.mp4)/i
   end
 
-  def link_pattern_date(date_digits)
-    %r{#{date_digits[0..1]}\d{2}?#{date_digits[-2..-1]}\d{2}?}i
+  def link_pattern_date
+    %r{\d{0,6}_?}
   end
 
   def ipad_link_pattern
-    %r{ipad-streaming.{50,100}_\d{3,6}_Full_500.m3u8}i
+    %r{ipad-streaming.{50,100}#{show_key}_?\d{0,6}_Full_.{3,20}.m3u8}i
   end
 
   def fetch_matches(html, episode, size)
@@ -100,12 +100,15 @@ class CbsParser
     ipad_match = html.scan(ipad_link_pattern)
     ipad_link = ipad_match.empty? ? "" : ipad_match[0]
 
-    puts "    No mp4 link found for: #{episode.title}" if matches.empty?
-    puts "    No ipad link found for: #{episode.title}" if ipad_link == ""
+    puts matches.empty? ?
+      "    No mp4 link found for: #{episode.title}" :
+      "    #{matches[0]}"
+    puts ipad_link == "" ?
+      "    No ipad link found for: #{episode.title}" :
+      "    #{ipad_link}"
 
     mp4_link = matches[0] || ""
-    raw_date = matches[3]
-    yield mp4_link, ipad_link, raw_date if mp4_link
+    yield mp4_link, ipad_link
   end
 
   def massage_link_by_sizes(size, raw_link)
@@ -130,12 +133,12 @@ class CbsParser
   end
 
   def with_size_links(html, episode)
-    fetch_matches(html, episode, '(796|740|240)') do |mp4_link, ipad_link, raw_date|
+    fetch_matches(html, episode, '(796|740|240)') do |mp4_link, ipad_link|
       links = %w(240 740 796 1296).map do |size|
         massage_link_by_sizes(size, mp4_link)
       end
       links << massage_link(ipad_link)
-      yield links, episode.time(raw_date)
+      yield links
     end
   end
 
@@ -146,7 +149,7 @@ class CbsParser
         puts "  #{episode.title}"
         puts "    #{link}"
         episode.fetch_html do |html|
-          with_size_links(html, episode) do |links, video_date|
+          with_size_links(html, episode) do |links|
             return {
                 'title' => episode.title,
                 'links' => {
@@ -156,7 +159,7 @@ class CbsParser
                   'mp4_740' => links[1],
                   'mp4_796' => links[2],
                   'mp4_1296' => links[3]},
-                'date' => video_date}
+                'date' => episode.title}
           end
         end
       end
