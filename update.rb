@@ -44,11 +44,11 @@ class CbsEveningNewsEpisode < CbsEpisode
       elsif match_result = link.match(/(\d{2,4})-/)
         dd = match_result[1]
         if dd.size == 2
-          @title = "#{dd[0]}-#{dd[1]}"
+          @title = "0#{dd[0]}-0#{dd[1]}"
         elsif dd.size == 4
           @title = "#{dd[0..1]}-#{dd[2..3]}"
         else
-          @title = "#{dd[0]}-#{dd[1..2]}"
+          @title = "0#{dd[0]}-#{dd[1..2]}"
         end
       else
         @title = '00-00'
