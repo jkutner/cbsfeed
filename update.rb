@@ -245,5 +245,5 @@ def update_evening_news
 end
 
 #update_tmz
-#update_60min
+update_60min
 update_evening_news
