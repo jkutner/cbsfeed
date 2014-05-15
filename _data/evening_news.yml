@@ -8,33 +8,6 @@
     mp4_796: ''
     mp4_1296: ''
   date: 05-13
-- title: 05-11
-  links:
-    orig: /videos/511-violent-tornado-destroys-homes-buildings-in-missouri-town-singer-ben-harper-teams-up-with-mom/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 05-11
-- title: 05-10
-  links:
-    orig: /videos/510-outrage-grows-in-nigeria-over-abducted-schoolgirls-young-musicians-gather-for-master-class-with-jazz-great/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 05-10
-- title: 05-08
-  links:
-    orig: /videos/58-va-medical-centers-to-undergo-face-to-face-audits-thompson-trio-honors-rich-family-history-through-lacrosse/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 05-08
 - title: 05-09
   links:
     orig: /videos/5-9-businessman-richard-parsons-named-interim-clippers-ceo-son-travels-to-amazon-jungle-to-reconnect-with-mother/
@@ -44,6 +17,15 @@
     mp4_796: media\/2014\/05\/10\/251731523761\/EN_FULL_0509_796.mp4
     mp4_1296: media\/2014\/05\/10\/251731523761\/EN_FULL_0509_1296.mp4
   date: 05-09
+- title: 05-08
+  links:
+    orig: /videos/5-8-va-medical-centers-to-undergo-face-to-face-audits-thompson-trio-honors-rich-family-history-through-lacrosse/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/05/08/250637891617/EN_050814_Full_500/EN_050814_Full_500.m3u8
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: 05-08
 - title: 05-12
   links:
     orig: /videos/512-u-s-spyplanes-aid-in-nigerian-schoolgirl-search-washington-monument-retakes-its-place-as-a-living-classroom/
@@ -53,3 +35,21 @@
     mp4_796: ''
     mp4_1296: ''
   date: 05-12
+- title: 05-11
+  links:
+    orig: /videos/5-11-violent-tornado-destroys-homes-buildings-in-missouri-town-singer-ben-harper-teams-up-with-mom/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/05/12/253400131829/EN_FULL_0511_replace_tablet.m3u8
+    mp4_240: media\/2014\/05\/12\/253400131829\/EN_FULL_0511_replace_240.mp4
+    mp4_740: media\/2014\/05\/12\/253400131829\/EN_FULL_0511_replace_740.mp4
+    mp4_796: media\/2014\/05\/12\/253400131829\/EN_FULL_0511_replace_796.mp4
+    mp4_1296: media\/2014\/05\/12\/253400131829\/EN_FULL_0511_replace_1296.mp4
+  date: 05-11
+- title: 05-10
+  links:
+    orig: /videos/5-10-outrage-grows-in-nigeria-over-abducted-schoolgirls-young-musicians-gather-for-master-class-with-jazz-great/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/05/11/252551747708/EN_FULL_0510_tablet.m3u8
+    mp4_240: media\/2014\/05\/11\/252551747708\/EN_FULL_0510_240.mp4
+    mp4_740: media\/2014\/05\/11\/252551747708\/EN_FULL_0510_740.mp4
+    mp4_796: media\/2014\/05\/11\/252551747708\/EN_FULL_0510_796.mp4
+    mp4_1296: media\/2014\/05\/11\/252551747708\/EN_FULL_0510_1296.mp4
+  date: 05-10
