@@ -31,7 +31,12 @@ class CbsEpisode
   end
 
   def fetch_html
-    yield Typhoeus.get("http://www.cbsnews.com/#{@link}").body
+    r = Typhoeus.get("http://www.cbsnews.com/#{@link}")
+    if r.success?
+      yield r.body
+    else
+      puts "    page returned #{r.code}"
+    end
   end
 end
 
@@ -178,7 +183,7 @@ class CbsParser
   def scrape_cbs_url(url, output_file, extra_re='')
     html = Typhoeus.get(url).body
 
-    raw_scan = html.scan(/href\s*=\s*"(\/videos\/.*)"#{extra_re}/)
+    raw_scan = html.scan(/href\s*=\s*"(\/videos\/\d.*)"#{extra_re}/)
 
     video_urls = sort_according_to_today(raw_scan.inject([]) do |urls, raw|
       video_url = extract_video_urls(raw, urls)
