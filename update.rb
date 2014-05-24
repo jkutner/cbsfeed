@@ -95,7 +95,7 @@ class CbsParser
   end
 
   def link_pattern(date_digits, size)
-    /(media(\\\/mpx)?\\\/201\d\\\/\d\d\\\/\d\d\\\/(\d{5,15}\\\/)?#{show_key}_?#{link_pattern_date}_FULL_#{link_pattern_date}.{0,20}_#{size}\.mp4)/i
+    /(media(\\\/mpx)?\\\/201\d\\\/\d\d\\\/\d\d\\\/(\d{5,15}\\\/)?#{show_key}_?#{link_pattern_date}_FULL#{link_pattern_date}.{0,20}_#{size}\.mp4)/i
   end
 
   def link_pattern_date
@@ -184,7 +184,7 @@ class CbsParser
 
     raw_scan = html.scan(/href\s*=\s*"(\/videos\/\d.*)"#{extra_re}/)
 
-    video_urls = sort_according_to_today(raw_scan.inject([]) do |urls, raw|
+    video_urls = raw_scan.inject([]) do |urls, raw|
       video_url = extract_video_urls(raw, urls)
       video_urls = [video_url]
       pruned_urls = urls.compact
@@ -194,7 +194,7 @@ class CbsParser
         end
       end
       pruned_urls + video_urls
-    end.compact)
+    end.compact.sort {|x,y|  Date.strptime(y['date'], "%m-%d") <=>  Date.strptime(x['date'], "%m-%d") }
 
     puts "Merging previous episodes..."
     (YAML.load_file(output_file) || []).each do |previous_episode|
@@ -205,31 +205,8 @@ class CbsParser
       end
     end
     File.open(output_file, "w+") do |f|
-      f.write(video_urls.take(10).to_yaml)
+      f.write(video_urls.take(8).to_yaml)
     end
-  end
-
-  def sort_according_to_today(list)
-    puts 'Sorting list of urls by date, according to today...'
-    new_list = []
-    now = Time.now
-
-    until list.empty?
-      cur_best = list.inject do |best, i|
-        if best.nil?
-          i
-        else
-          diff = now - i['date']
-          best_diff = now - best['date']
-          diff > 0 and diff < best_diff ? i : best
-        end
-      end
-      new_list << cur_best
-      list.delete(cur_best)
-    end
-    new_list
-  rescue
-    list
   end
 end
 
