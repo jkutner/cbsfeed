@@ -64,7 +64,6 @@ class CbsEveningNewsEpisode < CbsEpisode
 
   def date_digits
     @date_digits ||= time.strftime("%m%d")
-    
   end
 
   def time(raw_date=nil)
@@ -206,7 +205,7 @@ class CbsParser
       end
     end
     File.open(output_file, "w+") do |f|
-      f.write(video_urls.take(show_key == "60" ? 10 : 6).to_yaml)
+      f.write(video_urls.take(10).to_yaml)
     end
   end
 
