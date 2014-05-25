@@ -1,4 +1,13 @@
 ---
+- title: 05-23
+  links:
+    orig: /videos/523-faa-investigates-another-near-miss-between-jetliners-despite-mental-decline-a-husbands-love-is-instinctual/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/05/23/264557123717/EN_052314_Full_500/EN_052314_Full_500.m3u8
+    mp4_240: media\/2014\/05\/23\/264557123717\/EN_052314_Full_240.mp4
+    mp4_740: media\/2014\/05\/23\/264557123717\/EN_052314_Full_740.mp4
+    mp4_796: media\/2014\/05\/23\/264557123717\/EN_052314_Full_796.mp4
+    mp4_1296: media\/2014\/05\/23\/264557123717\/EN_052314_Full_1296.mp4
+  date: 05-23
 - title: 05-22
   links:
     orig: /videos/522-arizona-wildfire-rages-as-thousands-prepare-to-evacuate-mass-high-schooler-brought-norman-rockwells-rookie-to-life/
@@ -20,11 +29,11 @@
 - title: 05-20
   links:
     orig: /videos/520-ex-players-allege-nfl-illegally-gave-them-drugs-to-mask-injuries-nebraska-residents-divided-over-keystone-xl-pipeline/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/05/22/263728707992/EN_052214_FULL_500/EN_052214_FULL_500.m3u8
-    mp4_240: media\/2014\/05\/22\/263728707992\/EN_052214_FULL_240.mp4
-    mp4_740: media\/2014\/05\/22\/263728707992\/EN_052214_FULL_740.mp4
-    mp4_796: media\/2014\/05\/22\/263728707992\/EN_052214_FULL_796.mp4
-    mp4_1296: media\/2014\/05\/22\/263728707992\/EN_052214_FULL_1296.mp4
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/05/23/264557123717/EN_052314_Full_500/EN_052314_Full_500.m3u8
+    mp4_240: media\/2014\/05\/23\/264557123717\/EN_052314_Full_240.mp4
+    mp4_740: media\/2014\/05\/23\/264557123717\/EN_052314_Full_740.mp4
+    mp4_796: media\/2014\/05\/23\/264557123717\/EN_052314_Full_796.mp4
+    mp4_1296: media\/2014\/05\/23\/264557123717\/EN_052314_Full_1296.mp4
   date: 05-20
 - title: 05-19
   links:
@@ -38,7 +47,7 @@
 - title: 05-18
   links:
     orig: /videos/518-president-facing-increased-scrutiny-over-va-scandal-devastating-coffee-disease-could-raise-worldwide-prices/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/05/22/263728707992/EN_052214_FULL_500/EN_052214_FULL_500.m3u8
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/05/23/264557123717/EN_052314_Full_500/EN_052314_Full_500.m3u8
     mp4_240: media\/2014\/05\/19\/259923523802\/EN_FULL_0518_replacement_240.mp4
     mp4_740: media\/2014\/05\/19\/259923523802\/EN_FULL_0518_replacement_740.mp4
     mp4_796: media\/2014\/05\/19\/259923523802\/EN_FULL_0518_replacement_796.mp4
@@ -62,12 +71,3 @@
     mp4_796: media\/2014\/05\/17\/258024515738\/EN_051614_Full_NEW_796.mp4
     mp4_1296: media\/2014\/05\/17\/258024515738\/EN_051614_Full_NEW_1296.mp4
   date: 05-16
-- title: 05-14
-  links:
-    orig: /videos/514-southern-california-wildfires-prompt-mass-evacuations-911-museum-tells-the-story-of-tragic-day/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/05/15/256211011977/EN_0514_FULL_v3_Replacement_500/EN_0514_FULL_v3_Replacement_500.m3u8
-    mp4_240: media\/2014\/05\/15\/256211011977\/EN_0514_FULL_v3_Replacement_240.mp4
-    mp4_740: media\/2014\/05\/15\/256211011977\/EN_0514_FULL_v3_Replacement_740.mp4
-    mp4_796: media\/2014\/05\/15\/256211011977\/EN_0514_FULL_v3_Replacement_796.mp4
-    mp4_1296: media\/2014\/05\/15\/256211011977\/EN_0514_FULL_v3_Replacement_1296.mp4
-  date: 05-14
