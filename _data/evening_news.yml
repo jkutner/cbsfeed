@@ -1,8 +1,17 @@
 ---
+- title: 06-07
+  links:
+    orig: /videos/67-actor-tracy-morgan-in-critical-condition-after-multi-vehicle-crash-belmont-stakes-newcomer-sounds-pageantry-with-bugle/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/06/07/275264067614/EN_0606_Full_500/EN_0606_Full_500.m3u8
+    mp4_240: media\/2014\/06\/08\/275938883595\/EN_FULL_0607_240.mp4
+    mp4_740: media\/2014\/06\/08\/275938883595\/EN_FULL_0607_740.mp4
+    mp4_796: media\/2014\/06\/08\/275938883595\/EN_FULL_0607_796.mp4
+    mp4_1296: media\/2014\/06\/08\/275938883595\/EN_FULL_0607_1296.mp4
+  date: 06-07
 - title: 06-06
   links:
     orig: /videos/66-return-to-normandy-remembering-d-day-70-years-later-wwii-veteran-runs-to-raise-awareness-for-hero-warship/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/06/06/274602563556/EN_060514_FULL_v2_500/EN_060514_FULL_v2_500.m3u8
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/06/07/275264067614/EN_0606_Full_500/EN_0606_Full_500.m3u8
     mp4_240: media\/2014\/06\/07\/275264067614\/EN_0606_Full_240.mp4
     mp4_740: media\/2014\/06\/07\/275264067614\/EN_0606_Full_740.mp4
     mp4_796: media\/2014\/06\/07\/275264067614\/EN_0606_Full_796.mp4
@@ -62,12 +71,3 @@
     mp4_796: media\/2014\/06\/01\/271389251927\/EN_FULL_0531_796.mp4
     mp4_1296: media\/2014\/06\/01\/271389251927\/EN_FULL_0531_1296.mp4
   date: 05-31
-- title: 05-30
-  links:
-    orig: /videos/0530-shinseki-resigns-amid-va-hospital-furor-ohio-man-finds-his-birthday-calling/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/05/31/270822467745/EN_FULL_0530_500/EN_FULL_0530_500.m3u8
-    mp4_240: media\/2014\/05\/31\/270822467745\/EN_FULL_0530_240.mp4
-    mp4_740: media\/2014\/05\/31\/270822467745\/EN_FULL_0530_740.mp4
-    mp4_796: media\/2014\/05\/31\/270822467745\/EN_FULL_0530_796.mp4
-    mp4_1296: media\/2014\/05\/31\/270822467745\/EN_FULL_0530_1296.mp4
-  date: 05-30
