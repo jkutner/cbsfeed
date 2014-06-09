@@ -11,7 +11,7 @@ class CbsParser
   end
 
   def link_pattern_date
-    %r{\d{0,6}_?}
+    %r{_?\d{0,6}}
   end
 
   def ipad_link_pattern
@@ -106,7 +106,14 @@ class CbsParser
         end
       end
       pruned_urls + video_urls
-    end.compact.sort {|x,y|  Date.strptime(y['date'], "%m-%d") <=>  Date.strptime(x['date'], "%m-%d") }
+    end.compact.sort do |x,y|
+      begin
+        Date.strptime(y['date'], "%m-%d") <=> Date.strptime(x['date'], "%m-%d")
+      rescue => e
+        puts "#{e}: #{y['title']} / #{x['title']}"
+        0 <=> 1
+      end
+    end
 
     puts "Merging previous episodes..."
     (YAML.load_file(output_file) || []).each do |previous_episode|
