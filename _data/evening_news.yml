@@ -1,17 +1,35 @@
 ---
+- title: 06-10
+  links:
+    orig: /videos/610-student-gunman-dead-in-oregon-school-shooting-the-fleeting-beauty-of-landscape-art/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/06/09/276659267568/EN_FULL_0608_500/EN_FULL_0608_500.m3u8
+    mp4_240: media\/2014\/06\/11\/278385731858\/EN_061014_FULLv2_240.mp4
+    mp4_740: media\/2014\/06\/11\/278385731858\/EN_061014_FULLv2_740.mp4
+    mp4_796: media\/2014\/06\/11\/278385731858\/EN_061014_FULLv2_796.mp4
+    mp4_1296: media\/2014\/06\/11\/278385731858\/EN_061014_FULLv2_1296.mp4
+  date: 06-10
+- title: 68-05
+  links:
+    orig: /videos/68-5-dead-after-suspects-open-fire-in-las-vegas-identity-of-man-behind-hidden-cash-frenzy-revealed/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/06/09/276659267568/EN_FULL_0608_500/EN_FULL_0608_500.m3u8
+    mp4_240: media\/2014\/06\/09\/276659267568\/EN_FULL_0608_240.mp4
+    mp4_740: media\/2014\/06\/09\/276659267568\/EN_FULL_0608_740.mp4
+    mp4_796: media\/2014\/06\/09\/276659267568\/EN_FULL_0608_796.mp4
+    mp4_1296: media\/2014\/06\/09\/276659267568\/EN_FULL_0608_1296.mp4
+  date: 68-05
 - title: 06-09
   links:
     orig: /videos/69-schedulers-ordered-to-lie-about-va-wait-times-tweeting-astronaut-on-life-in-the-space-station/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/06/09/277463619757/EN_0609_FULL_phone.m3u8
-    mp4_240: media\/2014\/06\/09\/277463619757\/EN_0609_FULL_240.mp4
-    mp4_740: media\/2014\/06\/09\/277463619757\/EN_0609_FULL_740.mp4
-    mp4_796: media\/2014\/06\/09\/277463619757\/EN_0609_FULL_796.mp4
-    mp4_1296: media\/2014\/06\/09\/277463619757\/EN_0609_FULL_1296.mp4
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/06/09/276659267568/EN_FULL_0608_500/EN_FULL_0608_500.m3u8
+    mp4_240: media\/2014\/06\/09\/277463619757\/EN_0609_FULL_blurred_replacement_240.mp4
+    mp4_740: media\/2014\/06\/09\/277463619757\/EN_0609_FULL_blurred_replacement_740.mp4
+    mp4_796: media\/2014\/06\/09\/277463619757\/EN_0609_FULL_blurred_replacement_796.mp4
+    mp4_1296: media\/2014\/06\/09\/277463619757\/EN_0609_FULL_blurred_replacement_1296.mp4
   date: 06-09
 - title: 06-07
   links:
     orig: /videos/67-actor-tracy-morgan-in-critical-condition-after-multi-vehicle-crash-belmont-stakes-newcomer-sounds-pageantry-with-bugle/
-    ipad: ''
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/06/09/276659267568/EN_FULL_0608_500/EN_FULL_0608_500.m3u8
     mp4_240: media\/2014\/06\/08\/275938883595\/EN_0607_Fullreplacement_240.mp4
     mp4_740: media\/2014\/06\/08\/275938883595\/EN_0607_Fullreplacement_740.mp4
     mp4_796: media\/2014\/06\/08\/275938883595\/EN_0607_Fullreplacement_796.mp4
@@ -35,15 +53,6 @@
     mp4_796: media\/2014\/06\/06\/274602563556\/EN_060514_FULL_v2_796.mp4
     mp4_1296: media\/2014\/06\/06\/274602563556\/EN_060514_FULL_v2_1296.mp4
   date: 06-05
-- title: 68-05
-  links:
-    orig: /videos/68-5-dead-after-suspects-open-fire-in-las-vegas-identity-of-man-behind-hidden-cash-frenzy-revealed/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/06/09/276659267568/EN_FULL_0608_500/EN_FULL_0608_500.m3u8
-    mp4_240: media\/2014\/06\/09\/276659267568\/EN_FULL_0608_240.mp4
-    mp4_740: media\/2014\/06\/09\/276659267568\/EN_FULL_0608_740.mp4
-    mp4_796: media\/2014\/06\/09\/276659267568\/EN_FULL_0608_796.mp4
-    mp4_1296: media\/2014\/06\/09\/276659267568\/EN_FULL_0608_1296.mp4
-  date: 68-05
 - title: 06-04
   links:
     orig: /videos/64-taliban-releases-video-showing-bergdahl-handover-d-day-veteran-shares-story-with-future-generations/
@@ -62,12 +71,3 @@
     mp4_796: media\/2014\/06\/03\/273125443556\/EN_060314_Full_796.mp4
     mp4_1296: media\/2014\/06\/03\/273125443556\/EN_060314_Full_1296.mp4
   date: 06-03
-- title: 06-02
-  links:
-    orig: /videos/62-bergdahl-labeled-a-deserter-by-former-unit-70-years-after-parachuting-into-normandy-vet-to-jump-again/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/06/02/272435267558/EN_0602_FULL_phone.m3u8
-    mp4_240: media\/2014\/06\/02\/272435267558\/EN_0602_FULL_240.mp4
-    mp4_740: media\/2014\/06\/02\/272435267558\/EN_0602_FULL_740.mp4
-    mp4_796: media\/2014\/06\/02\/272435267558\/EN_0602_FULL_796.mp4
-    mp4_1296: media\/2014\/06\/02\/272435267558\/EN_0602_FULL_1296.mp4
-  date: 06-02
