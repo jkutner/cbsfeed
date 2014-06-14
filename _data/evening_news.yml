@@ -1,13 +1,13 @@
 ---
-- title: 06-12
+- title: 06-13
   links:
-    orig: /videos/612-iraqi-civilians-flee-fighting-as-militants-close-in-actress-ruby-dee-dies-at-91/
+    orig: /videos/613-shiite-men-answer-call-to-arms-against-isis-a-fathers-gift-to-his-daughter/
     ipad: ipad-streaming.cbsnews.com/media/mpx/2014/06/13/279973955504/EN_061214_FULL_phone.m3u8
-    mp4_240: media\/2014\/06\/13\/279973955504\/EN_061214_FULL_240.mp4
-    mp4_740: media\/2014\/06\/13\/279973955504\/EN_061214_FULL_740.mp4
-    mp4_796: media\/2014\/06\/13\/279973955504\/EN_061214_FULL_796.mp4
-    mp4_1296: media\/2014\/06\/13\/279973955504\/EN_061214_FULL_1296.mp4
-  date: 06-12
+    mp4_240: media\/2014\/06\/14\/280707139941\/EN_FULL_0612_241309_240.mp4
+    mp4_740: media\/2014\/06\/14\/280707139941\/EN_FULL_0612_241309_740.mp4
+    mp4_796: media\/2014\/06\/14\/280707139941\/EN_FULL_0612_241309_796.mp4
+    mp4_1296: media\/2014\/06\/14\/280707139941\/EN_FULL_0612_241309_1296.mp4
+  date: 06-13
 - title: 68-05
   links:
     orig: /videos/68-5-dead-after-suspects-open-fire-in-las-vegas-identity-of-man-behind-hidden-cash-frenzy-revealed/
@@ -17,6 +17,15 @@
     mp4_796: media\/2014\/06\/09\/276659267568\/EN_FULL_0608_796.mp4
     mp4_1296: media\/2014\/06\/09\/276659267568\/EN_FULL_0608_1296.mp4
   date: 68-05
+- title: 06-12
+  links:
+    orig: /videos/612-iraqi-civilians-flee-fighting-as-militants-close-in-actress-ruby-dee-dies-at-91/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/06/13/279973955504/EN_061214_FULL_phone.m3u8
+    mp4_240: media\/2014\/06\/13\/279973955504\/EN_061214_FULL_240.mp4
+    mp4_740: media\/2014\/06\/13\/279973955504\/EN_061214_FULL_740.mp4
+    mp4_796: media\/2014\/06\/13\/279973955504\/EN_061214_FULL_796.mp4
+    mp4_1296: media\/2014\/06\/13\/279973955504\/EN_061214_FULL_1296.mp4
+  date: 06-12
 - title: 06-11
   links:
     orig: /videos/611-cantor-announces-he-will-step-down-as-majority-leader-cloned-vehicles-allowing-drug-runners-to-hide-in-plain-sight/
@@ -62,12 +71,3 @@
     mp4_796: media\/2014\/06\/07\/275264067614\/EN_0606_Full_796.mp4
     mp4_1296: media\/2014\/06\/07\/275264067614\/EN_0606_Full_1296.mp4
   date: 06-06
-- title: 06-05
-  links:
-    orig: /videos/65-gm-first-learned-of-defect-in-1999-probe-finds-d-day-veteran-returns-to-normandy-for-final-mission/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/06/06/274602563556/EN_060514_FULL_v2_500/EN_060514_FULL_v2_500.m3u8
-    mp4_240: media\/2014\/06\/06\/274602563556\/EN_060514_FULL_v2_240.mp4
-    mp4_740: media\/2014\/06\/06\/274602563556\/EN_060514_FULL_v2_740.mp4
-    mp4_796: media\/2014\/06\/06\/274602563556\/EN_060514_FULL_v2_796.mp4
-    mp4_1296: media\/2014\/06\/06\/274602563556\/EN_060514_FULL_v2_1296.mp4
-  date: 06-05
