@@ -1,4 +1,13 @@
 ---
+- title: 06-22
+  links:
+    orig: /videos/622-isis-makes-major-new-gains-in-iraq-more-flooding-forecasted-for-upper-midwest/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/06/21/285564995861/EN_062014_Full_243716_500/EN_062014_Full_243716_500.m3u8
+    mp4_240: media\/2014\/06\/23\/286731843611\/en_0622_full_244127_240.mp4
+    mp4_740: media\/2014\/06\/23\/286731843611\/en_0622_full_244127_740.mp4
+    mp4_796: media\/2014\/06\/23\/286731843611\/en_0622_full_244127_796.mp4
+    mp4_1296: media\/2014\/06\/23\/286731843611\/en_0622_full_244127_1296.mp4
+  date: 06-22
 - title: 06-21
   links:
     orig: /videos/621-pope-francis-takes-on-the-mob-why-are-coffee-prices-rising/
@@ -62,12 +71,3 @@
     mp4_796: media\/2014\/06\/16\/281892931838\/EN_FULL_0615_241796_796.mp4
     mp4_1296: media\/2014\/06\/16\/281892931838\/EN_FULL_0615_2411296_1296.mp4
   date: 06-15
-- title: 06-14
-  links:
-    orig: /videos/614-shiite-men-heed-urgent-call-to-arms-against-isis-queen-elizabeth-ii-celebrates-88th-birthday/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/06/15/281266243990/EN_FULL_0614_241539_500/EN_FULL_0614_241539_500.m3u8
-    mp4_240: media\/2014\/06\/15\/281266243990\/EN_FULL_0614_241531_240.mp4
-    mp4_740: media\/2014\/06\/15\/281266243990\/EN_FULL_0614_241531_740.mp4
-    mp4_796: media\/2014\/06\/15\/281266243990\/EN_FULL_0614_241531_796.mp4
-    mp4_1296: media\/2014\/06\/15\/281266243990\/EN_FULL_0614_241531_1296.mp4
-  date: 06-14
