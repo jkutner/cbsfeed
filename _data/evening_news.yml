@@ -1,4 +1,13 @@
 ---
+- title: 06-30
+  links:
+    orig: /videos/630-obama-orders-more-troops-to-iraq-wildfires-scorching-u-s-in-record-numbers/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/06/30/292781123913/EN_FULL_062914_247944_500/EN_FULL_062914_247944_500.m3u8
+    mp4_240: media\/2014\/06\/30\/293616707929\/EN_0630_Full_248314_240.mp4
+    mp4_740: media\/2014\/06\/30\/293616707929\/EN_0630_Full_248314_740.mp4
+    mp4_796: media\/2014\/06\/30\/293616707929\/EN_0630_Full_248314_796.mp4
+    mp4_1296: media\/2014\/06\/30\/293616707929\/EN_0630_Full_248314_1296.mp4
+  date: 06-30
 - title: 06-29
   links:
     orig: /videos/629-obama-seeks-aid-to-stem-surge-in-illegal-border-crossings-four-decades-later-vietnam-vets-reunite/
@@ -62,12 +71,3 @@
     mp4_796: media\/2014\/06\/23\/287414339600\/EN_0623_FULL_244491_796.mp4
     mp4_1296: media\/2014\/06\/23\/287414339600\/EN_0623_FULL_244491_1296.mp4
   date: 06-23
-- title: 06-22
-  links:
-    orig: /videos/622-isis-makes-major-new-gains-in-iraq-more-flooding-forecasted-for-upper-midwest/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/06/23/286731843611/en_0622_full_244129_500/en_0622_full_244129_500.m3u8
-    mp4_240: media\/2014\/06\/23\/286731843611\/en_0622_full_244127_240.mp4
-    mp4_740: media\/2014\/06\/23\/286731843611\/en_0622_full_244127_740.mp4
-    mp4_796: media\/2014\/06\/23\/286731843611\/en_0622_full_244127_796.mp4
-    mp4_1296: media\/2014\/06\/23\/286731843611\/en_0622_full_244127_1296.mp4
-  date: 06-22
