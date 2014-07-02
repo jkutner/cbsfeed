@@ -1,4 +1,13 @@
 ---
+- title: 07-01
+  links:
+    orig: /videos/71-belgium-knocks-usa-out-of-world-cup-lbj-aide-remembers-fight-for-civil-rights-act/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/06/30/293616707929/EN_0630_Full_248317_500/EN_0630_Full_248317_500.m3u8
+    mp4_240: media\/2014\/07\/01\/294473795586\/EN_0701_Full_248728_240.mp4
+    mp4_740: media\/2014\/07\/01\/294473795586\/EN_0701_Full_248728_740.mp4
+    mp4_796: media\/2014\/07\/01\/294473795586\/EN_0701_Full_248728_796.mp4
+    mp4_1296: media\/2014\/07\/01\/294473795586\/EN_0701_Full_248728_1296.mp4
+  date: 07-01
 - title: 06-30
   links:
     orig: /videos/630-obama-orders-more-troops-to-iraq-wildfires-scorching-u-s-in-record-numbers/
@@ -62,12 +71,3 @@
     mp4_796: media\/2014\/06\/24\/288261699726\/EN_062414_FULL_245397_796.mp4
     mp4_1296: media\/2014\/06\/24\/288261699726\/EN_062414_FULL_245397_1296.mp4
   date: 06-24
-- title: 06-23
-  links:
-    orig: /videos/623-kerry-pushes-for-inclusive-iraqi-government-uncovering-the-mystery-of-the-kindred-spirit-mailbox/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/06/23/287414339600/EN_0623_FULL_244515_500/EN_0623_FULL_244515_500.m3u8
-    mp4_240: media\/2014\/06\/23\/287414339600\/EN_0623_FULL_244491_240.mp4
-    mp4_740: media\/2014\/06\/23\/287414339600\/EN_0623_FULL_244491_740.mp4
-    mp4_796: media\/2014\/06\/23\/287414339600\/EN_0623_FULL_244491_796.mp4
-    mp4_1296: media\/2014\/06\/23\/287414339600\/EN_0623_FULL_244491_1296.mp4
-  date: 06-23
