@@ -1,4 +1,13 @@
 ---
+- title: 07-11
+  links:
+    orig: /videos/711-cdc-closes-labs-over-mishandling-of-deadly-pathogens-connecticut-man-restores-dignity-with-a-little-off-the-top/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/07/10/300812355586/EN_0709_FULL_v2_251270_500/EN_0709_FULL_v2_251270_500.m3u8
+    mp4_240: media\/2014\/07\/12\/302588995533\/EN_0711_FULL_252140_240.mp4
+    mp4_740: media\/2014\/07\/12\/302588995533\/EN_0711_FULL_252140_740.mp4
+    mp4_796: media\/2014\/07\/12\/302588995533\/EN_0711_FULL_252140_796.mp4
+    mp4_1296: media\/2014\/07\/12\/302588995533\/EN_0711_FULL_252140_1296.mp4
+  date: 07-11
 - title: 07-10
   links:
     orig: /videos/710-casualties-rise-as-israeli-air-strikes-continue-in-gaza-babe-ruths-elderly-daughter-preserves-legacy/
@@ -62,12 +71,3 @@
     mp4_796: media\/2014\/07\/05\/296781891805\/EN_FULL_0704_249605_796.mp4
     mp4_1296: media\/2014\/07\/05\/296781891805\/EN_FULL_0704_249605_1296.mp4
   date: 07-04
-- title: 07-03
-  links:
-    orig: /videos/73-hurricane-arthur-intensifies-as-it-nears-north-carolina-coast-texas-bbq-expert-lives-out-his-dream/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/07/03/296135747848/EN_0703_Full_249384_500/EN_0703_Full_249384_500.m3u8
-    mp4_240: media\/2014\/07\/03\/296135747848\/EN_0703_Full_249381_240.mp4
-    mp4_740: media\/2014\/07\/03\/296135747848\/EN_0703_Full_249381_740.mp4
-    mp4_796: media\/2014\/07\/03\/296135747848\/EN_0703_Full_249381_796.mp4
-    mp4_1296: media\/2014\/07\/03\/296135747848\/EN_0703_Full_249381_1296.mp4
-  date: 07-03
