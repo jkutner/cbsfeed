@@ -1,4 +1,13 @@
 ---
+- title: 07-20
+  links:
+    orig: /videos/720-deadly-day-in-gaza-as-israel-steps-up-ground-offensive-california-couple-threatened-with-fine-for-under-watering-lawn/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/07/21/309691459840/EN_FULL_0720_255116_500/EN_FULL_0720_255116_500.m3u8
+    mp4_240: media\/2014\/07\/21\/309691459840\/EN_FULL_0720_255113_240.mp4
+    mp4_740: media\/2014\/07\/21\/309691459840\/EN_FULL_0720_255113_740.mp4
+    mp4_796: media\/2014\/07\/21\/309691459840\/EN_FULL_0720_255113_796.mp4
+    mp4_1296: media\/2014\/07\/21\/309691459840\/EN_FULL_0720_255113_1296.mp4
+  date: 07-20
 - title: 07-19
   links:
     orig: /videos/719-malaysia-airlines-flight-17-investigators-denied-access-to-crash-site-the-family-a-malaysia-airlines-flight-17-victim-left-behind/
@@ -62,12 +71,3 @@
     mp4_796: media\/2014\/07\/14\/303909443778\/EN_FULL_0713_252545_796.mp4
     mp4_1296: media\/2014\/07\/14\/303909443778\/EN_FULL_0713_252545_1296.mp4
   date: 07-13
-- title: 07-12
-  links:
-    orig: /videos/712-israel-issues-evacuation-warning-to-northern-gazas-residents-dancing-connecticut-traffic-agent-chases-away-sadness-with-smile/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/07/13/303240259987/EN_FULL_0712_252367_500/EN_FULL_0712_252367_500.m3u8
-    mp4_240: media\/2014\/07\/13\/303240259987\/EN_FULL_0712_252364_240.mp4
-    mp4_740: media\/2014\/07\/13\/303740259987\/EN_FULL_0712_252364_740.mp4
-    mp4_796: media\/2014\/07\/13\/303796259987\/EN_FULL_0712_252364_796.mp4
-    mp4_1296: media\/2014\/07\/13\/3031296259987\/EN_FULL_0712_252364_1296.mp4
-  date: 07-12
