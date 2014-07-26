@@ -1,13 +1,4 @@
 ---
-- title: 07-25
-  links:
-    orig: /videos/725-u-s-officials-russia-has-fired-artillery-into-ukraine-parents-overcome-daughters-tragic-death-through-her-bucket-list/
-    ipad: ''
-    mp4_240: media\/2014\/07\/26\/312580675838\/EN_FULL_0725_257299_240.mp4
-    mp4_740: media\/2014\/07\/26\/312580675838\/EN_FULL_0725_257299_740.mp4
-    mp4_796: media\/2014\/07\/26\/312580675838\/EN_FULL_0725_257299_796.mp4
-    mp4_1296: media\/2014\/07\/26\/312580675838\/EN_FULL_0725_257299_1296.mp4
-  date: 07-25
 - title: 07-24
   links:
     orig: /videos/724-shells-hit-u-n-school-sheltering-evacuees-worlds-oldest-weather-observer-to-be-honored/
@@ -71,3 +62,12 @@
     mp4_796: media\/2014\/07\/19\/308175939534\/EN_071814_Full_New_254710_796.mp4
     mp4_1296: media\/2014\/07\/19\/308175939534\/EN_071814_Full_New_254710_1296.mp4
   date: 07-18
+- title: 07-17
+  links:
+    orig: /videos/717-extended-coverage-malaysia-airlines-flight-17-apparently-shot-own-over-ukraine/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/07/18/307307587514/EN_071714_FULL_254240_tablet.m3u8
+    mp4_240: media\/2014\/07\/18\/307307587514\/EN_071714_FULL_254234_240.mp4
+    mp4_740: media\/2014\/07\/18\/307307587514\/EN_071714_FULL_254234_740.mp4
+    mp4_796: media\/2014\/07\/18\/307307587514\/EN_071714_FULL_254234_796.mp4
+    mp4_1296: media\/2014\/07\/18\/307307587514\/EN_071714_FULL_254234_1296.mp4
+  date: 07-17
