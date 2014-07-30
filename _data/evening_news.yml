@@ -44,15 +44,6 @@
     mp4_796: media\/2014\/07\/24\/312247363817\/EN_072414_Full_256874_796.mp4
     mp4_1296: media\/2014\/07\/24\/312247363817\/EN_072414_Full_256874_1296.mp4
   date: 07-24
-- title: 07-23
-  links:
-    orig: /videos/723-first-victims-of-mh17-returned-to-european-soil-female-veterans-find-sisterhood-in-recovery-program/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/07/24/311908931607/EN_0723_Full_256526_500/EN_0723_Full_256526_500.m3u8
-    mp4_240: media\/2014\/07\/24\/311908931607\/EN_0723_Full_256506_240.mp4
-    mp4_740: media\/2014\/07\/24\/311908931607\/EN_0723_Full_256506_740.mp4
-    mp4_796: media\/2014\/07\/24\/311908931607\/EN_0723_Full_256506_796.mp4
-    mp4_1296: media\/2014\/07\/24\/311908931607\/EN_0723_Full_256506_1296.mp4
-  date: 07-23
 - title: 07-22
   links:
     orig: /videos/722-faa-cancels-flights-to-tel-aviv-chinese-tourists-swarm-maine-boston/
@@ -71,3 +62,12 @@
     mp4_796: media\/2014\/07\/22\/310568515519\/EN_0721_Full_255542_796.mp4
     mp4_1296: media\/2014\/07\/22\/310568515519\/EN_0721_Full_255542_1296.mp4
   date: 07-21
+- title: 07-20
+  links:
+    orig: /videos/720-deadly-day-in-gaza-as-israel-steps-up-ground-offensive-california-couple-threatened-with-fine-for-under-watering-lawn/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/07/21/309691459840/EN_FULL_0720_255116_500/EN_FULL_0720_255116_500.m3u8
+    mp4_240: media\/2014\/07\/21\/309691459840\/EN_FULL_0720_255113_240.mp4
+    mp4_740: media\/2014\/07\/21\/309691459840\/EN_FULL_0720_255113_740.mp4
+    mp4_796: media\/2014\/07\/21\/309691459840\/EN_FULL_0720_255113_796.mp4
+    mp4_1296: media\/2014\/07\/21\/309691459840\/EN_FULL_0720_255113_1296.mp4
+  date: 07-20
