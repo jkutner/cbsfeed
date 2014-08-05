@@ -1,13 +1,4 @@
 ---
-- title: 08-04
-  links:
-    orig: /videos/84-u-s-ebola-patients-treated-with-experimental-serum-james-brady-reagan-aide-gun-control-advocate-dead-at-73/
-    ipad: ''
-    mp4_240: media\/2014\/08\/04\/315042371588\/EN_080414_FULL_260760_240.mp4
-    mp4_740: media\/2014\/08\/04\/315042371588\/EN_080414_FULL_260760_740.mp4
-    mp4_796: media\/2014\/08\/04\/315042371588\/EN_080414_FULL_260760_796.mp4
-    mp4_1296: media\/2014\/08\/04\/315042371588\/EN_080414_FULL_260760_1296.mp4
-  date: 08-04
 - title: 08-03
   links:
     orig: /videos/83-israel-accused-of-striking-u-n-school-in-gaza-killing-10-new-york-times-runs-first-ever-medical-marijuana-ad/
@@ -71,3 +62,12 @@
     mp4_796: media\/2014\/07\/29\/313145411974\/EN_072814_Full_2_258095_796.mp4
     mp4_1296: media\/2014\/07\/29\/313145411974\/EN_072814_Full_2_258095_1296.mp4
   date: 07-28
+- title: 07-27
+  links:
+    orig: /videos/727-despite-truce-proposals-war-in-gaza-rages-on-reporters-notebook-lessons-little-kids-shouldnt-have-to-learn/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/07/28/312828995733/EN_FULL_0727_257731_500/EN_FULL_0727_257731_500.m3u8
+    mp4_240: media\/2014\/07\/28\/312828995733\/EN_FULL_0727_257727_240.mp4
+    mp4_740: media\/2014\/07\/28\/312828995733\/EN_FULL_0727_257727_740.mp4
+    mp4_796: media\/2014\/07\/28\/312828995733\/EN_FULL_0727_257727_796.mp4
+    mp4_1296: media\/2014\/07\/28\/312828995733\/EN_FULL_0727_257727_1296.mp4
+  date: 07-27
