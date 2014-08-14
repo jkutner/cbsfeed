@@ -1,4 +1,13 @@
 ---
+- title: 08-13
+  links:
+    orig: /videos/813-record-rainfall-strands-nyc-commuters-lauren-bacall-in-her-own-words/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/08/14/317916227646/EN_081314_Full_264590_phone.m3u8
+    mp4_240: media\/2014\/08\/14\/317916227646\/EN_081314_Full_264574_240.mp4
+    mp4_740: media\/2014\/08\/14\/317916227646\/EN_081314_Full_264574_740.mp4
+    mp4_796: media\/2014\/08\/14\/317916227646\/EN_081314_Full_264574_796.mp4
+    mp4_1296: media\/2014\/08\/14\/317916227646\/EN_081314_Full_264574_1296.mp4
+  date: 08-13
 - title: 08-12
   links:
     orig: /videos/812-coroner-robin-williams-died-from-hanging-new-lead-in-brooklyn-bridge-mystery/
@@ -62,12 +71,3 @@
     mp4_796: media\/2014\/08\/06\/315830851815\/EN_080614_FULL_261758_796.mp4
     mp4_1296: media\/2014\/08\/06\/315830851815\/EN_080614_FULL_261758_1296.mp4
   date: 08-06
-- title: 08-05
-  links:
-    orig: /videos/85-u-s-two-star-general-killed-in-insider-attack-in-afghanistan-a-look-back-at-nixons-resignation/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/08/06/315439683794/EN_080514_FULL_261248_500/EN_080514_FULL_261248_500.m3u8
-    mp4_240: media\/2014\/08\/06\/315439683794\/EN_080514_FULL_261244_240.mp4
-    mp4_740: media\/2014\/08\/06\/315439683794\/EN_080514_FULL_261244_740.mp4
-    mp4_796: media\/2014\/08\/06\/315439683794\/EN_080514_FULL_261244_796.mp4
-    mp4_1296: media\/2014\/08\/06\/315439683794\/EN_080514_FULL_261244_1296.mp4
-  date: 08-05
