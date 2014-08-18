@@ -29,11 +29,11 @@
 - title: 08-12
   links:
     orig: /videos/812-severe-flooding-hits-midwest-east-coast-new-lead-in-brooklyn-bridge-mystery/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/08/18/318981187674/EN_FULL_081714_266129_500/EN_FULL_081714_266129_500.m3u8
+    mp4_240: media\/2014\/08\/18\/318981187674\/EN_FULL_081714_266126_240.mp4
+    mp4_740: media\/2014\/08\/18\/318981187674\/EN_FULL_081714_266126_740.mp4
+    mp4_796: media\/2014\/08\/18\/318981187674\/EN_FULL_081714_266126_796.mp4
+    mp4_1296: media\/2014\/08\/18\/318981187674\/EN_FULL_081714_266126_1296.mp4
   date: 08-12
 - title: 08-11
   links:
