@@ -1,4 +1,13 @@
 ---
+- title: 08-18
+  links:
+    orig: /videos/818-national-guard-heads-to-ferguson-as-tensions-remain-high-mapping-the-worlds-coral-reefs-like-never-before/
+    ipad: ''
+    mp4_240: media\/2014\/08\/18\/319309891589\/EN_081714_FULL_266521_240.mp4
+    mp4_740: media\/2014\/08\/18\/319309891589\/EN_081714_FULL_266521_740.mp4
+    mp4_796: media\/2014\/08\/18\/319309891589\/EN_081714_FULL_266521_796.mp4
+    mp4_1296: media\/2014\/08\/18\/319309891589\/EN_081714_FULL_266521_1296.mp4
+  date: 08-18
 - title: 08-17
   links:
     orig: /videos/817-supporters-pack-ferguson-church-in-rally-for-fatally-shot-teen-zoos-look-up-to-attract-next-generation-of-visitors/
@@ -17,6 +26,15 @@
     mp4_796: media\/2014\/08\/17\/318845507646\/EN_FULL_081614_265799_796.mp4
     mp4_1296: media\/2014\/08\/17\/318845507646\/EN_FULL_081614_265799_1296.mp4
   date: 08-16
+- title: 08-15
+  links:
+    orig: /videos/815-michael-brown-suspected-in-robbery-minutes-before-shooting-als-patient-continues-bigg-initiative-to-bring-people-together/
+    ipad: ''
+    mp4_240: media\/2014\/08\/15\/318648387755\/EN_081514_Full_replacement2_266398_240.mp4
+    mp4_740: media\/2014\/08\/15\/318648387755\/EN_081514_Full_replacement2_266398_740.mp4
+    mp4_796: media\/2014\/08\/15\/318648387755\/EN_081514_Full_replacement2_266398_796.mp4
+    mp4_1296: media\/2014\/08\/15\/318648387755\/EN_081514_Full_replacement2_266398_1296.mp4
+  date: 08-15
 - title: 08-14
   links:
     orig: /videos/814-witnesses-describe-growing-tensions-in-ferguson-is-social-media-fueling-tensions-in-ferguson-mo/
@@ -29,7 +47,7 @@
 - title: 08-13
   links:
     orig: /videos/813-record-rainfall-strands-nyc-commuters-ground-troops-land-in-iraq-for-possible-refugee-rescue/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/08/18/318981187674/EN_FULL_081714_266129_500/EN_FULL_081714_266129_500.m3u8
+    ipad: ''
     mp4_240: media\/2014\/08\/14\/317916227646\/EN_081314_Full_replacement_264929_240.mp4
     mp4_740: media\/2014\/08\/14\/317916227646\/EN_081314_Full_replacement_264929_740.mp4
     mp4_796: media\/2014\/08\/14\/317916227646\/EN_081314_Full_replacement_264929_796.mp4
@@ -38,11 +56,11 @@
 - title: 08-12
   links:
     orig: /videos/812-severe-flooding-hits-midwest-east-coast-new-lead-in-brooklyn-bridge-mystery/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/08/18/318981187674/EN_FULL_081714_266129_500/EN_FULL_081714_266129_500.m3u8
-    mp4_240: media\/2014\/08\/18\/318981187674\/EN_FULL_081714_266126_240.mp4
-    mp4_740: media\/2014\/08\/18\/318981187674\/EN_FULL_081714_266126_740.mp4
-    mp4_796: media\/2014\/08\/18\/318981187674\/EN_FULL_081714_266126_796.mp4
-    mp4_1296: media\/2014\/08\/18\/318981187674\/EN_FULL_081714_266126_1296.mp4
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
   date: 08-12
 - title: 08-11
   links:
@@ -53,21 +71,3 @@
     mp4_796: media\/2014\/08\/12\/317335619964\/EN_081114_FULL_263641_796.mp4
     mp4_1296: media\/2014\/08\/12\/317335619964\/EN_081114_FULL_263641_1296.mp4
   date: 08-11
-- title: 08-10
-  links:
-    orig: /videos/810-u-s-airstrikes-continue-as-iraqs-yazidis-flee-militants-behind-the-special-tree-bearing-many-fruits/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/08/11/317058627750/EN_FULL_081014_263256_phone.m3u8
-    mp4_240: media\/2014\/08\/11\/317058627750\/EN_FULL_081014_263228_240.mp4
-    mp4_740: media\/2014\/08\/11\/317058627750\/EN_FULL_081014_263228_740.mp4
-    mp4_796: media\/2014\/08\/11\/317058627750\/EN_FULL_081014_263228_796.mp4
-    mp4_1296: media\/2014\/08\/11\/317058627750\/EN_FULL_081014_263228_1296.mp4
-  date: 08-10
-- title: 08-09
-  links:
-    orig: /videos/89-u-s-fighter-jets-aid-kurds-in-fighting-isis-militants-teen-drummer-lives-his-dream-one-beat-at-a-time/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/08/10/316933187709/EN_FULL_080914_263062_500/EN_FULL_080914_263062_500.m3u8
-    mp4_240: media\/2014\/08\/10\/316933187709\/EN_FULL_080914_263059_240.mp4
-    mp4_740: media\/2014\/08\/10\/316933187709\/EN_FULL_080914_263059_740.mp4
-    mp4_796: media\/2014\/08\/10\/316933187709\/EN_FULL_080914_263059_796.mp4
-    mp4_1296: media\/2014\/08\/10\/316933187709\/EN_FULL_080914_263059_1296.mp4
-  date: 08-09
