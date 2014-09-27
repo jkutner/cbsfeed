@@ -1,7 +1,34 @@
 ---
+- title: 09-26
+  links:
+    orig: "/videos/926-suspect-in-chicago-control-center-fire-attempted-suicide-new-york-mighty-mites-bounce-back-from-youtube-flub/"
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/09/27/334114883961/EN_092614_FULL_new_282626_tablet.m3u8
+    mp4_240: media\/2014\/09\/27\/334114883961\/EN_092614_FULL_new_282620_240.mp4
+    mp4_740: media\/2014\/09\/27\/334114883961\/EN_092614_FULL_new_282620_740.mp4
+    mp4_796: media\/2014\/09\/27\/334114883961\/EN_092614_FULL_new_282620_796.mp4
+    mp4_1296: media\/2014\/09\/27\/334114883961\/EN_092614_FULL_new_282620_1296.mp4
+  date: 09-26
+- title: 09-25
+  links:
+    orig: "/videos/925-n-y-officials-no-need-to-fear-the-subway-denver-students-protest-new-changes-to-history-curriculum/"
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/09/25/333621315666/EN_092514_FULL_282202_500/EN_092514_FULL_282202_500.m3u8
+    mp4_240: media\/2014\/09\/25\/333621315666\/EN_092514_FULL_282164_240.mp4
+    mp4_740: media\/2014\/09\/25\/333621315666\/EN_092514_FULL_282164_740.mp4
+    mp4_796: media\/2014\/09\/25\/333621315666\/EN_092514_FULL_282164_796.mp4
+    mp4_1296: media\/2014\/09\/25\/333621315666\/EN_092514_FULL_282164_1296.mp4
+  date: 09-25
+- title: 09-24
+  links:
+    orig: "/videos/924-at-u-n-obama-rallies-nations-against-isis-training-cybercrime-fighters-to-think-like-cyber-criminals/"
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/09/24/333101123582/EN_092414_FULL_281703_500/EN_092414_FULL_281703_500.m3u8
+    mp4_240: media\/2014\/09\/24\/333101123582\/EN_092414_FULL_281697_240.mp4
+    mp4_740: media\/2014\/09\/24\/333101123582\/EN_092414_FULL_281697_740.mp4
+    mp4_796: media\/2014\/09\/24\/333101123582\/EN_092414_FULL_281697_796.mp4
+    mp4_1296: media\/2014\/09\/24\/333101123582\/EN_092414_FULL_281697_1296.mp4
+  date: 09-24
 - title: 09-23
   links:
-    orig: /videos/923-u-s-arab-aircraft-attack-isis-targets-in-syria-saving-loons-from-a-shrinking-range/
+    orig: "/videos/923-u-s-arab-aircraft-attack-isis-targets-in-syria-saving-loons-from-a-shrinking-range/"
     ipad: ipad-streaming.cbsnews.com/media/mpx/2014/09/23/332655683839/EN_092314_FULL_281235_phone.m3u8
     mp4_240: media\/2014\/09\/23\/332655683839\/EN_092314_FULL_281222_240.mp4
     mp4_740: media\/2014\/09\/23\/332655683839\/EN_092314_FULL_281222_740.mp4
@@ -10,8 +37,8 @@
   date: 09-23
 - title: 09-22
   links:
-    orig: /videos/922-u-s-begins-airstrikes-against-isis-inside-syria-training-lifesavers-in-a-neighborhood-with-too-much-death/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/09/23/332655683839/EN_092314_FULL_281235_phone.m3u8
+    orig: "/videos/922-u-s-begins-airstrikes-against-isis-inside-syria-training-lifesavers-in-a-neighborhood-with-too-much-death/"
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/09/27/334114883961/EN_092614_FULL_new_282626_tablet.m3u8
     mp4_240: media\/2014\/09\/23\/332261443683\/EN_092214_FULL2_280724_240.mp4
     mp4_740: media\/2014\/09\/23\/332261443683\/EN_092214_FULL2_280724_740.mp4
     mp4_796: media\/2014\/09\/23\/332261443683\/EN_092214_FULL2_280724_796.mp4
@@ -19,7 +46,7 @@
   date: 09-22
 - title: 09-21
   links:
-    orig: /videos/921-firefighters-struggle-as-california-wildfires-grow-composer-honors-sandy-hook-victims-with-a-childs-requiem/
+    orig: "/videos/921-firefighters-struggle-as-california-wildfires-grow-composer-honors-sandy-hook-victims-with-a-childs-requiem/"
     ipad: ipad-streaming.cbsnews.com/media/mpx/2014/09/22/331855427936/EN_FULL_092114_280299_phone.m3u8
     mp4_240: media\/2014\/09\/22\/331855427936\/EN_FULL_092114_280292_240.mp4
     mp4_740: media\/2014\/09\/22\/331855427936\/EN_FULL_092114_280292_740.mp4
@@ -28,46 +55,19 @@
   date: 09-21
 - title: 09-20
   links:
-    orig: /videos/920-secret-service-probes-how-fence-jumper-made-it-inside-white-house-young-intel-inventor-stuns-with-high-tech-gadgets/
+    orig: "/videos/920-secret-service-probes-how-fence-jumper-made-it-inside-white-house-young-intel-inventor-stuns-with-high-tech-gadgets/"
     ipad: ipad-streaming.cbsnews.com/media/mpx/2014/09/21/331644995531/EN_FULL_092014_279915_500/EN_FULL_092014_279915_500.m3u8
     mp4_240: media\/2014\/09\/21\/331644995531\/EN_FULL_092014_279906_240.mp4
     mp4_740: media\/2014\/09\/21\/331644995531\/EN_FULL_092014_279906_740.mp4
     mp4_796: media\/2014\/09\/21\/331644995531\/EN_FULL_092014_279906_796.mp4
     mp4_1296: media\/2014\/09\/21\/331644995531\/EN_FULL_092014_279906_1296.mp4
   date: 09-20
-- title: 09-19
-  links:
-    orig: /videos/919-goodell-this-time-ill-get-it-right-detective-goes-from-mans-man-to-family-man/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/09/20/331419203555/EN_FULL_091914_279638_500/EN_FULL_091914_279638_500.m3u8
-    mp4_240: media\/2014\/09\/20\/331419203555\/EN_FULL_091914_224029_240.mp4
-    mp4_740: media\/2014\/09\/20\/331419203555\/EN_FULL_091914_274029_740.mp4
-    mp4_796: media\/2014\/09\/20\/331419203555\/EN_FULL_091914_279629_796.mp4
-    mp4_1296: media\/2014\/09\/20\/331419203555\/EN_FULL_091914_2129629_1296.mp4
-  date: 09-19
 - title: 09-18
   links:
-    orig: /videos/918-home-depot-breach-puts-56-million-cards-at-risk-donations-pour-in-after-dog-hit-in-la-car-chase/
+    orig: "/videos/918-home-depot-breach-puts-56-million-cards-at-risk-donations-pour-in-after-dog-hit-in-la-car-chase/"
     ipad: ipad-streaming.cbsnews.com/media/mpx/2014/09/18/331017795642/EN_091814_FULL_279187_500/EN_091814_FULL_279187_500.m3u8
     mp4_240: media\/2014\/09\/18\/331017795642\/EN_091814_FULL_279155_240.mp4
     mp4_740: media\/2014\/09\/18\/331017795642\/EN_091814_FULL_279155_740.mp4
     mp4_796: media\/2014\/09\/18\/331017795642\/EN_091814_FULL_279155_796.mp4
     mp4_1296: media\/2014\/09\/18\/331017795642\/EN_091814_FULL_279155_1296.mp4
   date: 09-18
-- title: 09-17
-  links:
-    orig: /videos/917-on-the-hunt-for-suspect-in-pa-trooper-ambush-search-for-americas-next-great-artist-turns-up-a-wealth-of-hidden-gems/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/09/18/330470467759/EN_091714_FULL_278702_500/EN_091714_FULL_278702_500.m3u8
-    mp4_240: media\/2014\/09\/18\/330470467759\/EN_091714_FULL_278694_240.mp4
-    mp4_740: media\/2014\/09\/18\/330470467759\/EN_091714_FULL_278694_740.mp4
-    mp4_796: media\/2014\/09\/18\/330470467759\/EN_091714_FULL_278694_796.mp4
-    mp4_1296: media\/2014\/09\/18\/330470467759\/EN_091714_FULL_278694_1296.mp4
-  date: 09-17
-- title: 09-10
-  links:
-    orig: /videos/910-obama-lays-out-strategy-to-defeat-isis-inside-iraqi-kurdistan-confronting-isis/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/09/23/332655683839/EN_092314_FULL_281235_phone.m3u8
-    mp4_240: media\/2014\/09\/23\/332655683839\/EN_092314_FULL_281222_240.mp4
-    mp4_740: media\/2014\/09\/23\/332655683839\/EN_092314_FULL_281222_740.mp4
-    mp4_796: media\/2014\/09\/23\/332655683839\/EN_092314_FULL_281222_796.mp4
-    mp4_1296: media\/2014\/09\/23\/332655683839\/EN_092314_FULL_281222_1296.mp4
-  date: 09-10
