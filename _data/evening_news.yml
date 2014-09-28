@@ -1,4 +1,13 @@
 ---
+- title: 09-27
+  links:
+    orig: "/videos/927-hundreds-more-flights-canceled-at-chicago-airports-george-clooney-ties-the-knot/"
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: 09-27
 - title: 09-26
   links:
     orig: "/videos/926-suspect-in-chicago-control-center-fire-attempted-suicide-new-york-mighty-mites-bounce-back-from-youtube-flub/"
@@ -38,7 +47,7 @@
 - title: 09-22
   links:
     orig: "/videos/922-u-s-begins-airstrikes-against-isis-inside-syria-training-lifesavers-in-a-neighborhood-with-too-much-death/"
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/09/27/334114883961/EN_092614_FULL_new_282626_tablet.m3u8
+    ipad: ''
     mp4_240: media\/2014\/09\/23\/332261443683\/EN_092214_FULL2_280724_240.mp4
     mp4_740: media\/2014\/09\/23\/332261443683\/EN_092214_FULL2_280724_740.mp4
     mp4_796: media\/2014\/09\/23\/332261443683\/EN_092214_FULL2_280724_796.mp4
@@ -53,15 +62,6 @@
     mp4_796: media\/2014\/09\/22\/331855427936\/EN_FULL_092114_280292_796.mp4
     mp4_1296: media\/2014\/09\/22\/331855427936\/EN_FULL_092114_280292_1296.mp4
   date: 09-21
-- title: 09-20
-  links:
-    orig: "/videos/920-secret-service-probes-how-fence-jumper-made-it-inside-white-house-young-intel-inventor-stuns-with-high-tech-gadgets/"
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/09/21/331644995531/EN_FULL_092014_279915_500/EN_FULL_092014_279915_500.m3u8
-    mp4_240: media\/2014\/09\/21\/331644995531\/EN_FULL_092014_279906_240.mp4
-    mp4_740: media\/2014\/09\/21\/331644995531\/EN_FULL_092014_279906_740.mp4
-    mp4_796: media\/2014\/09\/21\/331644995531\/EN_FULL_092014_279906_796.mp4
-    mp4_1296: media\/2014\/09\/21\/331644995531\/EN_FULL_092014_279906_1296.mp4
-  date: 09-20
 - title: 09-18
   links:
     orig: "/videos/918-home-depot-breach-puts-56-million-cards-at-risk-donations-pour-in-after-dog-hit-in-la-car-chase/"
