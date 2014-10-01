@@ -1,8 +1,17 @@
 ---
+- title: 09-30
+  links:
+    orig: "/videos/930-cdc-1st-case-of-ebola-diagnosed-in-u-s-wildlife-photographer-in-search-of-perfection/"
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/09/30/335894083749/EN_093014_FULL_284262_500/EN_093014_FULL_284262_500.m3u8
+    mp4_240: media\/2014\/09\/30\/335894083749\/EN_093014_FULL_284243_240.mp4
+    mp4_740: media\/2014\/09\/30\/335894083749\/EN_093014_FULL_284243_740.mp4
+    mp4_796: media\/2014\/09\/30\/335894083749\/EN_093014_FULL_284243_796.mp4
+    mp4_1296: media\/2014\/09\/30\/335894083749\/EN_093014_FULL_284243_1296.mp4
+  date: 09-30
 - title: 09-29
   links:
     orig: "/videos/929-wh-security-breach-much-worse-than-originally-reported-george-clooney-breaks-vow-to-never-marry-again/"
-    ipad: ''
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/09/29/335179843937/EN_092914_FULL_283588_500/EN_092914_FULL_283588_500.m3u8
     mp4_240: media\/2014\/09\/29\/335179843937\/EN_092914_FULL_283569_240.mp4
     mp4_740: media\/2014\/09\/29\/335179843937\/EN_092914_FULL_283569_740.mp4
     mp4_796: media\/2014\/09\/29\/335179843937\/EN_092914_FULL_283569_796.mp4
@@ -20,11 +29,11 @@
 - title: 09-27
   links:
     orig: "/videos/927-hundreds-more-flights-canceled-at-chicago-airports-george-clooney-ties-the-knot/"
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/09/30/335894083749/EN_093014_FULL_284262_500/EN_093014_FULL_284262_500.m3u8
+    mp4_240: media\/2014\/09\/30\/335894083749\/EN_093014_FULL_284243_240.mp4
+    mp4_740: media\/2014\/09\/30\/335894083749\/EN_093014_FULL_284243_740.mp4
+    mp4_796: media\/2014\/09\/30\/335894083749\/EN_093014_FULL_284243_796.mp4
+    mp4_1296: media\/2014\/09\/30\/335894083749\/EN_093014_FULL_284243_1296.mp4
   date: 09-27
 - title: 09-26
   links:
@@ -62,12 +71,3 @@
     mp4_796: media\/2014\/09\/23\/332655683839\/EN_092314_FULL_281222_796.mp4
     mp4_1296: media\/2014\/09\/23\/332655683839\/EN_092314_FULL_281222_1296.mp4
   date: 09-23
-- title: 09-22
-  links:
-    orig: "/videos/922-u-s-begins-airstrikes-against-isis-inside-syria-training-lifesavers-in-a-neighborhood-with-too-much-death/"
-    ipad: ''
-    mp4_240: media\/2014\/09\/23\/332261443683\/EN_092214_FULL2_280724_240.mp4
-    mp4_740: media\/2014\/09\/23\/332261443683\/EN_092214_FULL2_280724_740.mp4
-    mp4_796: media\/2014\/09\/23\/332261443683\/EN_092214_FULL2_280724_796.mp4
-    mp4_1296: media\/2014\/09\/23\/332261443683\/EN_092214_FULL2_280724_1296.mp4
-  date: 09-22
