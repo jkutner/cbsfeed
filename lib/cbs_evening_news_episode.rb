@@ -11,7 +11,10 @@ class CbsEveningNewsEpisode < CbsEpisode
         elsif dd.size == 4
           @title = "#{dd[0..1]}-#{dd[2..3]}"
         else
-          @title = "0#{dd[0]}-#{dd[1..2]}"
+          if dd[1].to_i == 0
+            @title = "#{dd[0..1]}-0#{dd[1..2]}"
+          else
+            @title = "0#{dd[0]}-#{dd[1..2]}"
         end
       else
         @title = '00-00'
