@@ -15,6 +15,7 @@ class CbsEveningNewsEpisode < CbsEpisode
             @title = "#{dd[0..1]}-0#{dd[1..2]}"
           else
             @title = "0#{dd[0]}-#{dd[1..2]}"
+          end
         end
       else
         @title = '00-00'
