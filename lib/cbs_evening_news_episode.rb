@@ -12,7 +12,7 @@ class CbsEveningNewsEpisode < CbsEpisode
           @title = "#{dd[0..1]}-#{dd[2..3]}"
         else
           if dd[1].to_i == 0
-            @title = "#{dd[0..1]}-0#{dd[1..2]}"
+            @title = "#{dd[0..1]}-0#{dd[2]}"
           else
             @title = "0#{dd[0]}-#{dd[1..2]}"
           end
