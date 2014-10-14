@@ -1,4 +1,13 @@
 ---
+- title: 10-13
+  links:
+    orig: /videos/1013-ebola-protocol-is-reevaluated-following-nurses-infection-program-gives-high-school-dropouts-hope/
+    ipad: ''
+    mp4_240: media\/2014\/10\/13\/341791299857\/EN_101314_FULL_292163_240.mp4
+    mp4_740: media\/2014\/10\/13\/341791299857\/EN_101314_FULL_292163_740.mp4
+    mp4_796: media\/2014\/10\/13\/341791299857\/EN_101314_FULL_292163_796.mp4
+    mp4_1296: media\/2014\/10\/13\/341791299857\/EN_101314_FULL_292163_1296.mp4
+  date: 10-13
 - title: 10-12
   links:
     orig: /videos/1012-nurse-who-cared-for-dallas-ebola-patient-tests-positive-for-virus-smart-bike-wheel-could-change-transportations-future/
@@ -47,7 +56,7 @@
 - title: 10-07
   links:
     orig: /videos/107-fbi-wants-help-identifying-isis-fighter-ancient-skeleton-yields-clues-into-north-americas-early-days/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/10/13/341087811713/EN_FULL_101214_291389_500/EN_FULL_101214_291389_500.m3u8
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/10/13/341791299857/EN_101314_FULL_292175_500/EN_101314_FULL_292175_500.m3u8
     mp4_240: media\/2014\/10\/08\/338816524054\/EN_100714_FULL222_288192_240.mp4
     mp4_740: media\/2014\/10\/08\/338816574054\/EN_100714_FULL222_288192_740.mp4
     mp4_796: media\/2014\/10\/08\/338816579654\/EN_100714_FULL222_288192_796.mp4
@@ -62,12 +71,3 @@
     mp4_796: media\/2014\/10\/06\/338427971648\/EN_100614_FULL_287687_796.mp4
     mp4_1296: media\/2014\/10\/06\/338427971648\/EN_100614_FULL_287687_1296.mp4
   date: 10-06
-- title: 10-05
-  links:
-    orig: /videos/105-in-critical-condition-texas-ebola-patient-fights-for-his-life-disabled-vet-war-memorial-opens/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/10/06/338127427545/EN_FULL_100514_287284_500/EN_FULL_100514_287284_500.m3u8
-    mp4_240: media\/2014\/10\/06\/338127427545\/EN_FULL_100514_287266_240.mp4
-    mp4_740: media\/2014\/10\/06\/338127427545\/EN_FULL_100514_287266_740.mp4
-    mp4_796: media\/2014\/10\/06\/338127427545\/EN_FULL_100514_287266_796.mp4
-    mp4_1296: media\/2014\/10\/06\/338127427545\/EN_FULL_100514_287266_1296.mp4
-  date: 10-05
