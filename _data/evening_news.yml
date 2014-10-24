@@ -1,4 +1,13 @@
 ---
+- title: 10-23
+  links:
+    orig: /videos/1023-new-york-physician-tested-for-ebola-writers-find-their-train-of-thought-on-amtrak/
+    ipad: ''
+    mp4_240: media\/2014\/10\/24\/347125315606\/EN_102314_FULL_299892_240.mp4
+    mp4_740: media\/2014\/10\/24\/347125315606\/EN_102314_FULL_299892_740.mp4
+    mp4_796: media\/2014\/10\/24\/347125315606\/EN_102314_FULL_299892_796.mp4
+    mp4_1296: media\/2014\/10\/24\/347125315606\/EN_102314_FULL_299892_1296.mp4
+  date: 10-23
 - title: 10-22
   links:
     orig: /videos/1022-shooting-paralyzes-canadas-capital-hungry-bears-roam-into-nevada-towns/
@@ -28,21 +37,21 @@
   date: 10-20
 - title: 10-19
   links:
-    orig: /videos/1019-no-consensus-on-gays-as-vatican-synod-ends-a-young-cancer-patient-with-a-world-series-dream/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/10/19/344735811948/EN_FULL_101914_297523_tablet.m3u8
-    mp4_240: media\/2014\/10\/19\/344735811948\/EN_FULL_101914_297507_240.mp4
-    mp4_740: media\/2014\/10\/19\/344735811948\/EN_FULL_101914_297507_740.mp4
-    mp4_796: media\/2014\/10\/19\/344735811948\/EN_FULL_101914_297507_796.mp4
-    mp4_1296: media\/2014\/10\/19\/344735811948\/EN_FULL_101914_297507_1296.mp4
-  date: 10-19
-- title: 10-19
-  links:
     orig: /videos/1019-family-of-deceased-ebola-patients-prepares-to-end-quarantine-group-gives-musicians-a-future-as-it-reconnects-them-with-the-past/
     ipad: ipad-streaming.cbsnews.com/media/mpx/2014/10/20/345007683814/EN_FULL_101914_v2_297919_500/EN_FULL_101914_v2_297919_500.m3u8
     mp4_240: media\/2014\/10\/20\/345007683814\/EN_FULL_101914_v2_297903_240.mp4
     mp4_740: media\/2014\/10\/20\/345007683814\/EN_FULL_101914_v2_297903_740.mp4
     mp4_796: media\/2014\/10\/20\/345007683814\/EN_FULL_101914_v2_297903_796.mp4
     mp4_1296: media\/2014\/10\/20\/345007683814\/EN_FULL_101914_v2_297903_1296.mp4
+  date: 10-19
+- title: 10-19
+  links:
+    orig: /videos/1019-no-consensus-on-gays-as-vatican-synod-ends-a-young-cancer-patient-with-a-world-series-dream/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/10/19/344735811948/EN_FULL_101914_297523_tablet.m3u8
+    mp4_240: media\/2014\/10\/19\/344735811948\/EN_FULL_101914_297507_240.mp4
+    mp4_740: media\/2014\/10\/19\/344735811948\/EN_FULL_101914_297507_740.mp4
+    mp4_796: media\/2014\/10\/19\/344735811948\/EN_FULL_101914_297507_796.mp4
+    mp4_1296: media\/2014\/10\/19\/344735811948\/EN_FULL_101914_297507_1296.mp4
   date: 10-19
 - title: 10-17
   links:
@@ -62,12 +71,3 @@
     mp4_796: media\/2014\/10\/16\/343816259796\/en_101614_FULL_296473_796.mp4
     mp4_1296: media\/2014\/10\/16\/3438162591296\/en_101614_FULL_296473_1296.mp4
   date: 10-16
-- title: 10-15
-  links:
-    orig: /videos/1015-infected-ebola-healthcare-worker-flew-on-commercial-flight-double-amputation-doesnt-slow-10-year-old/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/10/15/343148611510/EN_101514_FULL_294923_phone.m3u8
-    mp4_240: media\/2014\/10\/15\/343148611510\/EN_101514_FULL_294875_240.mp4
-    mp4_740: media\/2014\/10\/15\/343148611510\/EN_101514_FULL_294875_740.mp4
-    mp4_796: media\/2014\/10\/15\/343148611510\/EN_101514_FULL_294875_796.mp4
-    mp4_1296: media\/2014\/10\/15\/343148611510\/EN_101514_FULL_294875_1296.mp4
-  date: 10-15
