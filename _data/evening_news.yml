@@ -1,4 +1,13 @@
 ---
+- title: 10-25
+  links:
+    orig: /videos/1025-quarantined-nurse-tests-negative-for-ebola-virus/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/10/26/347881539603/EN_FULL_102514_300640_0/EN_FULL_102514_300640_0.m3u8
+    mp4_240: media\/2014\/10\/26\/347881539603\/EN_FULL_102514_300631_240.mp4
+    mp4_740: media\/2014\/10\/26\/347881539603\/EN_FULL_102514_300631_740.mp4
+    mp4_796: media\/2014\/10\/26\/347881539603\/EN_FULL_102514_300631_796.mp4
+    mp4_1296: media\/2014\/10\/26\/347881539603\/EN_FULL_102514_300631_1296.mp4
+  date: 10-25
 - title: 10-24
   links:
     orig: /videos/1024-student-gunman-opens-fire-in-wash-state-high-school-hoop-dreams-come-true/
@@ -62,12 +71,3 @@
     mp4_796: media\/2014\/10\/19\/344735811948\/EN_FULL_101914_297507_796.mp4
     mp4_1296: media\/2014\/10\/19\/344735811948\/EN_FULL_101914_297507_1296.mp4
   date: 10-19
-- title: 10-17
-  links:
-    orig: /videos/1017-obama-appoints-ebola-czar-broken-hearts-on-the-mend/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/10/17/344367171610/EN_101714_FULL_297269_phone.m3u8
-    mp4_240: media\/2014\/10\/17\/344367171610\/EN_101714_FULL_297251_240.mp4
-    mp4_740: media\/2014\/10\/17\/344367171610\/EN_101714_FULL_297251_740.mp4
-    mp4_796: media\/2014\/10\/17\/344367171610\/EN_101714_FULL_297251_796.mp4
-    mp4_1296: media\/2014\/10\/17\/344367171610\/EN_101714_FULL_297251_1296.mp4
-  date: 10-17
