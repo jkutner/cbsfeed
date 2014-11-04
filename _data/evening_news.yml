@@ -1,4 +1,13 @@
 ---
+- title: 11-02
+  links:
+    orig: /videos/112-early-winter-storm-slams-east-coast-terminally-ill-basketball-player-lauren-hill-gets-her-wish/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/11/03/351511107908/EN_FULL_110214_303635_500/EN_FULL_110214_303635_500.m3u8
+    mp4_240: media\/2014\/11\/03\/351511107908\/EN_FULL_110214_303623_240.mp4
+    mp4_740: media\/2014\/11\/03\/351511107908\/EN_FULL_110214_303623_740.mp4
+    mp4_796: media\/2014\/11\/03\/351511107908\/EN_FULL_110214_303623_796.mp4
+    mp4_1296: media\/2014\/11\/03\/351511107908\/EN_FULL_110214_303623_1296.mp4
+  date: 11-02
 - title: 10-31
   links:
     orig: /videos/1031-virgin-galactic-space-tourism-rocket-crashes-during-test-flight-young-boy-determined-to-see-it-all-before-he-goes-blind/
@@ -62,12 +71,3 @@
     mp4_796: media\/2014\/10\/26\/347881539603\/EN_FULL_102514_300631_796.mp4
     mp4_1296: media\/2014\/10\/26\/347881539603\/EN_FULL_102514_300631_1296.mp4
   date: 10-25
-- title: 10-24
-  links:
-    orig: /videos/1024-student-gunman-opens-fire-in-wash-state-high-school-hoop-dreams-come-true/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/10/25/347585091727/EN_FULL_102414_300355_500/EN_FULL_102414_300355_500.m3u8
-    mp4_240: media\/2014\/10\/25\/347585091727\/EN_FULL_102414_300337_240.mp4
-    mp4_740: media\/2014\/10\/25\/347585091727\/EN_FULL_102414_300337_740.mp4
-    mp4_796: media\/2014\/10\/25\/347585091727\/EN_FULL_102414_300337_796.mp4
-    mp4_1296: media\/2014\/10\/25\/347585091727\/EN_FULL_102414_300337_1296.mp4
-  date: 10-24
