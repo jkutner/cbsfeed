@@ -1,4 +1,13 @@
 ---
+- title: 11-07
+  links:
+    orig: /videos/117-obama-plans-to-send-more-troops-to-fight-isis-terminally-ill-basketball-player-gets-help-to-live-dream/
+    ipad: ''
+    mp4_240: media\/2014\/11\/08\/355270723558\/EN_FULL_110714_305798_240.mp4
+    mp4_740: media\/2014\/11\/08\/355270723558\/EN_FULL_110714_305798_740.mp4
+    mp4_796: media\/2014\/11\/08\/355270723558\/EN_FULL_110714_305798_796.mp4
+    mp4_1296: media\/2014\/11\/08\/355270723558\/EN_FULL_110714_305798_1296.mp4
+  date: 11-07
 - title: 11-06
   links:
     orig: /videos/116-polar-vortex-might-be-on-its-way-medal-of-honor-given-to-civil-war-hero/
@@ -30,10 +39,10 @@
   links:
     orig: /videos/1103-u-n-climate-change-may-be-irreversible-terminally-ill-ohio-woman-lives-her-dream/
     ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
+    mp4_240: media\/2014\/11\/08\/355270723558\/EN_FULL_110714_305798_240.mp4
+    mp4_740: media\/2014\/11\/08\/355270723558\/EN_FULL_110714_305798_740.mp4
+    mp4_796: media\/2014\/11\/08\/355270723558\/EN_FULL_110714_305798_796.mp4
+    mp4_1296: media\/2014\/11\/08\/355270723558\/EN_FULL_110714_305798_1296.mp4
   date: 11-03
 - title: 11-02
   links:
@@ -62,12 +71,3 @@
     mp4_796: media\/2014\/10\/31\/350201411813\/EN_1030_FULL_302738_796.mp4
     mp4_1296: media\/2014\/10\/31\/350201411813\/EN_1030_FULL_302738_1296.mp4
   date: 10-30
-- title: 10-29
-  links:
-    orig: /videos/1029-nasa-studying-launch-disaster-a-giant-leap-for-panda-kind/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/10/29/349662275674/EN_102914_FULL_302260_phone.m3u8
-    mp4_240: media\/2014\/10\/29\/349662275674\/EN_102914_FULL_302254_240.mp4
-    mp4_740: media\/2014\/10\/29\/349662275674\/EN_102914_FULL_302254_740.mp4
-    mp4_796: media\/2014\/10\/29\/349662275674\/EN_102914_FULL_302254_796.mp4
-    mp4_1296: media\/2014\/10\/29\/349662275674\/EN_102914_FULL_302254_1296.mp4
-  date: 10-29
