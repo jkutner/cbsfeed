@@ -94,8 +94,7 @@ class CbsParser
   def scrape_cbs_url(url, output_file, extra_re='')
     html = Typhoeus.get(url).body
 
-    raw_scan = html.scan(/href\s*=\s*"(\/videos\/\d.*)"#{extra_re}/)
-
+    raw_scan = html.scan(/href\s*=\s*"(\/videos\/.*)"#{extra_re}/)
     video_urls = raw_scan.inject([]) do |urls, raw|
       video_url = extract_video_urls(raw, urls)
       video_urls = [video_url]
