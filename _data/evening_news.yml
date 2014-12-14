@@ -1,4 +1,13 @@
 ---
+- title: 12-12
+  links:
+    orig: /videos/1212-calif-picks-up-pieces-after-massive-storm-secret-santa-deputies-spread-christmas-spirit/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/12/13/371571267506/EN_FULL_121214_319817_500/EN_FULL_121214_319817_500.m3u8
+    mp4_240: media\/2014\/12\/13\/371571267506\/EN_FULL_121214_319240_240.mp4
+    mp4_740: media\/2014\/12\/13\/371571267506\/EN_FULL_121214_319740_740.mp4
+    mp4_796: media\/2014\/12\/13\/371571267506\/EN_FULL_121214_319796_796.mp4
+    mp4_1296: media\/2014\/12\/13\/371571267506\/EN_FULL_121214_3191296_1296.mp4
+  date: 12-12
 - title: 12-11
   links:
     orig: /videos/1211-west-coast-storm-washes-away-homes-knocks-out-power-poachers-wage-war-for-rhino-horns-in-s-africa/
@@ -62,12 +71,3 @@
     mp4_796: media\/2014\/12\/06\/367982147545\/EN_120514_FULL_316868_796.mp4
     mp4_1296: media\/2014\/12\/06\/367982147545\/EN_120514_FULL_316868_1296.mp4
   date: 12-05
-- title: 12-04
-  links:
-    orig: /videos/1204-few-details-made-public-from-eric-garner-grand-jury-two-brothers-hit-it-big-reviewing-toys/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/12/05/367404611992/EN_FULL_120414_316380_tablet.m3u8
-    mp4_240: media\/2014\/12\/05\/362404611992\/EN_FULL_120414_316374_240.mp4
-    mp4_740: media\/2014\/12\/05\/367404611992\/EN_FULL_120414_316374_740.mp4
-    mp4_796: media\/2014\/12\/05\/367964611992\/EN_FULL_120414_316374_796.mp4
-    mp4_1296: media\/2014\/12\/05\/3612964611992\/EN_FULL_120414_316374_1296.mp4
-  date: 12-04
