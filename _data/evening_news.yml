@@ -1,13 +1,4 @@
 ---
-- title: 00-00
-  links:
-    orig: /videos/thousands-honor-fallen-nypd-officer-a-bridge-stuck-in-time/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/12/28/377582147641/EN_122814_Full_325400_500/EN_122814_Full_325400_500.m3u8
-    mp4_240: media\/2014\/12\/28\/377582147641\/EN_122814_Full_325392_240.mp4
-    mp4_740: media\/2014\/12\/28\/377582147641\/EN_122814_Full_325392_740.mp4
-    mp4_796: media\/2014\/12\/28\/377582147641\/EN_122814_Full_325392_796.mp4
-    mp4_1296: media\/2014\/12\/28\/377582147641\/EN_122814_Full_325392_1296.mp4
-  date: 00-00
 - title: 12-28
   links:
     orig: /videos/1228-intense-search-launched-for-airasia-flight-8501-bringing-a-very-tiny-new-testament-to-jewelry/
@@ -71,3 +62,12 @@
     mp4_796: media\/2014\/12\/22\/375762499865\/EN_FULL_122114_323601_796.mp4
     mp4_1296: media\/2014\/12\/22\/375762499865\/EN_FULL_122114_323601_1296.mp4
   date: 12-21
+- title: 12-19
+  links:
+    orig: /videos/1219-obama-on-sony-pictures-mistake-holiday-sting-operation-story-goes-viral/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/12/20/375300675813/EN_FULL_121914_323044_500/EN_FULL_121914_323044_500.m3u8
+    mp4_240: media\/2014\/12\/20\/375300675813\/EN_FULL_121914_323039_240.mp4
+    mp4_740: media\/2014\/12\/20\/375300675813\/EN_FULL_121914_323039_740.mp4
+    mp4_796: media\/2014\/12\/20\/375300675813\/EN_FULL_121914_323039_796.mp4
+    mp4_1296: media\/2014\/12\/20\/375300675813\/EN_FULL_121914_323039_1296.mp4
+  date: 12-19
