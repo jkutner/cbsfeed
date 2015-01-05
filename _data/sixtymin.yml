@@ -1,4 +1,13 @@
 ---
+- title: Ending America&rsquo;s Longest War, Alive and Kickin&rsquo;
+  links:
+    orig: /videos/ending-americas-longest-war-alive-and-kickin/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: Ending America&rsquo;s Longest War, Alive and Kickin&rsquo;
 - title: Denied, Inside Homs, Mindfulness
   links:
     orig: /videos/denied-inside-homs-mindfulness/
@@ -17,6 +26,15 @@
     mp4_796: media\/2014\/12\/07\/368440899558\/60_FULL_120714_317393_796.mp4
     mp4_1296: media\/2014\/12\/07\/368440899558\/60_FULL_120714_317393_1296.mp4
   date: The Spill at Dan River, Disrupting Cancer, The City of Music
+- title: The Director, War on Leaks, Public Enemy
+  links:
+    orig: /videos/the-director-war-on-leaks-public-enemy/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/10/12/340999747517/60_FULL_101214_291355_500/60_FULL_101214_291355_500.m3u8
+    mp4_240: media\/2014\/10\/12\/340999747517\/60_FULL_101214_291137_240.mp4
+    mp4_740: media\/2014\/10\/12\/340999747517\/60_FULL_101214_291137_740.mp4
+    mp4_796: media\/2014\/10\/12\/340999747517\/60_FULL_101214_291137_796.mp4
+    mp4_1296: media\/2014\/10\/12\/340999747517\/60_FULL_101214_291137_1296.mp4
+  date: The Director, War on Leaks, Public Enemy
 - title: War and Hunger, Swiping Your Card, Lion Whisperer
   links:
     orig: /videos/war-and-hunger-swiping-your-card-lion-whisperer/
@@ -26,42 +44,6 @@
     mp4_796: media\/2014\/11\/29\/365134915521\/60_FULL_113014_314250_796.mp4
     mp4_1296: media\/2014\/11\/29\/365134915521\/60_FULL_113014_314250_1296.mp4
   date: War and Hunger, Swiping Your Card, Lion Whisperer
-- title: The Director, Cancer Drugs, Smartest Dog
-  links:
-    orig: /videos/the-director-cancer-drugs-smartest-dog/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/10/05/338079299674/60_FULL_100514_287241_tablet.m3u8
-    mp4_240: media\/2014\/10\/05\/338079299674\/60_FULL_100514_287079_240.mp4
-    mp4_740: media\/2014\/10\/05\/338079299674\/60_FULL_100514_287079_740.mp4
-    mp4_796: media\/2014\/10\/05\/338079299674\/60_FULL_100514_287079_796.mp4
-    mp4_1296: media\/2014\/10\/05\/338079299674\/60_FULL_100514_287079_1296.mp4
-  date: The Director, Cancer Drugs, Smartest Dog
-- title: Falling Apart, Chernobyl, Forgotten Corner of Hell
-  links:
-    orig: /videos/falling-apart-chernobyl-forgotten-corner-of-hell/
-    ipad: ''
-    mp4_240: media\/2014\/11\/23\/362313795967\/60_FULL_11232014_312148_240.mp4
-    mp4_740: media\/2014\/11\/23\/362313795967\/60_FULL_11232014_312148_740.mp4
-    mp4_796: media\/2014\/11\/23\/362313795967\/60_FULL_11232014_312148_796.mp4
-    mp4_1296: media\/2014\/11\/23\/362313795967\/60_FULL_11232014_312148_1296.mp4
-  date: Falling Apart, Chernobyl, Forgotten Corner of Hell
-- title: Ending Life, Gold Rush, Saving History
-  links:
-    orig: /videos/ending-life-gold-rush-saving-history/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/10/19/344922179613/60_FULL_101914_297733_500/60_FULL_101914_297733_500.m3u8
-    mp4_240: media\/2014\/10\/19\/344922124013\/60_FULL_101914_297722_240.mp4
-    mp4_740: media\/2014\/10\/19\/344922174013\/60_FULL_101914_297722_740.mp4
-    mp4_796: media\/2014\/10\/19\/344922179613\/60_FULL_101914_297722_796.mp4
-    mp4_1296: media\/2014\/10\/19\/3449221129613\/60_FULL_101914_297722_1296.mp4
-  date: Ending Life, Gold Rush, Saving History
-- title: Water, Cardinal Se&aacute;n, Mandy Patinkin
-  links:
-    orig: /videos/water-cardinal-sean-mandy-patinkin/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/11/17/359532099703/60_FULL_111614_309578_phone.m3u8
-    mp4_240: media\/2014\/11\/17\/359532099703\/60_FULL_111614_309524_240.mp4
-    mp4_740: media\/2014\/11\/17\/359532099703\/60_FULL_111614_309524_740.mp4
-    mp4_796: media\/2014\/11\/17\/359532099703\/60_FULL_111614_309524_796.mp4
-    mp4_1296: media\/2014\/11\/17\/359532099703\/60_FULL_111614_309524_1296.mp4
-  date: Water, Cardinal Se&aacute;n, Mandy Patinkin
 - title: Treating Ebola, Breeding out Disease, Foo Fighters
   links:
     orig: /videos/treating-ebola-breeding-out-disease-foo-fighters/
@@ -71,3 +53,21 @@
     mp4_796: media\/2014\/10\/26\/348153923933\/60_FULL_102614_300962_796.mp4
     mp4_1296: media\/2014\/10\/26\/348153923933\/60_FULL_102614_300962_1296.mp4
   date: Treating Ebola, Breeding out Disease, Foo Fighters
+- title: Falling Apart, Chernobyl, Forgotten Corner of Hell
+  links:
+    orig: /videos/falling-apart-chernobyl-forgotten-corner-of-hell/
+    ipad: ''
+    mp4_240: media\/2014\/11\/23\/362313795967\/60_FULL_11232014_312148_240.mp4
+    mp4_740: media\/2014\/11\/23\/362313795967\/60_FULL_11232014_312148_740.mp4
+    mp4_796: media\/2014\/11\/23\/362313795967\/60_FULL_11232014_312148_796.mp4
+    mp4_1296: media\/2014\/11\/23\/362313795967\/60_FULL_11232014_312148_1296.mp4
+  date: Falling Apart, Chernobyl, Forgotten Corner of Hell
+- title: Recruiting for ISIS, Under Fire, Blake Shelton
+  links:
+    orig: /videos/recruiting-for-isis-under-fire-blake-shelton/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/11/02/351035459816/60_FULL_110214_303558_phone.m3u8
+    mp4_240: media\/2014\/11\/02\/351035459816\/60_FULL_110214_303303_240.mp4
+    mp4_740: media\/2014\/11\/02\/351035459816\/60_FULL_110214_303303_740.mp4
+    mp4_796: media\/2014\/11\/02\/351035459816\/60_FULL_110214_303303_796.mp4
+    mp4_1296: media\/2014\/11\/02\/351035459816\/60_FULL_110214_303303_1296.mp4
+  date: Recruiting for ISIS, Under Fire, Blake Shelton
