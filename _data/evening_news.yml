@@ -8,51 +8,6 @@
     mp4_796: media\/2015\/01\/01\/378801731694\/en_fullepisode_326640_796.mp4
     mp4_1296: media\/2015\/01\/01\/378801731694\/en_fullepisode_326640_1296.mp4
   date: 12-31
-- title: 12-28
-  links:
-    orig: /videos/1228-intense-search-launched-for-airasia-flight-8501-bringing-a-very-tiny-new-testament-to-jewelry/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 12-28
-- title: 30-14
-  links:
-    orig: /videos/123014-first-bodies-recovered-from-airasia-flight-8501-vaccine-offers-hope-for-koalas-with-std/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 30-14
-- title: 12-25
-  links:
-    orig: /videos/1225-patriotism-driving-people-to-see-the-interview-nyc-churchs-fresh-approach-draws-in-young-people/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 12-25
-- title: 12-24
-  links:
-    orig: /videos/1224-mississippi-cleans-up-from-deadly-storms-pajama-drive-for-foster-children-lifts-spirits/
-    ipad: ''
-    mp4_240: media\/2014\/12\/25\/376873539840\/EN_122414_FullEpisode_324713_240.mp4
-    mp4_740: media\/2014\/12\/25\/376873539840\/EN_122414_FullEpisode_324713_740.mp4
-    mp4_796: media\/2014\/12\/25\/376873539840\/EN_122414_FullEpisode_324713_796.mp4
-    mp4_1296: media\/2014\/12\/25\/376873539840\/EN_122414_FullEpisode_324713_1296.mp4
-  date: 12-24
-- title: 12-23
-  links:
-    orig: /videos/1223-tornadoes-hammer-the-deep-south-president-obamas-balancing-act-on-race-relations/
-    ipad: ''
-    mp4_240: media\/2014\/12\/24\/376583747559\/en_122314_fullepisode_324458_240.mp4
-    mp4_740: media\/2014\/12\/24\/376583747559\/en_122314_fullepisode_324458_740.mp4
-    mp4_796: media\/2014\/12\/24\/376583747559\/en_122314_fullepisode_324458_796.mp4
-    mp4_1296: media\/2014\/12\/24\/376583747559\/en_122314_fullepisode_324458_1296.mp4
-  date: 12-23
 - title: 00-00
   links:
     orig: /videos/thousands-honor-fallen-nypd-officer-a-bridge-stuck-in-time/
@@ -62,12 +17,57 @@
     mp4_796: media\/2014\/12\/28\/377582147641\/EN_122814_Full_325392_796.mp4
     mp4_1296: media\/2014\/12\/28\/377582147641\/EN_122814_Full_325392_1296.mp4
   date: 00-00
-- title: 12-22
+- title: 12-28
   links:
-    orig: /videos/1222-nyc-mayor-asks-for-pause-in-anti-police-protests-a-new-beginning-for-troubled-teens/
+    orig: /videos/1228-intense-search-launched-for-airasia-flight-8501-bringing-a-very-tiny-new-testament-to-jewelry/
     ipad: ''
-    mp4_240: media\/2014\/12\/23\/376132675681\/en_122214_fullepisode_323994_240.mp4
-    mp4_740: media\/2014\/12\/23\/376132675681\/en_122214_fullepisode_323994_740.mp4
-    mp4_796: media\/2014\/12\/23\/376132675681\/en_122214_fullepisode_323994_796.mp4
-    mp4_1296: media\/2014\/12\/23\/376132675681\/en_122214_fullepisode_323994_1296.mp4
-  date: 12-22
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: 12-28
+- title: 12-25
+  links:
+    orig: /videos/1225-patriotism-driving-people-to-see-the-interview-nyc-churchs-fresh-approach-draws-in-young-people/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: 12-25
+- title: 29-14
+  links:
+    orig: /videos/122914-u-s-navy-preparing-to-help-find-flight-8501-china-adopts-western-style-table-manners/
+    ipad: ''
+    mp4_240: media\/2014\/12\/30\/378091075896\/EN_122914_FULLEPISODE_326084_240.mp4
+    mp4_740: media\/2014\/12\/30\/378091075896\/EN_122914_FULLEPISODE_326084_740.mp4
+    mp4_796: media\/2014\/12\/30\/378091075896\/EN_122914_FULLEPISODE_326084_796.mp4
+    mp4_1296: media\/2014\/12\/30\/378091075896\/EN_122914_FULLEPISODE_326084_1296.mp4
+  date: 29-14
+- title: 12-24
+  links:
+    orig: /videos/1224-mississippi-cleans-up-from-deadly-storms-pajama-drive-for-foster-children-lifts-spirits/
+    ipad: ''
+    mp4_240: media\/2014\/12\/25\/376873539840\/EN_122414_FullEpisode_324713_240.mp4
+    mp4_740: media\/2014\/12\/25\/376873539840\/EN_122414_FullEpisode_324713_740.mp4
+    mp4_796: media\/2014\/12\/25\/376873539840\/EN_122414_FullEpisode_324713_796.mp4
+    mp4_1296: media\/2014\/12\/25\/376873539840\/EN_122414_FullEpisode_324713_1296.mp4
+  date: 12-24
+- title: 30-14
+  links:
+    orig: /videos/123014-first-bodies-recovered-from-airasia-flight-8501-vaccine-offers-hope-for-koalas-with-std/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: 30-14
+- title: 12-23
+  links:
+    orig: /videos/1223-tornadoes-hammer-the-deep-south-president-obamas-balancing-act-on-race-relations/
+    ipad: ''
+    mp4_240: media\/2014\/12\/24\/376583747559\/en_122314_fullepisode_324458_240.mp4
+    mp4_740: media\/2014\/12\/24\/376583747559\/en_122314_fullepisode_324458_740.mp4
+    mp4_796: media\/2014\/12\/24\/376583747559\/en_122314_fullepisode_324458_796.mp4
+    mp4_1296: media\/2014\/12\/24\/376583747559\/en_122314_fullepisode_324458_1296.mp4
+  date: 12-23
