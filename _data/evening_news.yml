@@ -1,13 +1,4 @@
 ---
-- title: 14-07
-  links:
-    orig: /videos/14-7-year-old-survivor-key-in-ky-plane-crash-investigation-previewing-ces-2015-what-to-expect-in-tech/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/05/379924035584/EN_FULL_010415_327410_500/EN_FULL_010415_327410_500.m3u8
-    mp4_240: media\/2015\/01\/05\/379924035584\/EN_FULL_010415_322408_240.mp4
-    mp4_740: media\/2015\/01\/05\/379974035584\/EN_FULL_010415_327408_740.mp4
-    mp4_796: media\/2015\/01\/05\/379979635584\/EN_FULL_010415_327968_796.mp4
-    mp4_1296: media\/2015\/01\/05\/3799129635584\/EN_FULL_010415_3212968_1296.mp4
-  date: 14-07
 - title: 12-31
   links:
     orig: /videos/1231-storms-frustrate-airasia-search-amid-a-whiskey-boom-all-spirits-are-equal/
@@ -35,24 +26,6 @@
     mp4_796: ''
     mp4_1296: ''
   date: 30-14
-- title: 29-14
-  links:
-    orig: /videos/122914-u-s-navy-preparing-to-help-find-flight-8501-china-adopts-western-style-table-manners/
-    ipad: ''
-    mp4_240: media\/2014\/12\/30\/378091075896\/EN_122914_FULLEPISODE_326084_240.mp4
-    mp4_740: media\/2014\/12\/30\/378091075896\/EN_122914_FULLEPISODE_326084_740.mp4
-    mp4_796: media\/2014\/12\/30\/378091075896\/EN_122914_FULLEPISODE_326084_796.mp4
-    mp4_1296: media\/2014\/12\/30\/378091075896\/EN_122914_FULLEPISODE_326084_1296.mp4
-  date: 29-14
-- title: 12-24
-  links:
-    orig: /videos/1224-mississippi-cleans-up-from-deadly-storms-pajama-drive-for-foster-children-lifts-spirits/
-    ipad: ''
-    mp4_240: media\/2014\/12\/25\/376873539840\/EN_122414_FullEpisode_324713_240.mp4
-    mp4_740: media\/2014\/12\/25\/376873539840\/EN_122414_FullEpisode_324713_740.mp4
-    mp4_796: media\/2014\/12\/25\/376873539840\/EN_122414_FullEpisode_324713_796.mp4
-    mp4_1296: media\/2014\/12\/25\/376873539840\/EN_122414_FullEpisode_324713_1296.mp4
-  date: 12-24
 - title: 00-00
   links:
     orig: /videos/thousands-honor-fallen-nypd-officer-a-bridge-stuck-in-time/
@@ -71,3 +44,30 @@
     mp4_796: ''
     mp4_1296: ''
   date: 12-28
+- title: 01-05
+  links:
+    orig: /videos/15-markets-dive-as-oil-prices-hit-6-year-low-exonerated-man-who-spent-39-years-in-prison-meets-accuser/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: 01-05
+- title: 01-03
+  links:
+    orig: /videos/13-airasia-flight-8501-search-finds-large-objects-on-ocean-floor-master-goes-on-mission-to-get-students-hooked-on-music/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/04/379678275964/EN_FULL_010315_327171_500/EN_FULL_010315_327171_500.m3u8
+    mp4_240: media\/2015\/01\/04\/324078275964\/EN_FULL_010315_327164_240.mp4
+    mp4_740: media\/2015\/01\/04\/374078275964\/EN_FULL_010315_327164_740.mp4
+    mp4_796: media\/2015\/01\/04\/379678275964\/EN_FULL_010315_327164_796.mp4
+    mp4_1296: media\/2015\/01\/04\/3129678275964\/EN_FULL_010315_327164_1296.mp4
+  date: 01-03
+- title: 01-02
+  links:
+    orig: /videos/12-u-s-hits-north-korea-with-sanctions-after-sony-hack-with-4-year-losing-streak-on-the-line-hoops-team-goes-for-broke/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/03/379474499834/EN_FULL_10215_326991_500/EN_FULL_10215_326991_500.m3u8
+    mp4_240: media\/2015\/01\/03\/379474499834\/EN_FULL_10215_326980_240.mp4
+    mp4_740: media\/2015\/01\/03\/379474499834\/EN_FULL_10215_326980_740.mp4
+    mp4_796: media\/2015\/01\/03\/379474499834\/EN_FULL_10215_326980_796.mp4
+    mp4_1296: media\/2015\/01\/03\/379474499834\/EN_FULL_10215_326980_1296.mp4
+  date: 01-02
