@@ -1,13 +1,4 @@
 ---
-- title: 11-09
-  links:
-    orig: /videos/119-flash-freezes-cause-multiple-deaths-mlk-protege-teaches-nonviolence-to-new-generation/
-    ipad: ''
-    mp4_240: media\/2015\/01\/20\/386361923880\/en_0119_fullepisodenew_333444_240.mp4
-    mp4_740: media\/2015\/01\/20\/386361923880\/en_0119_fullepisodenew_333444_740.mp4
-    mp4_796: media\/2015\/01\/20\/386361923880\/en_0119_fullepisodenew_333444_796.mp4
-    mp4_1296: media\/2015\/01\/20\/386361923880\/en_0119_fullepisodenew_333444_1296.mp4
-  date: 11-09
 - title: 12-00
   links:
     orig: /videos/120-obama-heads-into-sotu-with-strong-economy-at-his-back-wounded-warriors-miracle-survival-story/
@@ -17,33 +8,6 @@
     mp4_796: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_796.mp4
     mp4_1296: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_1296.mp4
   date: 12-00
-- title: 11-07
-  links:
-    orig: /videos/117-romney-raises-speculation-about-2016-plans-disabled-vets-learn-recipe-for-success/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/18/385795139776/EN_FULL_011715_333054_500/EN_FULL_011715_333054_500.m3u8
-    mp4_240: media\/2015\/01\/18\/385795139776\/EN_FULL_011715_333050_240.mp4
-    mp4_740: media\/2015\/01\/18\/385795139776\/EN_FULL_011715_333050_740.mp4
-    mp4_796: media\/2015\/01\/18\/385795139776\/EN_FULL_011715_333050_796.mp4
-    mp4_1296: media\/2015\/01\/18\/385795139776\/EN_FULL_011715_333050_1296.mp4
-  date: 11-07
-- title: 13-15
-  links:
-    orig: /videos/011315-new-footage-captures-aftermath-of-paris-attack-2-rock-climbers-within-reach-of-el-capitan-summit/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/14/383950403874/en_full_011315_331043_500/en_full_011315_331043_500.m3u8
-    mp4_240: media\/2015\/01\/14\/383950403874\/en_full_011315_331033_240.mp4
-    mp4_740: media\/2015\/01\/14\/383950403874\/en_full_011315_331033_740.mp4
-    mp4_796: media\/2015\/01\/14\/383950403874\/en_full_011315_331033_796.mp4
-    mp4_1296: media\/2015\/01\/14\/383950403874\/en_full_011315_331033_1296.mp4
-  date: 13-15
-- title: 11-06
-  links:
-    orig: /videos/116-supreme-court-takes-up-same-sex-marriage-the-custodian-who-became-a-counselor/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/17/385577027755/EN_FULL_01615_332878_500/EN_FULL_01615_332878_500.m3u8
-    mp4_240: media\/2015\/01\/17\/385577027755\/EN_FULL_01615_332865_240.mp4
-    mp4_740: media\/2015\/01\/17\/385577027755\/EN_FULL_01615_332865_740.mp4
-    mp4_796: media\/2015\/01\/17\/385577027755\/EN_FULL_01615_332865_796.mp4
-    mp4_1296: media\/2015\/01\/17\/385577027755\/EN_FULL_01615_332865_1296.mp4
-  date: 11-06
 - title: 11-00
   links:
     orig: /videos/110-france-stands-together-in-defiance-of-terrorists-daring-climbers-attempt-to-scale-yosemites-el-capitan/
@@ -53,6 +17,42 @@
     mp4_796: media\/2015\/01\/11\/382832707571\/EN_FULL_11015_329621_796.mp4
     mp4_1296: media\/2015\/01\/11\/382832707571\/EN_FULL_11015_329621_1296.mp4
   date: 11-00
+- title: 13-15
+  links:
+    orig: /videos/011315-new-footage-captures-aftermath-of-paris-attack-2-rock-climbers-within-reach-of-el-capitan-summit/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/14/383950403874/en_full_011315_331043_500/en_full_011315_331043_500.m3u8
+    mp4_240: media\/2015\/01\/14\/383950403874\/en_full_011315_331033_240.mp4
+    mp4_740: media\/2015\/01\/14\/383950403874\/en_full_011315_331033_740.mp4
+    mp4_796: media\/2015\/01\/14\/383950403874\/en_full_011315_331033_796.mp4
+    mp4_1296: media\/2015\/01\/14\/383950403874\/en_full_011315_331033_1296.mp4
+  date: 13-15
+- title: 11-09
+  links:
+    orig: /videos/119-flash-freezes-cause-multiple-deaths-mlk-protege-teaches-nonviolence-to-new-generation/
+    ipad: ''
+    mp4_240: media\/2015\/01\/20\/386361923880\/en_0119_fullepisodenew_333444_240.mp4
+    mp4_740: media\/2015\/01\/20\/386361923880\/en_0119_fullepisodenew_333444_740.mp4
+    mp4_796: media\/2015\/01\/20\/386361923880\/en_0119_fullepisodenew_333444_796.mp4
+    mp4_1296: media\/2015\/01\/20\/386361923880\/en_0119_fullepisodenew_333444_1296.mp4
+  date: 11-09
+- title: 11-07
+  links:
+    orig: /videos/117-romney-raises-speculation-about-2016-plans-disabled-vets-learn-recipe-for-success/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/18/385795139776/EN_FULL_011715_333054_500/EN_FULL_011715_333054_500.m3u8
+    mp4_240: media\/2015\/01\/18\/385795139776\/EN_FULL_011715_333050_240.mp4
+    mp4_740: media\/2015\/01\/18\/385795139776\/EN_FULL_011715_333050_740.mp4
+    mp4_796: media\/2015\/01\/18\/385795139776\/EN_FULL_011715_333050_796.mp4
+    mp4_1296: media\/2015\/01\/18\/385795139776\/EN_FULL_011715_333050_1296.mp4
+  date: 11-07
+- title: 11-06
+  links:
+    orig: /videos/116-supreme-court-takes-up-same-sex-marriage-the-custodian-who-became-a-counselor/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/17/385577027755/EN_FULL_01615_332878_500/EN_FULL_01615_332878_500.m3u8
+    mp4_240: media\/2015\/01\/17\/385577027755\/EN_FULL_01615_332865_240.mp4
+    mp4_740: media\/2015\/01\/17\/385577027755\/EN_FULL_01615_332865_740.mp4
+    mp4_796: media\/2015\/01\/17\/385577027755\/EN_FULL_01615_332865_796.mp4
+    mp4_1296: media\/2015\/01\/17\/385577027755\/EN_FULL_01615_332865_1296.mp4
+  date: 11-06
 - title: 11-01
   links:
     orig: /videos/111-france-commemorates-terror-attack-with-massive-unity-march-is-je-suis-charlie-a-lasting-movement/
