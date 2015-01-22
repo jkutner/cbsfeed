@@ -8,15 +8,6 @@
     mp4_796: media\/2015\/01\/22\/387396163922\/EN_0121_FULLEPISODE_334581_796.mp4
     mp4_1296: media\/2015\/01\/22\/387396163922\/EN_0121_FULLEPISODE_334581_1296.mp4
   date: 12-01
-- title: 12-00
-  links:
-    orig: /videos/120-obama-heads-into-sotu-with-strong-economy-at-his-back-wounded-warriors-miracle-survival-story/
-    ipad: ''
-    mp4_240: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_240.mp4
-    mp4_740: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_740.mp4
-    mp4_796: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_796.mp4
-    mp4_1296: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_1296.mp4
-  date: 12-00
 - title: 11-09
   links:
     orig: /videos/119-flash-freezes-cause-multiple-deaths-mlk-protege-teaches-nonviolence-to-new-generation/
@@ -35,15 +26,6 @@
     mp4_796: media\/2015\/01\/18\/385795139776\/EN_FULL_011715_333050_796.mp4
     mp4_1296: media\/2015\/01\/18\/385795139776\/EN_FULL_011715_333050_1296.mp4
   date: 11-07
-- title: 13-15
-  links:
-    orig: /videos/011315-new-footage-captures-aftermath-of-paris-attack-2-rock-climbers-within-reach-of-el-capitan-summit/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/14/383950403874/en_full_011315_331043_500/en_full_011315_331043_500.m3u8
-    mp4_240: media\/2015\/01\/14\/383950403874\/en_full_011315_331033_240.mp4
-    mp4_740: media\/2015\/01\/14\/383950403874\/en_full_011315_331033_740.mp4
-    mp4_796: media\/2015\/01\/14\/383950403874\/en_full_011315_331033_796.mp4
-    mp4_1296: media\/2015\/01\/14\/383950403874\/en_full_011315_331033_1296.mp4
-  date: 13-15
 - title: 11-06
   links:
     orig: /videos/116-supreme-court-takes-up-same-sex-marriage-the-custodian-who-became-a-counselor/
@@ -53,15 +35,6 @@
     mp4_796: media\/2015\/01\/17\/385577027755\/EN_FULL_01615_332865_796.mp4
     mp4_1296: media\/2015\/01\/17\/385577027755\/EN_FULL_01615_332865_1296.mp4
   date: 11-06
-- title: 11-00
-  links:
-    orig: /videos/110-france-stands-together-in-defiance-of-terrorists-daring-climbers-attempt-to-scale-yosemites-el-capitan/
-    ipad: ''
-    mp4_240: media\/2015\/01\/11\/382832707571\/EN_FULL_11015_329621_240.mp4
-    mp4_740: media\/2015\/01\/11\/382832707571\/EN_FULL_11015_329621_740.mp4
-    mp4_796: media\/2015\/01\/11\/382832707571\/EN_FULL_11015_329621_796.mp4
-    mp4_1296: media\/2015\/01\/11\/382832707571\/EN_FULL_11015_329621_1296.mp4
-  date: 11-00
 - title: 11-01
   links:
     orig: /videos/111-france-commemorates-terror-attack-with-massive-unity-march-is-je-suis-charlie-a-lasting-movement/
@@ -71,3 +44,30 @@
     mp4_796: media\/2015\/01\/12\/383026755795\/EN_FULL_011115_replacement_331548_796.mp4
     mp4_1296: media\/2015\/01\/12\/383026755795\/EN_FULL_011115_replacement_331548_1296.mp4
   date: 11-01
+- title: 01-15
+  links:
+    orig: /videos/0115-two-suspects-killed-in-belgian-anti-terror-raid-yosemite-climbers-reflect-on-historic-ascent/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/16/385000515580/EN_FULL_011515_332194_500/EN_FULL_011515_332194_500.m3u8
+    mp4_240: media\/2015\/01\/16\/385000515580\/EN_FULL_011515_332183_240.mp4
+    mp4_740: media\/2015\/01\/16\/385000515580\/EN_FULL_011515_332183_740.mp4
+    mp4_796: media\/2015\/01\/16\/385000515580\/EN_FULL_011515_332183_796.mp4
+    mp4_1296: media\/2015\/01\/16\/385000515580\/EN_FULL_011515_332183_1296.mp4
+  date: 01-15
+- title: 01-14
+  links:
+    orig: /videos/0114-feds-foil-plot-to-attack-u-s-capitol-historic-free-climb-of-yosemites-el-capitan/
+    ipad: ''
+    mp4_240: media\/2015\/01\/15\/384478787939\/EN_Full_0114_replacement_331677_240.mp4
+    mp4_740: media\/2015\/01\/15\/384478787939\/EN_Full_0114_replacement_331677_740.mp4
+    mp4_796: media\/2015\/01\/15\/384478787939\/EN_Full_0114_replacement_331677_796.mp4
+    mp4_1296: media\/2015\/01\/15\/384478787939\/EN_Full_0114_replacement_331677_1296.mp4
+  date: 01-14
+- title: 01-12
+  links:
+    orig: /videos/0112-u-s-military-twitter-account-hacked-is-selmas-portrayal-of-lbj-historically-accurate/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/13/383427139954/EN_0112_FULL_330439_phone.m3u8
+    mp4_240: media\/2015\/01\/13\/383427139954\/EN_0112_FULL_330433_240.mp4
+    mp4_740: media\/2015\/01\/13\/383427139954\/EN_0112_FULL_330433_740.mp4
+    mp4_796: media\/2015\/01\/13\/383427139954\/EN_0112_FULL_330433_796.mp4
+    mp4_1296: media\/2015\/01\/13\/383427139954\/EN_0112_FULL_330433_1296.mp4
+  date: 01-12
