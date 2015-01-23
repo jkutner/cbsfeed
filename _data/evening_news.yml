@@ -8,6 +8,24 @@
     mp4_796: media\/2015\/01\/23\/387951683506\/EN_FULL_012215_v2_335249_796.mp4
     mp4_1296: media\/2015\/01\/23\/387951683506\/EN_FULL_012215_v2_335249_1296.mp4
   date: 12-02
+- title: 12-00
+  links:
+    orig: /videos/120-obama-heads-into-sotu-with-strong-economy-at-his-back-wounded-warriors-miracle-survival-story/
+    ipad: ''
+    mp4_240: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_240.mp4
+    mp4_740: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_740.mp4
+    mp4_796: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_796.mp4
+    mp4_1296: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_1296.mp4
+  date: 12-00
+- title: 13-15
+  links:
+    orig: /videos/011315-new-footage-captures-aftermath-of-paris-attack-2-rock-climbers-within-reach-of-el-capitan-summit/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/14/383950403874/en_full_011315_331043_500/en_full_011315_331043_500.m3u8
+    mp4_240: media\/2015\/01\/14\/383950403874\/en_full_011315_331033_240.mp4
+    mp4_740: media\/2015\/01\/14\/383950403874\/en_full_011315_331033_740.mp4
+    mp4_796: media\/2015\/01\/14\/383950403874\/en_full_011315_331033_796.mp4
+    mp4_1296: media\/2015\/01\/14\/383950403874\/en_full_011315_331033_1296.mp4
+  date: 13-15
 - title: 12-01
   links:
     orig: /videos/121-ferguson-officer-expected-to-avoid-civil-rights-charges-aging-mars-opportunity-rover-is-becoming-forgetful/
@@ -26,15 +44,6 @@
     mp4_796: media\/2015\/01\/20\/386361923880\/en_0119_fullepisodenew_333444_796.mp4
     mp4_1296: media\/2015\/01\/20\/386361923880\/en_0119_fullepisodenew_333444_1296.mp4
   date: 11-09
-- title: 12-00
-  links:
-    orig: /videos/120-obama-heads-into-sotu-with-strong-economy-at-his-back-wounded-warriors-miracle-survival-story/
-    ipad: ''
-    mp4_240: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_240.mp4
-    mp4_740: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_740.mp4
-    mp4_796: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_796.mp4
-    mp4_1296: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_1296.mp4
-  date: 12-00
 - title: 11-07
   links:
     orig: /videos/117-romney-raises-speculation-about-2016-plans-disabled-vets-learn-recipe-for-success/
@@ -62,12 +71,3 @@
     mp4_796: media\/2015\/01\/12\/383026755795\/EN_FULL_011115_replacement_331548_796.mp4
     mp4_1296: media\/2015\/01\/12\/383026755795\/EN_FULL_011115_replacement_331548_1296.mp4
   date: 11-01
-- title: 01-15
-  links:
-    orig: /videos/0115-two-suspects-killed-in-belgian-anti-terror-raid-yosemite-climbers-reflect-on-historic-ascent/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/16/385000515580/EN_FULL_011515_332194_500/EN_FULL_011515_332194_500.m3u8
-    mp4_240: media\/2015\/01\/16\/385000515580\/EN_FULL_011515_332183_240.mp4
-    mp4_740: media\/2015\/01\/16\/385000515580\/EN_FULL_011515_332183_740.mp4
-    mp4_796: media\/2015\/01\/16\/385000515580\/EN_FULL_011515_332183_796.mp4
-    mp4_1296: media\/2015\/01\/16\/385000515580\/EN_FULL_011515_332183_1296.mp4
-  date: 01-15
