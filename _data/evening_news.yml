@@ -1,4 +1,13 @@
 ---
+- title: 12-06
+  links:
+    orig: /videos/126-nyc-braces-for-historic-snowstorm-happy-ending-after-2-planes-crash/
+    ipad: ''
+    mp4_240: media\/2015\/01\/27\/389377091628\/en_0126_fullepisode_336589_240.mp4
+    mp4_740: media\/2015\/01\/27\/389377091628\/en_0126_fullepisode_336589_740.mp4
+    mp4_796: media\/2015\/01\/27\/389377091628\/en_0126_fullepisode_336589_796.mp4
+    mp4_1296: media\/2015\/01\/27\/389377091628\/en_0126_fullepisode_336589_1296.mp4
+  date: 12-06
 - title: 12-05
   links:
     orig: /videos/125-northeast-prepares-for-severe-winter-storm-reporters-notebook-progress-in-cuba-as-diplomatic-relations-with-u-s-thaw/
@@ -8,15 +17,6 @@
     mp4_796: media\/2015\/01\/26\/388979779513\/EN_FULL_12515_336288_796.mp4
     mp4_1296: media\/2015\/01\/26\/388979779513\/EN_FULL_12515_336288_1296.mp4
   date: 12-05
-- title: 12-00
-  links:
-    orig: /videos/120-obama-heads-into-sotu-with-strong-economy-at-his-back-wounded-warriors-miracle-survival-story/
-    ipad: ''
-    mp4_240: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_240.mp4
-    mp4_740: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_740.mp4
-    mp4_796: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_796.mp4
-    mp4_1296: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_1296.mp4
-  date: 12-00
 - title: 12-04
   links:
     orig: /videos/124-isis-appears-to-execute-japanese-hostage-ernie-banks-legendary-chicago-cubs-player-dead-at-83/
@@ -35,6 +35,15 @@
     mp4_796: media\/2015\/01\/24\/388510275933\/EN_FULL_12315_335850_796.mp4
     mp4_1296: media\/2015\/01\/24\/388510275933\/EN_FULL_12315_335850_1296.mp4
   date: 12-03
+- title: 12-00
+  links:
+    orig: /videos/120-obama-heads-into-sotu-with-strong-economy-at-his-back-wounded-warriors-miracle-survival-story/
+    ipad: ''
+    mp4_240: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_240.mp4
+    mp4_740: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_740.mp4
+    mp4_796: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_796.mp4
+    mp4_1296: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_1296.mp4
+  date: 12-00
 - title: 12-02
   links:
     orig: /videos/122-tom-brady-responds-to-deflate-gate-reports-d-c-chef-teaches-school-kids-to-overcome-adversity/
@@ -62,12 +71,3 @@
     mp4_796: media\/2015\/01\/20\/386361923880\/en_0119_fullepisodenew_333444_796.mp4
     mp4_1296: media\/2015\/01\/20\/386361923880\/en_0119_fullepisodenew_333444_1296.mp4
   date: 11-09
-- title: 11-07
-  links:
-    orig: /videos/117-romney-raises-speculation-about-2016-plans-disabled-vets-learn-recipe-for-success/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/18/385795139776/EN_FULL_011715_333054_500/EN_FULL_011715_333054_500.m3u8
-    mp4_240: media\/2015\/01\/18\/385795139776\/EN_FULL_011715_333050_240.mp4
-    mp4_740: media\/2015\/01\/18\/385795139776\/EN_FULL_011715_333050_740.mp4
-    mp4_796: media\/2015\/01\/18\/385795139776\/EN_FULL_011715_333050_796.mp4
-    mp4_1296: media\/2015\/01\/18\/385795139776\/EN_FULL_011715_333050_1296.mp4
-  date: 11-07
