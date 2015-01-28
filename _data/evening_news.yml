@@ -8,6 +8,15 @@
     mp4_796: media\/2015\/01\/28\/389902915659\/EN_Full_012715_336884_796.mp4
     mp4_1296: media\/2015\/01\/28\/389902915659\/EN_Full_012715_336884_1296.mp4
   date: 12-07
+- title: 12-00
+  links:
+    orig: /videos/120-obama-heads-into-sotu-with-strong-economy-at-his-back-wounded-warriors-miracle-survival-story/
+    ipad: ''
+    mp4_240: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_240.mp4
+    mp4_740: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_740.mp4
+    mp4_796: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_796.mp4
+    mp4_1296: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_1296.mp4
+  date: 12-00
 - title: 12-06
   links:
     orig: /videos/126-nyc-braces-for-historic-snowstorm-happy-ending-after-2-planes-crash/
@@ -17,6 +26,15 @@
     mp4_796: media\/2015\/01\/27\/389377091628\/en_0126_fullepisode_336589_796.mp4
     mp4_1296: media\/2015\/01\/27\/389377091628\/en_0126_fullepisode_336589_1296.mp4
   date: 12-06
+- title: 12-05
+  links:
+    orig: /videos/125-northeast-prepares-for-severe-winter-storm-reporters-notebook-progress-in-cuba-as-diplomatic-relations-with-u-s-thaw/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/26/388979779513/EN_FULL_12515_336292_phone.m3u8
+    mp4_240: media\/2015\/01\/26\/388979779513\/EN_FULL_12515_336288_240.mp4
+    mp4_740: media\/2015\/01\/26\/388979779513\/EN_FULL_12515_336288_740.mp4
+    mp4_796: media\/2015\/01\/26\/388979779513\/EN_FULL_12515_336288_796.mp4
+    mp4_1296: media\/2015\/01\/26\/388979779513\/EN_FULL_12515_336288_1296.mp4
+  date: 12-05
 - title: 12-04
   links:
     orig: /videos/124-isis-appears-to-execute-japanese-hostage-ernie-banks-legendary-chicago-cubs-player-dead-at-83/
@@ -53,21 +71,3 @@
     mp4_796: media\/2015\/01\/22\/387396163922\/EN_0121_FULLEPISODE_334581_796.mp4
     mp4_1296: media\/2015\/01\/22\/387396163922\/EN_0121_FULLEPISODE_334581_1296.mp4
   date: 12-01
-- title: 12-00
-  links:
-    orig: /videos/120-obama-heads-into-sotu-with-strong-economy-at-his-back-wounded-warriors-miracle-survival-story/
-    ipad: ''
-    mp4_240: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_240.mp4
-    mp4_740: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_740.mp4
-    mp4_796: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_796.mp4
-    mp4_1296: media\/2015\/01\/21\/386861635896\/EN_012015_FullEpisode_334006_1296.mp4
-  date: 12-00
-- title: 12-05
-  links:
-    orig: /videos/125-northeast-prepares-for-severe-winter-storm-reporters-notebook-progress-in-cuba-as-diplomatic-relations-with-u-s-thaw/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/26/388979779513/EN_FULL_12515_336292_phone.m3u8
-    mp4_240: media\/2015\/01\/26\/388979779513\/EN_FULL_12515_336288_240.mp4
-    mp4_740: media\/2015\/01\/26\/388979779513\/EN_FULL_12515_336288_740.mp4
-    mp4_796: media\/2015\/01\/26\/388979779513\/EN_FULL_12515_336288_796.mp4
-    mp4_1296: media\/2015\/01\/26\/388979779513\/EN_FULL_12515_336288_1296.mp4
-  date: 12-05
