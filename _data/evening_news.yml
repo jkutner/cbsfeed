@@ -1,13 +1,4 @@
 ---
-- title: 13-01
-  links:
-    orig: /videos/131-isis-video-purportedly-shows-execution-of-japanese-hostage-pink-taxis-hit-indias-streets-to-keep-women-safe/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/02/01/391927875707/EN_FULL_13115_339062_500/EN_FULL_13115_339062_500.m3u8
-    mp4_240: media\/2015\/02\/01\/391927875707\/EN_FULL_13115_339058_240.mp4
-    mp4_740: media\/2015\/02\/01\/391927875707\/EN_FULL_13115_339058_740.mp4
-    mp4_796: media\/2015\/02\/01\/391927875707\/EN_FULL_13115_339058_796.mp4
-    mp4_1296: media\/2015\/02\/01\/391927875707\/EN_FULL_13115_339058_1296.mp4
-  date: 13-01
 - title: 12-09
   links:
     orig: /videos/129-measles-outbreak-quickly-spreads-to-other-states-a-message-in-100-faces-of-war-veterans/
@@ -17,6 +8,15 @@
     mp4_796: ''
     mp4_1296: ''
   date: 12-09
+- title: 13-00
+  links:
+    orig: /videos/130-elderly-hard-hit-by-tough-flu-season-as-womans-memory-fades-a-discovery-brings-comfort/
+    ipad: ''
+    mp4_240: media\/2015\/01\/31\/391678531885\/en_0130_fullepisode_338806_240.mp4
+    mp4_740: media\/2015\/01\/31\/391678531885\/en_0130_fullepisode_338806_740.mp4
+    mp4_796: media\/2015\/01\/31\/391678531885\/en_0130_fullepisode_338806_796.mp4
+    mp4_1296: media\/2015\/01\/31\/391678531885\/en_0130_fullepisode_338806_1296.mp4
+  date: 13-00
 - title: 12-08
   links:
     orig: /videos/128-frozen-new-england-begins-to-recover-nobel-prize-winner-using-new-fame-to-fight-child-slavery/
