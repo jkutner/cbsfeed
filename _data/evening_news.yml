@@ -8,15 +8,6 @@
     mp4_796: ''
     mp4_1296: ''
   date: 12-09
-- title: 12-08
-  links:
-    orig: /videos/128-frozen-new-england-begins-to-recover-nobel-prize-winner-using-new-fame-to-fight-child-slavery/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/29/390505539607/EN_Full_012815_337632_500/EN_Full_012815_337632_500.m3u8
-    mp4_240: media\/2015\/01\/29\/390505539607\/EN_Full_012815_337619_240.mp4
-    mp4_740: media\/2015\/01\/29\/390505539607\/EN_Full_012815_337619_740.mp4
-    mp4_796: media\/2015\/01\/29\/390505539607\/EN_Full_012815_337619_796.mp4
-    mp4_1296: media\/2015\/01\/29\/390505539607\/EN_Full_012815_337619_1296.mp4
-  date: 12-08
 - title: 12-07
   links:
     orig: /videos/127-powerful-noreaster-pounds-northern-new-england-auschwitz-survivors-message-to-the-nazis-2/
@@ -35,15 +26,6 @@
     mp4_796: media\/2015\/01\/27\/389377091628\/en_0126_fullepisode_336589_796.mp4
     mp4_1296: media\/2015\/01\/27\/389377091628\/en_0126_fullepisode_336589_1296.mp4
   date: 12-06
-- title: 12-05
-  links:
-    orig: /videos/125-northeast-prepares-for-severe-winter-storm-reporters-notebook-progress-in-cuba-as-diplomatic-relations-with-u-s-thaw/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/26/388979779513/EN_FULL_12515_336292_phone.m3u8
-    mp4_240: media\/2015\/01\/26\/388979779513\/EN_FULL_12515_336288_240.mp4
-    mp4_740: media\/2015\/01\/26\/388979779513\/EN_FULL_12515_336288_740.mp4
-    mp4_796: media\/2015\/01\/26\/388979779513\/EN_FULL_12515_336288_796.mp4
-    mp4_1296: media\/2015\/01\/26\/388979779513\/EN_FULL_12515_336288_1296.mp4
-  date: 12-05
 - title: 13-00
   links:
     orig: /videos/130-elderly-hard-hit-by-tough-flu-season-as-womans-memory-fades-a-discovery-brings-comfort/
@@ -62,12 +44,30 @@
     mp4_796: media\/2015\/02\/01\/391927875707\/EN_FULL_13115_339058_796.mp4
     mp4_1296: media\/2015\/02\/01\/391927875707\/EN_FULL_13115_339058_1296.mp4
   date: 13-01
-- title: 02-05
+- title: 12-08
   links:
-    orig: /videos/25-anthem-hack-exposes-health-care-records-of-up-to-80-million-former-cia-agent-uses-spy-skills-to-fix-faces/
+    orig: /videos/128-frozen-new-england-begins-to-recover-nobel-prize-winner-using-new-fame-to-fight-child-slavery/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/29/390505539607/EN_Full_012815_337632_500/EN_Full_012815_337632_500.m3u8
+    mp4_240: media\/2015\/01\/29\/390505539607\/EN_Full_012815_337619_240.mp4
+    mp4_740: media\/2015\/01\/29\/390505539607\/EN_Full_012815_337619_740.mp4
+    mp4_796: media\/2015\/01\/29\/390505539607\/EN_Full_012815_337619_796.mp4
+    mp4_1296: media\/2015\/01\/29\/390505539607\/EN_Full_012815_337619_1296.mp4
+  date: 12-08
+- title: 12-05
+  links:
+    orig: /videos/125-northeast-prepares-for-severe-winter-storm-reporters-notebook-progress-in-cuba-as-diplomatic-relations-with-u-s-thaw/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/26/388979779513/EN_FULL_12515_336292_phone.m3u8
+    mp4_240: media\/2015\/01\/26\/388979779513\/EN_FULL_12515_336288_240.mp4
+    mp4_740: media\/2015\/01\/26\/388979779513\/EN_FULL_12515_336288_740.mp4
+    mp4_796: media\/2015\/01\/26\/388979779513\/EN_FULL_12515_336288_796.mp4
+    mp4_1296: media\/2015\/01\/26\/388979779513\/EN_FULL_12515_336288_1296.mp4
+  date: 12-05
+- title: 02-06
+  links:
+    orig: /videos/0206-american-taken-by-isis-championed-human-rights-torn-from-home-in-sudan-man-reunites-with-family/
     ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 02-05
+    mp4_240: media\/2015\/02\/07\/395519555599\/EN_FULL_020615_341824_240.mp4
+    mp4_740: media\/2015\/02\/07\/395519555599\/EN_FULL_020615_341824_740.mp4
+    mp4_796: media\/2015\/02\/07\/395519555599\/EN_FULL_020615_341824_796.mp4
+    mp4_1296: media\/2015\/02\/07\/395519555599\/EN_FULL_020615_341824_1296.mp4
+  date: 02-06
