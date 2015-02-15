@@ -1,13 +1,4 @@
 ---
-- title: 21-03
-  links:
-    orig: /videos/213-cold-snow-to-strike-on-valentines-day-steve-hartman-remembers-bob-simon/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/02/14/399052355746/EN_FULL_21315_345041_500/EN_FULL_21315_345041_500.m3u8
-    mp4_240: media\/2015\/02\/14\/399052355746\/EN_FULL_21315_345038_240.mp4
-    mp4_740: media\/2015\/02\/14\/399052355746\/EN_FULL_21315_345038_740.mp4
-    mp4_796: media\/2015\/02\/14\/399052355746\/EN_FULL_21315_345038_796.mp4
-    mp4_1296: media\/2015\/02\/14\/399052355746\/EN_FULL_21315_345038_1296.mp4
-  date: 21-03
 - title: 21-04
   links:
     orig: /videos/214-another-blizzard-bound-for-boston-china-provides-fresh-start-for-nba-players/
@@ -17,15 +8,6 @@
     mp4_796: ''
     mp4_1296: ''
   date: 21-04
-- title: 21-01
-  links:
-    orig: /videos/211-obama-seeks-congressional-war-authorization-against-isis-k-9-caught-in-love-triangle-with-cop-and-war-vet/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/02/12/397635651857/EN_0211_FULL_343774_500/EN_0211_FULL_343774_500.m3u8
-    mp4_240: media\/2015\/02\/12\/397635651857\/EN_0211_FULL_343759_240.mp4
-    mp4_740: media\/2015\/02\/12\/397635651857\/EN_0211_FULL_343759_740.mp4
-    mp4_796: media\/2015\/02\/12\/397635651857\/EN_0211_FULL_343759_796.mp4
-    mp4_1296: media\/2015\/02\/12\/397635651857\/EN_0211_FULL_343759_1296.mp4
-  date: 21-01
 - title: 21-02
   links:
     orig: /videos/212-remembering-bob-simon-joy-in-the-congo/
@@ -35,15 +17,6 @@
     mp4_796: media\/2015\/02\/13\/398362691687\/EN_FULL_21215_344477_796.mp4
     mp4_1296: media\/2015\/02\/13\/398362691687\/EN_FULL_21215_344477_1296.mp4
   date: 21-02
-- title: 02-08
-  links:
-    orig: /videos/28-heavy-rain-high-winds-slam-west-coast-paralyzed-by-accident-boy-pursues-wrestling/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/02/09/396043843532/EN_FULL_2815_342271_500/EN_FULL_2815_342271_500.m3u8
-    mp4_240: media\/2015\/02\/09\/396043843532\/EN_FULL_2815_342267_240.mp4
-    mp4_740: media\/2015\/02\/09\/396043843532\/EN_FULL_2815_342267_740.mp4
-    mp4_796: media\/2015\/02\/09\/396043843532\/EN_FULL_2815_342267_796.mp4
-    mp4_1296: media\/2015\/02\/09\/396043843532\/EN_FULL_2815_342267_1296.mp4
-  date: 02-08
 - title: 21-00
   links:
     orig: /videos/210-tragic-end-for-isis-hostage-kayla-mueller-a-reflection-on-kayla-muellers-shining-spirit/
@@ -62,6 +35,24 @@
     mp4_796: media\/2015\/02\/10\/396503619710\/en_0209_fullepisode_342678_796.mp4
     mp4_1296: media\/2015\/02\/10\/396503619710\/en_0209_fullepisode_342678_1296.mp4
   date: 02-09
+- title: 02-08
+  links:
+    orig: /videos/28-heavy-rain-high-winds-slam-west-coast-paralyzed-by-accident-boy-pursues-wrestling/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/02/09/396043843532/EN_FULL_2815_342271_500/EN_FULL_2815_342271_500.m3u8
+    mp4_240: media\/2015\/02\/09\/396043843532\/EN_FULL_2815_342267_240.mp4
+    mp4_740: media\/2015\/02\/09\/396043843532\/EN_FULL_2815_342267_740.mp4
+    mp4_796: media\/2015\/02\/09\/396043843532\/EN_FULL_2815_342267_796.mp4
+    mp4_1296: media\/2015\/02\/09\/396043843532\/EN_FULL_2815_342267_1296.mp4
+  date: 02-08
+- title: 21-01
+  links:
+    orig: /videos/211-obama-seeks-congressional-war-authorization-against-isis-k-9-caught-in-love-triangle-with-cop-and-war-vet/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/02/12/397635651857/EN_0211_FULL_343774_500/EN_0211_FULL_343774_500.m3u8
+    mp4_240: media\/2015\/02\/12\/397635651857\/EN_0211_FULL_343759_240.mp4
+    mp4_740: media\/2015\/02\/12\/397635651857\/EN_0211_FULL_343759_740.mp4
+    mp4_796: media\/2015\/02\/12\/397635651857\/EN_0211_FULL_343759_796.mp4
+    mp4_1296: media\/2015\/02\/12\/397635651857\/EN_0211_FULL_343759_1296.mp4
+  date: 21-01
 - title: 02-07
   links:
     orig: /videos/27-severe-winter-storm-heading-to-northeast-whats-the-right-amount-to-tip/
@@ -71,3 +62,12 @@
     mp4_796: media\/2015\/02\/08\/395817027645\/EN_FULL_2715_342043_796.mp4
     mp4_1296: media\/2015\/02\/08\/395817027645\/EN_FULL_2715_342043_1296.mp4
   date: 02-07
+- title: 02-05
+  links:
+    orig: /videos/25-anthem-hack-exposes-health-care-records-of-up-to-80-million-former-cia-agent-uses-spy-skills-to-fix-faces/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: 02-05
