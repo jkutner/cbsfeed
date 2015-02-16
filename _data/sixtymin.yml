@@ -1,4 +1,13 @@
 ---
+- title: ZMapp, A New Kind of Terrorist, Bradley Cooper
+  links:
+    orig: /videos/zmapp-a-new-kind-of-terrorist-bradley-cooper/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/02/15/399370307839/60_Full_021515_345550_500/60_Full_021515_345550_500.m3u8
+    mp4_240: media\/2015\/02\/15\/399370307839\/60_Full_021515_345538_240.mp4
+    mp4_740: media\/2015\/02\/15\/399370307839\/60_Full_021515_345538_740.mp4
+    mp4_796: media\/2015\/02\/15\/399370307839\/60_Full_021515_345538_796.mp4
+    mp4_1296: media\/2015\/02\/15\/399370307839\/60_Full_021515_345538_1296.mp4
+  date: ZMapp, A New Kind of Terrorist, Bradley Cooper
 - title: DARPA Dan, The Swiss Leaks, Selma
   links:
     orig: /videos/darpa-dan-the-swiss-leaks-selma/
@@ -17,6 +26,15 @@
     mp4_796: media\/2015\/01\/26\/388990019823\/60_FULL_12515_336293_796.mp4
     mp4_1296: media\/2015\/01\/26\/388990019823\/60_FULL_12515_336293_1296.mp4
   date: The Republican Leaders, The Cleveland Division, Li Na
+- title: The Ebola Hot Zone, Cleaning up the VA, Steve Carell
+  links:
+    orig: /videos/the-ebola-hot-zone-cleaning-up-the-va-steve-carell/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/11/10/355843139997/60_FULL_110914_306436_tablet.m3u8
+    mp4_240: media\/2014\/11\/10\/355843139997\/60_FULL_110914_306401_240.mp4
+    mp4_740: media\/2014\/11\/10\/355843139997\/60_FULL_110914_306401_740.mp4
+    mp4_796: media\/2014\/11\/10\/355843139997\/60_FULL_110914_306401_796.mp4
+    mp4_1296: media\/2014\/11\/10\/355843139997\/60_FULL_110914_306401_1296.mp4
+  date: The Ebola Hot Zone, Cleaning up the VA, Steve Carell
 - title: Colorado Pot, Obamacare, Up
   links:
     orig: /videos/colorado-pot-obamacare-up/
@@ -26,42 +44,6 @@
     mp4_796: media\/2015\/01\/11\/382843459550\/60_FULL_011015_329632_796.mp4
     mp4_1296: media\/2015\/01\/11\/382843459550\/60_FULL_011015_329632_1296.mp4
   date: Colorado Pot, Obamacare, Up
-- title: Recruiting for ISIS, Under Fire, Blake Shelton
-  links:
-    orig: /videos/recruiting-for-isis-under-fire-blake-shelton/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/11/02/351035459816/60_FULL_110214_303558_phone.m3u8
-    mp4_240: media\/2014\/11\/02\/351035459816\/60_FULL_110214_303303_240.mp4
-    mp4_740: media\/2014\/11\/02\/351035459816\/60_FULL_110214_303303_740.mp4
-    mp4_796: media\/2014\/11\/02\/351035459816\/60_FULL_110214_303303_796.mp4
-    mp4_1296: media\/2014\/11\/02\/351035459816\/60_FULL_110214_303303_1296.mp4
-  date: Recruiting for ISIS, Under Fire, Blake Shelton
-- title: Ending America&rsquo;s Longest War, Alive and Kickin&rsquo;
-  links:
-    orig: /videos/ending-americas-longest-war-alive-and-kickin/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: Ending America&rsquo;s Longest War, Alive and Kickin&rsquo;
-- title: Water, Cardinal Se&aacute;n, Mandy Patinkin
-  links:
-    orig: /videos/water-cardinal-sean-mandy-patinkin/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/11/17/359532099703/60_FULL_111614_309578_phone.m3u8
-    mp4_240: media\/2014\/11\/17\/359532099703\/60_FULL_111614_309524_240.mp4
-    mp4_740: media\/2014\/11\/17\/359532099703\/60_FULL_111614_309524_740.mp4
-    mp4_796: media\/2014\/11\/17\/359532099703\/60_FULL_111614_309524_796.mp4
-    mp4_1296: media\/2014\/11\/17\/359532099703\/60_FULL_111614_309524_1296.mp4
-  date: Water, Cardinal Se&aacute;n, Mandy Patinkin
-- title: Denied, Inside Homs, Mindfulness
-  links:
-    orig: /videos/denied-inside-homs-mindfulness/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/12/14/372475971824/60_FULL_121414_320321_phone.m3u8
-    mp4_240: media\/2014\/12\/14\/372475971824\/60_FULL_121414_320246_240.mp4
-    mp4_740: media\/2014\/12\/14\/372475971824\/60_FULL_121414_320246_740.mp4
-    mp4_796: media\/2014\/12\/14\/372475971824\/60_FULL_121414_320246_796.mp4
-    mp4_1296: media\/2014\/12\/14\/372475971824\/60_FULL_121414_320246_1296.mp4
-  date: Denied, Inside Homs, Mindfulness
 - title: Falling Apart, Chernobyl, Forgotten Corner of Hell
   links:
     orig: /videos/falling-apart-chernobyl-forgotten-corner-of-hell/
@@ -71,3 +53,21 @@
     mp4_796: media\/2014\/11\/23\/362313795967\/60_FULL_11232014_312148_796.mp4
     mp4_1296: media\/2014\/11\/23\/362313795967\/60_FULL_11232014_312148_1296.mp4
   date: Falling Apart, Chernobyl, Forgotten Corner of Hell
+- title: Ending America&rsquo;s Longest War, Alive and Kickin&rsquo;
+  links:
+    orig: /videos/ending-americas-longest-war-alive-and-kickin/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: Ending America&rsquo;s Longest War, Alive and Kickin&rsquo;
+- title: War and Hunger, Swiping Your Card, Lion Whisperer
+  links:
+    orig: /videos/war-and-hunger-swiping-your-card-lion-whisperer/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2014/11/29/365134915521/60_FULL_113014_314516_tablet.m3u8
+    mp4_240: media\/2014\/11\/29\/365134915521\/60_FULL_113014_314250_240.mp4
+    mp4_740: media\/2014\/11\/29\/365134915521\/60_FULL_113014_314250_740.mp4
+    mp4_796: media\/2014\/11\/29\/365134915521\/60_FULL_113014_314250_796.mp4
+    mp4_1296: media\/2014\/11\/29\/365134915521\/60_FULL_113014_314250_1296.mp4
+  date: War and Hunger, Swiping Your Card, Lion Whisperer
