@@ -17,15 +17,6 @@
     mp4_796: ''
     mp4_1296: ''
   date: 22-07
-- title: 22-02
-  links:
-    orig: /videos/222-icy-winter-weather-turns-deadly-in-tennessee-surf-photographer-captures-the-dangers-of-the-california-coast/
-    ipad: ''
-    mp4_240: media\/2015\/02\/23\/402711107661\/EN_022215_FullEpisode_349000_240.mp4
-    mp4_740: media\/2015\/02\/23\/402711107661\/EN_022215_FullEpisode_349000_740.mp4
-    mp4_796: media\/2015\/02\/23\/402711107661\/EN_022215_FullEpisode_349000_796.mp4
-    mp4_1296: media\/2015\/02\/23\/402711107661\/EN_022215_FullEpisode_349000_1296.mp4
-  date: 22-02
 - title: 22-05
   links:
     orig: /videos/225-blizzard-conditions-trigger-40-car-pileup-in-northeast-student-uncovers-lost-malcolm-x-tape/
@@ -71,3 +62,12 @@
     mp4_796: media\/2015\/02\/22\/402499651818\/EN_FULL_22115_348783_796.mp4
     mp4_1296: media\/2015\/02\/22\/402499651818\/EN_FULL_22115_348783_1296.mp4
   date: 22-01
+- title: 22-02
+  links:
+    orig: /videos/222-icy-winter-weather-turns-deadly-in-tennessee-surf-photographer-captures-the-dangers-of-the-california-coast/
+    ipad: ''
+    mp4_240: media\/2015\/02\/23\/402711107661\/EN_022215_FullEpisode_349000_240.mp4
+    mp4_740: media\/2015\/02\/23\/402711107661\/EN_022215_FullEpisode_349000_740.mp4
+    mp4_796: media\/2015\/02\/23\/402711107661\/EN_022215_FullEpisode_349000_796.mp4
+    mp4_1296: media\/2015\/02\/23\/402711107661\/EN_022215_FullEpisode_349000_1296.mp4
+  date: 22-02
