@@ -11,21 +11,12 @@
 - title: 22-07
   links:
     orig: /videos/227-the-schoolboy-who-became-an-isis-executioner-texas-high-school-basketball-team-gets-unlikely-support/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/02/406268483783/EN_Full_0301_v2_352192_500/EN_Full_0301_v2_352192_500.m3u8
+    mp4_240: media\/2015\/03\/02\/406268483783\/EN_Full_0301_v2_352189_240.mp4
+    mp4_740: media\/2015\/03\/02\/406268483783\/EN_Full_0301_v2_352189_740.mp4
+    mp4_796: media\/2015\/03\/02\/406268483783\/EN_Full_0301_v2_352189_796.mp4
+    mp4_1296: media\/2015\/03\/02\/406268483783\/EN_Full_0301_v2_352189_1296.mp4
   date: 22-07
-- title: 22-05
-  links:
-    orig: /videos/225-blizzard-conditions-trigger-40-car-pileup-in-northeast-student-uncovers-lost-malcolm-x-tape/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 22-05
 - title: 22-00
   links:
     orig: /videos/220-painful-cold-persists-with-record-lows-grandfather-delivers-snowy-surprise/
@@ -35,15 +26,15 @@
     mp4_796: media\/2015\/02\/21\/402231875806\/EN_FULL_22015_348522_796.mp4
     mp4_1296: media\/2015\/02\/21\/402231875806\/EN_FULL_22015_348522_1296.mp4
   date: 22-00
-- title: 22-03
+- title: 22-05
   links:
-    orig: /videos/223-freezing-temperatures-wreak-havoc-in-the-south-photographer-captures-veterans-inner-selves/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 22-03
+    orig: /videos/225-blizzard-conditions-trigger-40-car-pileup-in-northeast-student-uncovers-lost-malcolm-x-tape/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/02/406268483783/EN_Full_0301_v2_352192_500/EN_Full_0301_v2_352192_500.m3u8
+    mp4_240: media\/2015\/03\/02\/406268483783\/EN_Full_0301_v2_352189_240.mp4
+    mp4_740: media\/2015\/03\/02\/406268483783\/EN_Full_0301_v2_352189_740.mp4
+    mp4_796: media\/2015\/03\/02\/406268483783\/EN_Full_0301_v2_352189_796.mp4
+    mp4_1296: media\/2015\/03\/02\/406268483783\/EN_Full_0301_v2_352189_1296.mp4
+  date: 22-05
 - title: 22-04
   links:
     orig: /videos/224-va-secretary-apologizes-for-special-forces-claim-77-year-old-grandmother-is-weightlifting-champion/
@@ -71,3 +62,12 @@
     mp4_796: ''
     mp4_1296: ''
   date: 22-06
+- title: 21-09
+  links:
+    orig: /videos/219-deep-freeze-continues-descending-below-zero-iwo-jima-survivors-recall-1945-battle/
+    ipad: ''
+    mp4_240: media\/2015\/02\/20\/401667651972\/EN_FULL_21915_replacement_347939_240.mp4
+    mp4_740: media\/2015\/02\/20\/401667651972\/EN_FULL_21915_replacement_347939_740.mp4
+    mp4_796: media\/2015\/02\/20\/401667651972\/EN_FULL_21915_replacement_347939_796.mp4
+    mp4_1296: media\/2015\/02\/20\/401667651972\/EN_FULL_21915_replacement_347939_1296.mp4
+  date: 21-09
