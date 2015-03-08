@@ -1,31 +1,13 @@
 ---
-- title: 03-06
+- title: 03-07
   links:
-    orig: /videos/36-march-roars-in-with-record-low-temperatures-act-of-kindness-helps-elderly-man-honor-late-wife/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/07/409555011885/EN_FULL_3615_354947_500/EN_FULL_3615_354947_500.m3u8
-    mp4_240: media\/2015\/03\/07\/409555011885\/EN_FULL_3615_354944_240.mp4
-    mp4_740: media\/2015\/03\/07\/409555011885\/EN_FULL_3615_354944_740.mp4
-    mp4_796: media\/2015\/03\/07\/409555011885\/EN_FULL_3615_354944_796.mp4
-    mp4_1296: media\/2015\/03\/07\/409555011885\/EN_FULL_3615_354944_1296.mp4
-  date: 03-06
-- title: 22-05
-  links:
-    orig: /videos/225-blizzard-conditions-trigger-40-car-pileup-in-northeast-student-uncovers-lost-malcolm-x-tape/
+    orig: /videos/37-obama-remembers-bloody-sunday-in-selma-reporters-notebook-covering-selma-50-years-ago/
     ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 22-05
-- title: 22-07
-  links:
-    orig: /videos/227-the-schoolboy-who-became-an-isis-executioner-texas-high-school-basketball-team-gets-unlikely-support/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 22-07
+    mp4_240: media\/2015\/03\/08\/409855555963\/EN_Full_0307_v2_355204_240.mp4
+    mp4_740: media\/2015\/03\/08\/409855555963\/EN_Full_0307_v2_355204_740.mp4
+    mp4_796: media\/2015\/03\/08\/409855555963\/EN_Full_0307_v2_355204_796.mp4
+    mp4_1296: media\/2015\/03\/08\/409855555963\/EN_Full_0307_v2_355204_1296.mp4
+  date: 03-07
 - title: 22-06
   links:
     orig: /videos/226-identity-of-isis-jihadi-john-unveiled-llamas-make-a-run-for-it-in-arizona/
@@ -35,6 +17,15 @@
     mp4_796: ''
     mp4_1296: ''
   date: 22-06
+- title: 22-05
+  links:
+    orig: /videos/225-blizzard-conditions-trigger-40-car-pileup-in-northeast-student-uncovers-lost-malcolm-x-tape/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: 22-05
 - title: 22-08
   links:
     orig: /videos/228-congress-narrowly-averts-dhs-shutdown-dressgate-what-color-is-the-dress/
@@ -44,15 +35,24 @@
     mp4_796: media\/2015\/03\/01\/405978179855\/EN_FULL_022815_351849_796.mp4
     mp4_1296: media\/2015\/03\/01\/405978179855\/EN_FULL_022815_351849_1296.mp4
   date: 22-08
-- title: 22-04
+- title: 22-07
   links:
-    orig: /videos/224-va-secretary-apologizes-for-special-forces-claim-77-year-old-grandmother-is-weightlifting-champion/
+    orig: /videos/227-the-schoolboy-who-became-an-isis-executioner-texas-high-school-basketball-team-gets-unlikely-support/
     ipad: ''
-    mp4_240: media\/2015\/02\/25\/403852867738\/EN_0224_fullepisode_349933_240.mp4
-    mp4_740: media\/2015\/02\/25\/403852867738\/EN_0224_fullepisode_349933_740.mp4
-    mp4_796: media\/2015\/02\/25\/403852867738\/EN_0224_fullepisode_349933_796.mp4
-    mp4_1296: media\/2015\/02\/25\/403852867738\/EN_0224_fullepisode_349933_1296.mp4
-  date: 22-04
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: 22-07
+- title: 03-06
+  links:
+    orig: /videos/36-march-roars-in-with-record-low-temperatures-act-of-kindness-helps-elderly-man-honor-late-wife/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/07/409555011885/EN_FULL_3615_354947_500/EN_FULL_3615_354947_500.m3u8
+    mp4_240: media\/2015\/03\/07\/409555011885\/EN_FULL_3615_354944_240.mp4
+    mp4_740: media\/2015\/03\/07\/409555011885\/EN_FULL_3615_354944_740.mp4
+    mp4_796: media\/2015\/03\/07\/409555011885\/EN_FULL_3615_354944_796.mp4
+    mp4_1296: media\/2015\/03\/07\/409555011885\/EN_FULL_3615_354944_1296.mp4
+  date: 03-06
 - title: 03-05
   links:
     orig: /videos/35-harrison-ford-injured-in-plane-crash-on-california-golf-course-remembering-selma-50-years-later/
