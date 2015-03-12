@@ -1,13 +1,4 @@
 ---
-- title: 31-00
-  links:
-    orig: /videos/310-hillary-clinton-addresses-email-controversy-hollywood-sign-selfies-disrupt-la-neighborhood/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 31-00
 - title: 31-01
   links:
     orig: /videos/311-ferguson-police-chief-out-amid-shakeup-of-city-leaders-how-south-africas-rhinos-are-being-rescued/
@@ -21,10 +12,10 @@
   links:
     orig: /videos/39-ou-shuts-down-fraternity-after-racist-chant-vietnam-50-years-later-pilots-remember-being-shot-down/
     ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
+    mp4_240: media\/2015\/03\/12\/412009027931\/EN_FULL_31115_V2_357347_240.mp4
+    mp4_740: media\/2015\/03\/12\/412009027931\/EN_FULL_31115_V2_357347_740.mp4
+    mp4_796: media\/2015\/03\/12\/412009027931\/EN_FULL_31115_V2_357347_796.mp4
+    mp4_1296: media\/2015\/03\/12\/412009027931\/EN_FULL_31115_V2_357347_1296.mp4
   date: 03-09
 - title: 03-08
   links:
@@ -71,3 +62,12 @@
     mp4_796: media\/2015\/03\/05\/408442947950\/EN_FULL_030415_353839_796.mp4
     mp4_1296: media\/2015\/03\/05\/408442947950\/EN_FULL_030415_353839_1296.mp4
   date: 03-04
+- title: 03-03
+  links:
+    orig: /videos/33-justice-department-comes-down-hard-on-ferguson-police-bao-bao-the-panda-leaves-her-mom/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/04/407785539563/EN_0303_FULL_353179_500/EN_0303_FULL_353179_500.m3u8
+    mp4_240: media\/2015\/03\/04\/407785539563\/EN_0303_FULL_353176_240.mp4
+    mp4_740: media\/2015\/03\/04\/407785539563\/EN_0303_FULL_353176_740.mp4
+    mp4_796: media\/2015\/03\/04\/407785539563\/EN_0303_FULL_353176_796.mp4
+    mp4_1296: media\/2015\/03\/04\/407785539563\/EN_0303_FULL_353176_1296.mp4
+  date: 03-03
