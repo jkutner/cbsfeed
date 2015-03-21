@@ -1,13 +1,4 @@
 ---
-- title: 31-09
-  links:
-    orig: /videos/319-tourists-describe-how-they-survived-tunis-terror-attack-former-nba-star-stephon-marbury-rebounds-in-china/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/20/415640131604/0319_EN_FULL_361652_tablet.m3u8
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 31-09
 - title: 03-20
   links:
     orig: /videos/3-20-as-winter-fades-out-economy-is-left-wincing-girls-hoop-team-overcomes-winless-reputation/
@@ -17,33 +8,15 @@
     mp4_796: media\/2015\/03\/21\/416125507899\/EN_FULL_32015_362352_796.mp4
     mp4_1296: media\/2015\/03\/21\/416125507899\/EN_FULL_32015_362352_1296.mp4
   date: 03-20
-- title: 31-08
+- title: 32-00
   links:
-    orig: /videos/318-gunmen-storm-museum-in-tunisia-killing-19-women-face-tough-challenges-for-retirement-savings/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/19/415166531571/EN_FULL_031815_360915_500/EN_FULL_031815_360915_500.m3u8
-    mp4_240: media\/2015\/03\/19\/415166531571\/EN_FULL_031815_360912_240.mp4
-    mp4_740: media\/2015\/03\/19\/415166531571\/EN_FULL_031815_360912_740.mp4
-    mp4_796: media\/2015\/03\/19\/415166531571\/EN_FULL_031815_360912_796.mp4
-    mp4_1296: media\/2015\/03\/19\/415166531571\/EN_FULL_031815_360912_1296.mp4
-  date: 31-08
-- title: 31-01
-  links:
-    orig: /videos/311-ferguson-police-chief-out-amid-shakeup-of-city-leaders-how-south-africas-rhinos-are-being-rescued/
+    orig: /videos/320-as-winter-fades-out-economy-is-left-wincing-girls-hoop-team-overcomes-winless-reputation/
     ipad: ''
-    mp4_240: media\/2015\/03\/12\/412009027931\/EN_FULL_31115_V2_357347_240.mp4
-    mp4_740: media\/2015\/03\/12\/412009027931\/EN_FULL_31115_V2_357347_740.mp4
-    mp4_796: media\/2015\/03\/12\/412009027931\/EN_FULL_31115_V2_357347_796.mp4
-    mp4_1296: media\/2015\/03\/12\/412009027931\/EN_FULL_31115_V2_357347_1296.mp4
-  date: 31-01
-- title: 31-06
-  links:
-    orig: /videos/316-boston-bombing-jury-sees-boat-where-tsarnaev-hid-solar-powered-satellite-to-set-sail-for-space/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 31-06
+    mp4_240: media\/2015\/03\/21\/416125507899\/EN_FULL_32015_362352_240.mp4
+    mp4_740: media\/2015\/03\/21\/416125507899\/EN_FULL_32015_362352_740.mp4
+    mp4_796: media\/2015\/03\/21\/416125507899\/EN_FULL_32015_362352_796.mp4
+    mp4_1296: media\/2015\/03\/21\/416125507899\/EN_FULL_32015_362352_1296.mp4
+  date: 32-00
 - title: 31-05
   links:
     orig: /videos/315-suspect-arrested-in-shooting-of-2-officers-in-ferguson-student-makes-big-bucks-from-old-basketball-shoes/
@@ -53,6 +26,42 @@
     mp4_796: media\/2015\/03\/16\/413488707627\/EN_FULL_031515_359028_796.mp4
     mp4_1296: media\/2015\/03\/16\/413488707627\/EN_FULL_031515_359028_1296.mp4
   date: 31-05
+- title: 31-08
+  links:
+    orig: /videos/318-gunmen-storm-museum-in-tunisia-killing-19-women-face-tough-challenges-for-retirement-savings/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/19/415166531571/EN_FULL_031815_360915_500/EN_FULL_031815_360915_500.m3u8
+    mp4_240: media\/2015\/03\/19\/415166531571\/EN_FULL_031815_360912_240.mp4
+    mp4_740: media\/2015\/03\/19\/415166531571\/EN_FULL_031815_360912_740.mp4
+    mp4_796: media\/2015\/03\/19\/415166531571\/EN_FULL_031815_360912_796.mp4
+    mp4_1296: media\/2015\/03\/19\/415166531571\/EN_FULL_031815_360912_1296.mp4
+  date: 31-08
+- title: 31-09
+  links:
+    orig: /videos/319-tourists-describe-how-they-survived-tunis-terror-attack-former-nba-star-stephon-marbury-rebounds-in-china/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/20/415640131604/0319_EN_FULL_361652_tablet.m3u8
+    mp4_240: media\/2015\/03\/21\/416125507899\/EN_FULL_32015_362352_240.mp4
+    mp4_740: media\/2015\/03\/21\/416125507899\/EN_FULL_32015_362352_740.mp4
+    mp4_796: media\/2015\/03\/21\/416125507899\/EN_FULL_32015_362352_796.mp4
+    mp4_1296: media\/2015\/03\/21\/416125507899\/EN_FULL_32015_362352_1296.mp4
+  date: 31-09
+- title: 31-06
+  links:
+    orig: /videos/316-boston-bombing-jury-sees-boat-where-tsarnaev-hid-solar-powered-satellite-to-set-sail-for-space/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/21/416125507899/EN_FULL_32015_362364_tablet.m3u8
+    mp4_240: media\/2015\/03\/21\/416125507899\/EN_FULL_32015_362352_240.mp4
+    mp4_740: media\/2015\/03\/21\/416125507899\/EN_FULL_32015_362352_740.mp4
+    mp4_796: media\/2015\/03\/21\/416125507899\/EN_FULL_32015_362352_796.mp4
+    mp4_1296: media\/2015\/03\/21\/416125507899\/EN_FULL_32015_362352_1296.mp4
+  date: 31-06
+- title: 31-01
+  links:
+    orig: /videos/311-ferguson-police-chief-out-amid-shakeup-of-city-leaders-how-south-africas-rhinos-are-being-rescued/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/21/416125507899/EN_FULL_32015_362364_tablet.m3u8
+    mp4_240: media\/2015\/03\/12\/412009027931\/EN_FULL_31115_V2_357347_240.mp4
+    mp4_740: media\/2015\/03\/12\/412009027931\/EN_FULL_31115_V2_357347_740.mp4
+    mp4_796: media\/2015\/03\/12\/412009027931\/EN_FULL_31115_V2_357347_796.mp4
+    mp4_1296: media\/2015\/03\/12\/412009027931\/EN_FULL_31115_V2_357347_1296.mp4
+  date: 31-01
 - title: 31-04
   links:
     orig: /videos/314-massive-cyclone-pummels-vanuatu-the-gardener-in-the-middle-of-the-road/
@@ -62,12 +71,3 @@
     mp4_796: media\/2015\/03\/15\/413270083772\/EN_031415_Full_358674_796.mp4
     mp4_1296: media\/2015\/03\/15\/413270083772\/EN_031415_Full_358674_1296.mp4
   date: 31-04
-- title: 31-07
-  links:
-    orig: /videos/317-penn-state-frat-suspended-over-disturbing-photos-researcher-seeks-to-find-out-why-penguins-waddle/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/18/414659651644/EN_0317_FULL_EPISODE_360156_500/EN_0317_FULL_EPISODE_360156_500.m3u8
-    mp4_240: media\/2015\/03\/18\/414659651644\/EN_0317_FULL_EPISODE_360149_240.mp4
-    mp4_740: media\/2015\/03\/18\/414659651644\/EN_0317_FULL_EPISODE_360149_740.mp4
-    mp4_796: media\/2015\/03\/18\/414659651644\/EN_0317_FULL_EPISODE_360149_796.mp4
-    mp4_1296: media\/2015\/03\/18\/414659651644\/EN_0317_FULL_EPISODE_360149_1296.mp4
-  date: 31-07
