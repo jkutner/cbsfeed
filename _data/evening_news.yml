@@ -1,13 +1,4 @@
 ---
-- title: 32-08
-  links:
-    orig: /videos/328-critics-indiana-law-legalizes-discrimination-womans-around-the-world-quest-nears-end/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/29/419640899519/EN_FULL_032815_366779_500/EN_FULL_032815_366779_500.m3u8
-    mp4_240: media\/2015\/03\/29\/419640899519\/EN_FULL_032815_366773_240.mp4
-    mp4_740: media\/2015\/03\/29\/419640899519\/EN_FULL_032815_366773_740.mp4
-    mp4_796: media\/2015\/03\/29\/419640899519\/EN_FULL_032815_366773_796.mp4
-    mp4_1296: media\/2015\/03\/29\/419640899519\/EN_FULL_032815_366773_1296.mp4
-  date: 32-08
 - title: 32-09
   links:
     orig: /videos/329-purported-germanwings-cockpit-voice-recorder-transcript-released-6-way-kidney-swap-makes-medical-history-in-california/
@@ -17,42 +8,15 @@
     mp4_796: media\/2015\/03\/30\/419887683606\/EN_032915_Full_367091_796.mp4
     mp4_1296: media\/2015\/03\/30\/419887683606\/EN_032915_Full_367091_1296.mp4
   date: 32-09
-- title: 32-07
+- title: 32-08
   links:
-    orig: /videos/327-doctors-note-found-ripped-up-in-home-of-germanwings-co-pilot-texas-basketball-team-gets-unlikely-support/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 32-07
-- title: 31-09
-  links:
-    orig: /videos/319-tourists-describe-how-they-survived-tunis-terror-attack-former-nba-star-stephon-marbury-rebounds-in-china/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/20/415640131604/0319_EN_FULL_361652_tablet.m3u8
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 31-09
-- title: 32-05
-  links:
-    orig: /videos/325-investigators-look-for-clues-in-germanwings-mystery-b-smith-on-her-struggles-with-alzheimers/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 32-05
-- title: 32-04
-  links:
-    orig: /videos/324-no-survivors-in-germanwings-plane-crash-which-woman-should-grace-the-20-bill/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 32-04
+    orig: /videos/328-critics-indiana-law-legalizes-discrimination-womans-around-the-world-quest-nears-end/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/29/419640899519/EN_FULL_032815_366779_500/EN_FULL_032815_366779_500.m3u8
+    mp4_240: media\/2015\/03\/29\/419640899519\/EN_FULL_032815_366773_240.mp4
+    mp4_740: media\/2015\/03\/29\/419640899519\/EN_FULL_032815_366773_740.mp4
+    mp4_796: media\/2015\/03\/29\/419640899519\/EN_FULL_032815_366773_796.mp4
+    mp4_1296: media\/2015\/03\/29\/419640899519\/EN_FULL_032815_366773_1296.mp4
+  date: 32-08
 - title: 32-03
   links:
     orig: /videos/323-pentagon-reacts-to-isis-hit-list-of-u-s-military-personnel-safety-experts-question-chryslers-fix-for-risky-gas-tanks/
@@ -71,3 +35,39 @@
     mp4_796: ''
     mp4_1296: ''
   date: 32-06
+- title: 32-07
+  links:
+    orig: /videos/327-doctors-note-found-ripped-up-in-home-of-germanwings-co-pilot-texas-basketball-team-gets-unlikely-support/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: 32-07
+- title: 32-04
+  links:
+    orig: /videos/324-no-survivors-in-germanwings-plane-crash-which-woman-should-grace-the-20-bill/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: 32-04
+- title: 31-08
+  links:
+    orig: /videos/318-gunmen-storm-museum-in-tunisia-killing-19-women-face-tough-challenges-for-retirement-savings/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/19/415166531571/EN_FULL_031815_360915_500/EN_FULL_031815_360915_500.m3u8
+    mp4_240: media\/2015\/03\/19\/415166531571\/EN_FULL_031815_360912_240.mp4
+    mp4_740: media\/2015\/03\/19\/415166531571\/EN_FULL_031815_360912_740.mp4
+    mp4_796: media\/2015\/03\/19\/415166531571\/EN_FULL_031815_360912_796.mp4
+    mp4_1296: media\/2015\/03\/19\/415166531571\/EN_FULL_031815_360912_1296.mp4
+  date: 31-08
+- title: 32-02
+  links:
+    orig: /videos/322-isis-releases-hit-list-of-u-s-military-personnel-young-entrepreneur-runs-her-own-business-making-custom-pens/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/23/416567875580/EN_FULL_0322_363057_500/EN_FULL_0322_363057_500.m3u8
+    mp4_240: media\/2015\/03\/23\/416567875580\/EN_FULL_0322_363050_240.mp4
+    mp4_740: media\/2015\/03\/23\/416567875580\/EN_FULL_0322_363050_740.mp4
+    mp4_796: media\/2015\/03\/23\/416567875580\/EN_FULL_0322_363050_796.mp4
+    mp4_1296: media\/2015\/03\/23\/416567875580\/EN_FULL_0322_363050_1296.mp4
+  date: 32-02
