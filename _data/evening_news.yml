@@ -8,42 +8,6 @@
     mp4_796: media\/2015\/04\/08\/424588867720\/EN_0407_FULL_372674_796.mp4
     mp4_1296: media\/2015\/04\/08\/424588867720\/EN_0407_FULL_372674_1296.mp4
   date: 04-07
-- title: 32-09
-  links:
-    orig: /videos/329-purported-germanwings-cockpit-voice-recorder-transcript-released-6-way-kidney-swap-makes-medical-history-in-california/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/30/419887683606/EN_032915_Full_367094_500/EN_032915_Full_367094_500.m3u8
-    mp4_240: media\/2015\/03\/30\/419887683606\/EN_032915_Full_367091_240.mp4
-    mp4_740: media\/2015\/03\/30\/419887683606\/EN_032915_Full_367091_740.mp4
-    mp4_796: media\/2015\/03\/30\/419887683606\/EN_032915_Full_367091_796.mp4
-    mp4_1296: media\/2015\/03\/30\/419887683606\/EN_032915_Full_367091_1296.mp4
-  date: 32-09
-- title: 32-08
-  links:
-    orig: /videos/328-critics-indiana-law-legalizes-discrimination-womans-around-the-world-quest-nears-end/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/29/419640899519/EN_FULL_032815_366779_500/EN_FULL_032815_366779_500.m3u8
-    mp4_240: media\/2015\/03\/29\/419640899519\/EN_FULL_032815_366773_240.mp4
-    mp4_740: media\/2015\/03\/29\/419640899519\/EN_FULL_032815_366773_740.mp4
-    mp4_796: media\/2015\/03\/29\/419640899519\/EN_FULL_032815_366773_796.mp4
-    mp4_1296: media\/2015\/03\/29\/419640899519\/EN_FULL_032815_366773_1296.mp4
-  date: 32-08
-- title: 33-01
-  links:
-    orig: /videos/331-lufthansa-knew-about-germanwings-co-pilots-depression-prolific-quilt-maker-dedicates-time-to-help-kids/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 33-01
-- title: 33-00
-  links:
-    orig: /videos/330-prosecutors-germanwings-co-pilot-was-treated-for-suicidal-tendencies-ted-kennedy-institute-hopes-to-inspire-future-generation/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 33-00
 - title: 04-06
   links:
     orig: /videos/46-jury-to-get-case-in-boston-bombing-trial-is-fracking-behind-oklahomas-earthquake-outbreak/
@@ -57,11 +21,20 @@
   links:
     orig: /videos/45-iran-nuclear-deal-framework-leaves-many-questions-camden-police-force-makes-a-remarkable-comeback/
     ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
+    mp4_240: media\/2015\/04\/08\/424588867720\/EN_0407_FULL_372674_240.mp4
+    mp4_740: media\/2015\/04\/08\/424588867720\/EN_0407_FULL_372674_740.mp4
+    mp4_796: media\/2015\/04\/08\/424588867720\/EN_0407_FULL_372674_796.mp4
+    mp4_1296: media\/2015\/04\/08\/424588867720\/EN_0407_FULL_372674_1296.mp4
   date: 04-05
+- title: 32-09
+  links:
+    orig: /videos/329-purported-germanwings-cockpit-voice-recorder-transcript-released-6-way-kidney-swap-makes-medical-history-in-california/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/30/419887683606/EN_032915_Full_367094_500/EN_032915_Full_367094_500.m3u8
+    mp4_240: media\/2015\/03\/30\/419887683606\/EN_032915_Full_367091_240.mp4
+    mp4_740: media\/2015\/03\/30\/419887683606\/EN_032915_Full_367091_740.mp4
+    mp4_796: media\/2015\/03\/30\/419887683606\/EN_032915_Full_367091_796.mp4
+    mp4_1296: media\/2015\/03\/30\/419887683606\/EN_032915_Full_367091_1296.mp4
+  date: 32-09
 - title: 04-04
   links:
     orig: /videos/44-kenya-terrorists-promise-university-attack-just-the-beginning-lost-phone-leads-to-whirlwind-adventure/
@@ -71,3 +44,30 @@
     mp4_796: media\/2015\/04\/05\/423232579660\/EN_FULL_040415_370725_796.mp4
     mp4_1296: media\/2015\/04\/05\/4232325129660\/EN_FULL_040415_370725_1296.mp4
   date: 04-04
+- title: 04-03
+  links:
+    orig: /videos/43-slow-tornado-season-soon-to-intensify-twin-boys-surprised-by-their-world-war-ii-idol/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/03/422960195908/EN_FULL_040315_370351_0/EN_FULL_040315_370351_0.m3u8
+    mp4_240: media\/2015\/04\/03\/422960195908\/EN_FULL_040315_370213_240.mp4
+    mp4_740: media\/2015\/04\/03\/422960195908\/EN_FULL_040315_370213_740.mp4
+    mp4_796: media\/2015\/04\/03\/422960195908\/EN_FULL_040315_370213_796.mp4
+    mp4_1296: media\/2015\/04\/03\/422960195908\/EN_FULL_040315_370213_1296.mp4
+  date: 04-03
+- title: 04-02
+  links:
+    orig: /videos/42-kerry-on-safeguards-in-iran-nuclear-deal-bishop-uses-religion-to-rejuvenate-new-jersey-community/
+    ipad: ''
+    mp4_240: media\/2015\/04\/08\/424588867720\/EN_0407_FULL_372674_240.mp4
+    mp4_740: media\/2015\/04\/08\/424588867720\/EN_0407_FULL_372674_740.mp4
+    mp4_796: media\/2015\/04\/08\/424588867720\/EN_0407_FULL_372674_796.mp4
+    mp4_1296: media\/2015\/04\/08\/424588867720\/EN_0407_FULL_372674_1296.mp4
+  date: 04-02
+- title: 04-01
+  links:
+    orig: /videos/41-arkansas-governor-asks-for-changes-to-religious-freedom-bill-craftsman-turns-detroits-unwanted-wood-into-guitars/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: 04-01
