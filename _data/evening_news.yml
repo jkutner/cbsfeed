@@ -1,40 +1,13 @@
 ---
-- title: 04-07
+- title: 04-08
   links:
-    orig: /videos/47-s-c-police-officer-charged-in-shooting-death-of-black-man-how-rand-paul-rose-to-become-a-presidential-candidate/
+    orig: /videos/48-how-surveillance-video-paved-way-for-tsarnaevs-guilty-verdict-sarah-thomas-honored-to-be-first-full-time-female-nfl-ref/
     ipad: ''
-    mp4_240: media\/2015\/04\/08\/424588867720\/en_0408_full_replacement_372880_240.mp4
-    mp4_740: media\/2015\/04\/08\/424588867720\/en_0408_full_replacement_372880_740.mp4
-    mp4_796: media\/2015\/04\/08\/424588867720\/en_0408_full_replacement_372880_796.mp4
-    mp4_1296: media\/2015\/04\/08\/424588867720\/en_0408_full_replacement_372880_1296.mp4
-  date: 04-07
-- title: 32-09
-  links:
-    orig: /videos/329-purported-germanwings-cockpit-voice-recorder-transcript-released-6-way-kidney-swap-makes-medical-history-in-california/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/30/419887683606/EN_032915_Full_367094_500/EN_032915_Full_367094_500.m3u8
-    mp4_240: media\/2015\/03\/30\/419887683606\/EN_032915_Full_367091_240.mp4
-    mp4_740: media\/2015\/03\/30\/419887683606\/EN_032915_Full_367091_740.mp4
-    mp4_796: media\/2015\/03\/30\/419887683606\/EN_032915_Full_367091_796.mp4
-    mp4_1296: media\/2015\/03\/30\/419887683606\/EN_032915_Full_367091_1296.mp4
-  date: 32-09
-- title: 32-08
-  links:
-    orig: /videos/328-critics-indiana-law-legalizes-discrimination-womans-around-the-world-quest-nears-end/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/29/419640899519/EN_FULL_032815_366779_500/EN_FULL_032815_366779_500.m3u8
-    mp4_240: media\/2015\/03\/29\/419640899519\/EN_FULL_032815_366773_240.mp4
-    mp4_740: media\/2015\/03\/29\/419640899519\/EN_FULL_032815_366773_740.mp4
-    mp4_796: media\/2015\/03\/29\/419640899519\/EN_FULL_032815_366773_796.mp4
-    mp4_1296: media\/2015\/03\/29\/419640899519\/EN_FULL_032815_366773_1296.mp4
-  date: 32-08
-- title: 33-01
-  links:
-    orig: /videos/331-lufthansa-knew-about-germanwings-co-pilots-depression-prolific-quilt-maker-dedicates-time-to-help-kids/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 33-01
+    mp4_240: media\/2015\/04\/09\/425209923933\/EN_0408_FULL_373380_240.mp4
+    mp4_740: media\/2015\/04\/09\/425209923933\/EN_0408_FULL_373380_740.mp4
+    mp4_796: media\/2015\/04\/09\/425209923933\/EN_0408_FULL_373380_796.mp4
+    mp4_1296: media\/2015\/04\/09\/425209923933\/EN_0408_FULL_373380_1296.mp4
+  date: 04-08
 - title: 33-00
   links:
     orig: /videos/330-prosecutors-germanwings-co-pilot-was-treated-for-suicidal-tendencies-ted-kennedy-institute-hopes-to-inspire-future-generation/
@@ -44,6 +17,33 @@
     mp4_796: ''
     mp4_1296: ''
   date: 33-00
+- title: 33-01
+  links:
+    orig: /videos/331-lufthansa-knew-about-germanwings-co-pilots-depression-prolific-quilt-maker-dedicates-time-to-help-kids/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: 33-01
+- title: 32-09
+  links:
+    orig: /videos/329-purported-germanwings-cockpit-voice-recorder-transcript-released-6-way-kidney-swap-makes-medical-history-in-california/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/30/419887683606/EN_032915_Full_367094_500/EN_032915_Full_367094_500.m3u8
+    mp4_240: media\/2015\/03\/30\/419887683606\/EN_032915_Full_367091_240.mp4
+    mp4_740: media\/2015\/03\/30\/419887683606\/EN_032915_Full_367091_740.mp4
+    mp4_796: media\/2015\/03\/30\/419887683606\/EN_032915_Full_367091_796.mp4
+    mp4_1296: media\/2015\/03\/30\/419887683606\/EN_032915_Full_367091_1296.mp4
+  date: 32-09
+- title: 04-07
+  links:
+    orig: /videos/47-s-c-police-officer-charged-in-shooting-death-of-black-man-how-rand-paul-rose-to-become-a-presidential-candidate/
+    ipad: ''
+    mp4_240: media\/2015\/04\/08\/424588867720\/en_0408_full_replacement_372880_240.mp4
+    mp4_740: media\/2015\/04\/08\/424588867720\/en_0408_full_replacement_372880_740.mp4
+    mp4_796: media\/2015\/04\/08\/424588867720\/en_0408_full_replacement_372880_796.mp4
+    mp4_1296: media\/2015\/04\/08\/424588867720\/en_0408_full_replacement_372880_1296.mp4
+  date: 04-07
 - title: 04-06
   links:
     orig: /videos/46-jury-to-get-case-in-boston-bombing-trial-is-fracking-behind-oklahomas-earthquake-outbreak/
