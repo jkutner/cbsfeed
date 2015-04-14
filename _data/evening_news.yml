@@ -1,22 +1,22 @@
 ---
-- title: 41-02
+- title: 41-03
   links:
-    orig: /videos/412-hillary-clinton-im-running-for-president-first-women-only-mosque-in-the-u-s/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/13/426998339956/EN_Full_041215_375540_0/EN_Full_041215_375540_0.m3u8
-    mp4_240: media\/2015\/04\/13\/426998339956\/EN_Full_041215_375537_240.mp4
-    mp4_740: media\/2015\/04\/13\/426998339956\/EN_Full_041215_375537_740.mp4
-    mp4_796: media\/2015\/04\/13\/426998339956\/EN_Full_041215_375537_796.mp4
-    mp4_1296: media\/2015\/04\/13\/426998339956\/EN_Full_041215_375537_1296.mp4
-  date: 41-02
-- title: 41-00
+    orig: /videos/413-tulsa-reserve-deputy-charged-in-fatal-shooting-the-imitation-game-notebook-sells-for-over-1-million/
+    ipad: ''
+    mp4_240: media\/2015\/04\/14\/427505219554\/EN_FULL_SHOW_041315_2_376211_240.mp4
+    mp4_740: media\/2015\/04\/14\/427505219554\/EN_FULL_SHOW_041315_2_376211_740.mp4
+    mp4_796: media\/2015\/04\/14\/427505219554\/EN_FULL_SHOW_041315_2_376211_796.mp4
+    mp4_1296: media\/2015\/04\/14\/427505219554\/EN_FULL_SHOW_041315_2_376211_1296.mp4
+  date: 41-03
+- title: 41-01
   links:
-    orig: /videos/410-tornado-tears-through-midwest-wreaks-havoc-lauren-hill-inspirational-college-basketball-player-dies/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/10/426444355683/EN_FULL_041015_374917_0/EN_FULL_041015_374917_0.m3u8
-    mp4_240: media\/2015\/04\/10\/426444355683\/EN_FULL_041015_374912_240.mp4
-    mp4_740: media\/2015\/04\/10\/426444355683\/EN_FULL_041015_374912_740.mp4
-    mp4_796: media\/2015\/04\/10\/426444355683\/EN_FULL_041015_374912_796.mp4
-    mp4_1296: media\/2015\/04\/10\/426444355683\/EN_FULL_041015_374912_1296.mp4
-  date: 41-00
+    orig: /videos/411-landmark-meeting-between-obama-castro-in-panama-democrats-await-hillary-clintons-presidential-announcement/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/12/426771523588/EN_FULL_041115_375163_500/EN_FULL_041115_375163_500.m3u8
+    mp4_240: media\/2015\/04\/12\/426771523588\/EN_FULL_041115_375159_240.mp4
+    mp4_740: media\/2015\/04\/12\/426771523588\/EN_FULL_041115_375159_740.mp4
+    mp4_796: media\/2015\/04\/12\/426771523588\/EN_FULL_041115_375159_796.mp4
+    mp4_1296: media\/2015\/04\/12\/426771523588\/EN_FULL_041115_375159_1296.mp4
+  date: 41-01
 - title: 04-09
   links:
     orig: /videos/49-dash-cam-video-shows-routine-traffic-stop-before-fatal-shooting-remembering-gen-robert-e-lees-civil-war-surrender-at-appomattox/
@@ -44,6 +44,15 @@
     mp4_796: media\/2015\/04\/08\/424588867720\/en_0408_full_replacement_372880_796.mp4
     mp4_1296: media\/2015\/04\/08\/424588867720\/en_0408_full_replacement_372880_1296.mp4
   date: 04-07
+- title: 41-00
+  links:
+    orig: /videos/410-tornado-tears-through-midwest-wreaks-havoc-lauren-hill-inspirational-college-basketball-player-dies/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/10/426444355683/EN_FULL_041015_374917_0/EN_FULL_041015_374917_0.m3u8
+    mp4_240: media\/2015\/04\/10\/426444355683\/EN_FULL_041015_374912_240.mp4
+    mp4_740: media\/2015\/04\/10\/426444355683\/EN_FULL_041015_374912_740.mp4
+    mp4_796: media\/2015\/04\/10\/426444355683\/EN_FULL_041015_374912_796.mp4
+    mp4_1296: media\/2015\/04\/10\/426444355683\/EN_FULL_041015_374912_1296.mp4
+  date: 41-00
 - title: 04-06
   links:
     orig: /videos/46-jury-to-get-case-in-boston-bombing-trial-is-fracking-behind-oklahomas-earthquake-outbreak/
@@ -62,12 +71,3 @@
     mp4_796: ''
     mp4_1296: ''
   date: 04-05
-- title: 04-04
-  links:
-    orig: /videos/44-kenya-terrorists-promise-university-attack-just-the-beginning-lost-phone-leads-to-whirlwind-adventure/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/05/423232579660/EN_FULL_040415_370731_500/EN_FULL_040415_370731_500.m3u8
-    mp4_240: media\/2015\/04\/05\/423232524060\/EN_FULL_040415_370725_240.mp4
-    mp4_740: media\/2015\/04\/05\/423232574060\/EN_FULL_040415_370725_740.mp4
-    mp4_796: media\/2015\/04\/05\/423232579660\/EN_FULL_040415_370725_796.mp4
-    mp4_1296: media\/2015\/04\/05\/4232325129660\/EN_FULL_040415_370725_1296.mp4
-  date: 04-04
