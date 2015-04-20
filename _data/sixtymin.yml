@@ -1,4 +1,13 @@
 ---
+- title: A Crime Against Humanity, TED Talks, Hoop Dreams
+  links:
+    orig: /videos/a-crime-against-humanity-ted-talks-hoop-dreams/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/19/430507075750/60_FULL_041915_379358_500/60_FULL_041915_379358_500.m3u8
+    mp4_240: media\/2015\/04\/19\/430507075750\/60_FULL_041915_379339_240.mp4
+    mp4_740: media\/2015\/04\/19\/430507075750\/60_FULL_041915_379339_740.mp4
+    mp4_796: media\/2015\/04\/19\/430507075750\/60_FULL_041915_379339_796.mp4
+    mp4_1296: media\/2015\/04\/19\/430507075750\/60_FULL_041915_379339_1296.mp4
+  date: A Crime Against Humanity, TED Talks, Hoop Dreams
 - title: The Attack on Sony, Ambassador Kennedy, Rush to Judgment
   links:
     orig: /videos/the-attack-on-sony-ambassador-kennedy-rush-to-judgment/
@@ -17,6 +26,15 @@
     mp4_796: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_796.mp4
     mp4_1296: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_1296.mp4
   date: Homeland Security, The Good Friday Agreement, Wikimania
+- title: The Republican Leaders, The Cleveland Division, Li Na
+  links:
+    orig: /videos/the-republican-leaders-the-cleveland-division-li-na/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/26/388990019823/60_FULL_12515_336300_500/60_FULL_12515_336300_500.m3u8
+    mp4_240: media\/2015\/01\/26\/388990019823\/60_FULL_12515_336293_240.mp4
+    mp4_740: media\/2015\/01\/26\/388990019823\/60_FULL_12515_336293_740.mp4
+    mp4_796: media\/2015\/01\/26\/388990019823\/60_FULL_12515_336293_796.mp4
+    mp4_1296: media\/2015\/01\/26\/388990019823\/60_FULL_12515_336293_1296.mp4
+  date: The Republican Leaders, The Cleveland Division, Li Na
 - title: Bashar al-Assad, Killing Cancer
   links:
     orig: /videos/bashar-al-assad-killing-cancer/
@@ -26,42 +44,6 @@
     mp4_796: media\/2015\/03\/29\/419842627903\/60_0329_Full_367006_796.mp4
     mp4_1296: media\/2015\/03\/29\/419842627903\/60_0329_Full_367006_1296.mp4
   date: Bashar al-Assad, Killing Cancer
-- title: Colorado Pot, Obamacare, Up
-  links:
-    orig: /videos/colorado-pot-obamacare-up/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/01/11/382843459550/60_FULL_011015_329778_500/60_FULL_011015_329778_500.m3u8
-    mp4_240: media\/2015\/01\/11\/382843459550\/60_FULL_011015_329632_240.mp4
-    mp4_740: media\/2015\/01\/11\/382843459550\/60_FULL_011015_329632_740.mp4
-    mp4_796: media\/2015\/01\/11\/382843459550\/60_FULL_011015_329632_796.mp4
-    mp4_1296: media\/2015\/01\/11\/382843459550\/60_FULL_011015_329632_1296.mp4
-  date: Colorado Pot, Obamacare, Up
-- title: Iraq's Christians, Rare Earth Elements, Starstruck
-  links:
-    orig: /videos/iraqs-christians-rare-earth-elements-starstruck/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/22/416497219642/60_Full_032215_362946_tablet.m3u8
-    mp4_240: media\/2015\/03\/22\/416497219642\/60_Full_032215_362916_240.mp4
-    mp4_740: media\/2015\/03\/22\/416497219642\/60_Full_032215_362916_740.mp4
-    mp4_796: media\/2015\/03\/22\/416497219642\/60_Full_032215_362916_796.mp4
-    mp4_1296: media\/2015\/03\/22\/416497219642\/60_Full_032215_362916_1296.mp4
-  date: Iraq's Christians, Rare Earth Elements, Starstruck
-- title: DARPA Dan, The Swiss Leaks, Selma
-  links:
-    orig: /videos/darpa-dan-the-swiss-leaks-selma/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/02/08/395822659644/60_FULL_2815_342198_500/60_FULL_2815_342198_500.m3u8
-    mp4_240: media\/2015\/02\/08\/395822659644\/60_FULL_2815_342054_240.mp4
-    mp4_740: media\/2015\/02\/08\/395822659644\/60_FULL_2815_342054_740.mp4
-    mp4_796: media\/2015\/02\/08\/395822659644\/60_FULL_2815_342054_796.mp4
-    mp4_1296: media\/2015\/02\/08\/395822659644\/60_FULL_2815_342054_1296.mp4
-  date: DARPA Dan, The Swiss Leaks, Selma
-- title: Dead or Alive, A Few Good Women, Back to the Wild
-  links:
-    orig: /videos/dead-or-alive-a-few-good-women-back-to-the-wild/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/02/23/402701891941/60_FULL_022215_V2_348998_500/60_FULL_022215_V2_348998_500.m3u8
-    mp4_240: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_240.mp4
-    mp4_740: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_740.mp4
-    mp4_796: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_796.mp4
-    mp4_1296: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_1296.mp4
-  date: Dead or Alive, A Few Good Women, Back to the Wild
 - title: ZMapp, A New Kind of Terrorist, Bradley Cooper
   links:
     orig: /videos/zmapp-a-new-kind-of-terrorist-bradley-cooper/
@@ -71,3 +53,21 @@
     mp4_796: media\/2015\/02\/15\/399370307839\/60_Full_021515_345538_796.mp4
     mp4_1296: media\/2015\/02\/15\/399370307839\/60_Full_021515_345538_1296.mp4
   date: ZMapp, A New Kind of Terrorist, Bradley Cooper
+- title: Iraq's Christians, Rare Earth Elements, Starstruck
+  links:
+    orig: /videos/iraqs-christians-rare-earth-elements-starstruck/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/22/416497219642/60_Full_032215_362946_tablet.m3u8
+    mp4_240: media\/2015\/03\/22\/416497219642\/60_Full_032215_362916_240.mp4
+    mp4_740: media\/2015\/03\/22\/416497219642\/60_Full_032215_362916_740.mp4
+    mp4_796: media\/2015\/03\/22\/416497219642\/60_Full_032215_362916_796.mp4
+    mp4_1296: media\/2015\/03\/22\/416497219642\/60_Full_032215_362916_1296.mp4
+  date: Iraq's Christians, Rare Earth Elements, Starstruck
+- title: The Storm after the Storm, Lumber Liquidators, Larry David
+  links:
+    orig: /videos/the-storm-after-the-storm-lumber-liquidators-larry-david/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/02/23/402701891941/60_FULL_022215_V2_348998_500/60_FULL_022215_V2_348998_500.m3u8
+    mp4_240: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_240.mp4
+    mp4_740: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_740.mp4
+    mp4_796: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_796.mp4
+    mp4_1296: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_1296.mp4
+  date: The Storm after the Storm, Lumber Liquidators, Larry David
