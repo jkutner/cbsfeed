@@ -1,67 +1,22 @@
 ---
-- title: 42-00
+- title: 42-01
   links:
-    orig: /videos/420-baltimore-police-provide-few-answers-in-death-of-freddie-gray-boston-marathon-bombing-amputee-makes-improbable-journey/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/20/431096387530/EN_FULL_42015_379985_500/EN_FULL_42015_379985_500.m3u8
-    mp4_240: media\/2015\/04\/20\/431096387530\/EN_FULL_42015_379980_240.mp4
-    mp4_740: media\/2015\/04\/20\/431096387530\/EN_FULL_42015_379980_740.mp4
-    mp4_796: media\/2015\/04\/20\/431096387530\/EN_FULL_42015_379980_796.mp4
-    mp4_1296: media\/2015\/04\/20\/431096387530\/EN_FULL_42015_379980_1296.mp4
-  date: 42-00
-- title: 41-08
+    orig: /videos/421-prosecutors-urge-boston-jurors-to-choose-death-for-tsarnaev-will-new-genetic-test-for-breast-cancer-be-a-gamechanger/
+    ipad: ''
+    mp4_240: media\/2015\/04\/21\/431727171762\/EN_FULL_SHOW_0421_380772_240.mp4
+    mp4_740: media\/2015\/04\/21\/431727171762\/EN_FULL_SHOW_0421_380772_740.mp4
+    mp4_796: media\/2015\/04\/21\/431727171762\/EN_FULL_SHOW_0421_380772_796.mp4
+    mp4_1296: media\/2015\/04\/21\/431727171762\/EN_FULL_SHOW_0421_380772_1296.mp4
+  date: 42-01
+- title: 41-09
   links:
-    orig: /videos/418-gop-hopefuls-assemble-in-new-hampshire-california-high-school-shines-at-academic-decathlon/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/20/431096387530/EN_FULL_42015_379985_500/EN_FULL_42015_379985_500.m3u8
-    mp4_240: media\/2015\/04\/20\/431096387530\/EN_FULL_42015_379980_240.mp4
-    mp4_740: media\/2015\/04\/20\/431096387530\/EN_FULL_42015_379980_740.mp4
-    mp4_796: media\/2015\/04\/20\/431096387530\/EN_FULL_42015_379980_796.mp4
-    mp4_1296: media\/2015\/04\/20\/431096387530\/EN_FULL_42015_379980_1296.mp4
-  date: 41-08
-- title: 41-06
-  links:
-    orig: /videos/416-gyrocopter-flight-over-capitol-exposed-security-flaws-millennials-saving-habits-help-debunk-stereotype/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/16/429395011998/EN_FULL_SHOW_0416_378247_0/EN_FULL_SHOW_0416_378247_0.m3u8
-    mp4_240: media\/2015\/04\/16\/429395011998\/EN_FULL_SHOW_0416_378232_240.mp4
-    mp4_740: media\/2015\/04\/16\/429395011998\/EN_FULL_SHOW_0416_378232_740.mp4
-    mp4_796: media\/2015\/04\/16\/429395011998\/EN_FULL_SHOW_0416_378232_796.mp4
-    mp4_1296: media\/2015\/04\/16\/429395011998\/EN_FULL_SHOW_0416_378232_1296.mp4
-  date: 41-06
-- title: 41-01
-  links:
-    orig: /videos/411-landmark-meeting-between-obama-castro-in-panama-democrats-await-hillary-clintons-presidential-announcement/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/12/426771523588/EN_FULL_041115_375163_500/EN_FULL_041115_375163_500.m3u8
-    mp4_240: media\/2015\/04\/12\/426771523588\/EN_FULL_041115_375159_240.mp4
-    mp4_740: media\/2015\/04\/12\/426771523588\/EN_FULL_041115_375159_740.mp4
-    mp4_796: media\/2015\/04\/12\/426771523588\/EN_FULL_041115_375159_796.mp4
-    mp4_1296: media\/2015\/04\/12\/426771523588\/EN_FULL_041115_375159_1296.mp4
-  date: 41-01
-- title: 41-04
-  links:
-    orig: /videos/414-tulsa-reserve-deputy-turns-himself-after-for-deadly-shooting-seattle-boss-explains-70000-minimum-wage/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/20/431096387530/EN_FULL_42015_379985_500/EN_FULL_42015_379985_500.m3u8
-    mp4_240: media\/2015\/04\/20\/431096387530\/EN_FULL_42015_379980_240.mp4
-    mp4_740: media\/2015\/04\/20\/431096387530\/EN_FULL_42015_379980_740.mp4
-    mp4_796: media\/2015\/04\/20\/431096387530\/EN_FULL_42015_379980_796.mp4
-    mp4_1296: media\/2015\/04\/20\/431096387530\/EN_FULL_42015_379980_1296.mp4
-  date: 41-04
-- title: 41-05
-  links:
-    orig: /videos/415-gyrocopter-flouts-no-fly-zone-lands-on-capitol-lawn-deadly-dog-flu-takes-hold-in-midwest/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/20/431096387530/EN_FULL_42015_379985_500/EN_FULL_42015_379985_500.m3u8
-    mp4_240: media\/2015\/04\/20\/431096387530\/EN_FULL_42015_379980_240.mp4
-    mp4_740: media\/2015\/04\/20\/431096387530\/EN_FULL_42015_379980_740.mp4
-    mp4_796: media\/2015\/04\/20\/431096387530\/EN_FULL_42015_379980_796.mp4
-    mp4_1296: media\/2015\/04\/20\/431096387530\/EN_FULL_42015_379980_1296.mp4
-  date: 41-05
-- title: 41-02
-  links:
-    orig: /videos/412-hillary-clinton-im-running-for-president-first-women-only-mosque-in-the-u-s/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/13/426998339956/EN_Full_041215_375540_0/EN_Full_041215_375540_0.m3u8
-    mp4_240: media\/2015\/04\/13\/426998339956\/EN_Full_041215_375537_240.mp4
-    mp4_740: media\/2015\/04\/13\/426998339956\/EN_Full_041215_375537_740.mp4
-    mp4_796: media\/2015\/04\/13\/426998339956\/EN_Full_041215_375537_796.mp4
-    mp4_1296: media\/2015\/04\/13\/426998339956\/EN_Full_041215_375537_1296.mp4
-  date: 41-02
+    orig: /videos/419-fbi-admits-errors-in-criminal-cases-jessica-lynn-country-musics-newest-star-from-new-york/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/20/430563395811/EN_Full_041915_379455_500/EN_Full_041915_379455_500.m3u8
+    mp4_240: media\/2015\/04\/20\/430563395811\/EN_Full_041915_379452_240.mp4
+    mp4_740: media\/2015\/04\/20\/430563395811\/EN_Full_041915_379452_740.mp4
+    mp4_796: media\/2015\/04\/20\/430563395811\/EN_Full_041915_379452_796.mp4
+    mp4_1296: media\/2015\/04\/20\/430563395811\/EN_Full_041915_379452_1296.mp4
+  date: 41-09
 - title: 41-07
   links:
     orig: /videos/417-saddam-husseins-top-deputy-killed-how-two-bitter-enemies-became-friends/
@@ -71,3 +26,48 @@
     mp4_796: media\/2015\/04\/17\/429970499660\/EN_FULL_41715_378955_796.mp4
     mp4_1296: media\/2015\/04\/17\/429970499660\/EN_FULL_41715_378955_1296.mp4
   date: 41-07
+- title: 41-02
+  links:
+    orig: /videos/412-hillary-clinton-im-running-for-president-first-women-only-mosque-in-the-u-s/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/13/426998339956/EN_Full_041215_375540_0/EN_Full_041215_375540_0.m3u8
+    mp4_240: media\/2015\/04\/13\/426998339956\/EN_Full_041215_375537_240.mp4
+    mp4_740: media\/2015\/04\/13\/426998339956\/EN_Full_041215_375537_740.mp4
+    mp4_796: media\/2015\/04\/13\/426998339956\/EN_Full_041215_375537_796.mp4
+    mp4_1296: media\/2015\/04\/13\/426998339956\/EN_Full_041215_375537_1296.mp4
+  date: 41-02
+- title: 41-05
+  links:
+    orig: /videos/415-gyrocopter-flouts-no-fly-zone-lands-on-capitol-lawn-deadly-dog-flu-takes-hold-in-midwest/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: 41-05
+- title: 41-06
+  links:
+    orig: /videos/416-gyrocopter-flight-over-capitol-exposed-security-flaws-millennials-saving-habits-help-debunk-stereotype/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/16/429395011998/EN_FULL_SHOW_0416_378247_0/EN_FULL_SHOW_0416_378247_0.m3u8
+    mp4_240: media\/2015\/04\/16\/429395011998\/EN_FULL_SHOW_0416_378232_240.mp4
+    mp4_740: media\/2015\/04\/16\/429395011998\/EN_FULL_SHOW_0416_378232_740.mp4
+    mp4_796: media\/2015\/04\/16\/429395011998\/EN_FULL_SHOW_0416_378232_796.mp4
+    mp4_1296: media\/2015\/04\/16\/429395011998\/EN_FULL_SHOW_0416_378232_1296.mp4
+  date: 41-06
+- title: 41-03
+  links:
+    orig: /videos/413-tulsa-reserve-deputy-charged-in-fatal-shooting-the-imitation-game-notebook-sells-for-over-1-million/
+    ipad: ''
+    mp4_240: media\/2015\/04\/14\/427505219554\/EN_FULL_SHOW_041315_2_376211_240.mp4
+    mp4_740: media\/2015\/04\/14\/427505219554\/EN_FULL_SHOW_041315_2_376211_740.mp4
+    mp4_796: media\/2015\/04\/14\/427505219554\/EN_FULL_SHOW_041315_2_376211_796.mp4
+    mp4_1296: media\/2015\/04\/14\/427505219554\/EN_FULL_SHOW_041315_2_376211_1296.mp4
+  date: 41-03
+- title: 41-08
+  links:
+    orig: /videos/418-gop-hopefuls-assemble-in-new-hampshire-california-high-school-shines-at-academic-decathlon/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: 41-08
