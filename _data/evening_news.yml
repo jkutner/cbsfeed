@@ -1,67 +1,22 @@
 ---
-- title: 42-09
+- title: 43-00
   links:
-    orig: /videos/429-investigation-results-of-freddie-grays-death-wont-be-made-public-mayweather-pacquiao-fight-a-financial-knockout/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/30/436673603696/EN_0429_FULL_SHOW_385508_500/EN_0429_FULL_SHOW_385508_500.m3u8
-    mp4_240: media\/2015\/04\/30\/436673603696\/EN_0429_FULL_SHOW_385488_240.mp4
-    mp4_740: media\/2015\/04\/30\/436673603696\/EN_0429_FULL_SHOW_385488_740.mp4
-    mp4_796: media\/2015\/04\/30\/436673603696\/EN_0429_FULL_SHOW_385488_796.mp4
-    mp4_1296: media\/2015\/04\/30\/436673603696\/EN_0429_FULL_SHOW_385488_1296.mp4
-  date: 42-09
-- title: 42-07
+    orig: /videos/430-baltimore-police-revise-timeline-in-freddie-gray-arrest-lava-boils-over-on-hawaiis-big-island/
+    ipad: ''
+    mp4_240: media\/2015\/05\/01\/437293635809\/EN_0430_FULL_SHOW_386166_240.mp4
+    mp4_740: media\/2015\/05\/01\/437293635809\/EN_0430_FULL_SHOW_386166_740.mp4
+    mp4_796: media\/2015\/05\/01\/437293635809\/EN_0430_FULL_SHOW_386166_796.mp4
+    mp4_1296: media\/2015\/05\/01\/437293635809\/EN_0430_FULL_SHOW_386166_1296.mp4
+  date: 43-00
+- title: 42-08
   links:
-    orig: /videos/427-baltimore-protests-turn-violent-james-holmes-trial-begins-with-opening-statements/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/30/436673603696/EN_0429_FULL_SHOW_385508_500/EN_0429_FULL_SHOW_385508_500.m3u8
-    mp4_240: media\/2015\/04\/30\/436673603696\/EN_0429_FULL_SHOW_385488_240.mp4
-    mp4_740: media\/2015\/04\/30\/436673603696\/EN_0429_FULL_SHOW_385488_740.mp4
-    mp4_796: media\/2015\/04\/30\/436673603696\/EN_0429_FULL_SHOW_385488_796.mp4
-    mp4_1296: media\/2015\/04\/30\/436673603696\/EN_0429_FULL_SHOW_385488_1296.mp4
-  date: 42-07
-- title: 42-05
-  links:
-    orig: /videos/425-nepal-earthquake-kills-over-a-thousand-people-making-space-in-hospitals-for-kids-with-chronic-illnesses/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/26/434479171726/EN_Full_0425_383033_500/EN_Full_0425_383033_500.m3u8
-    mp4_240: media\/2015\/04\/26\/434479171726\/EN_Full_0425_383024_240.mp4
-    mp4_740: media\/2015\/04\/26\/434479171726\/EN_Full_0425_383024_740.mp4
-    mp4_796: media\/2015\/04\/26\/434479171726\/EN_Full_0425_383024_796.mp4
-    mp4_1296: media\/2015\/04\/26\/434479171726\/EN_Full_0425_383024_1296.mp4
-  date: 42-05
-- title: 42-00
-  links:
-    orig: /videos/420-baltimore-police-provide-few-answers-in-death-of-freddie-gray-boston-marathon-bombing-amputee-makes-improbable-journey/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/20/431096387530/EN_FULL_42015_379985_500/EN_FULL_42015_379985_500.m3u8
-    mp4_240: media\/2015\/04\/20\/431096387530\/EN_FULL_42015_379980_240.mp4
-    mp4_740: media\/2015\/04\/20\/431096387530\/EN_FULL_42015_379980_740.mp4
-    mp4_796: media\/2015\/04\/20\/431096387530\/EN_FULL_42015_379980_796.mp4
-    mp4_1296: media\/2015\/04\/20\/431096387530\/EN_FULL_42015_379980_1296.mp4
-  date: 42-00
-- title: 42-03
-  links:
-    orig: /videos/423-u-s-drone-strike-kills-two-al-qaeda-hostages-10-years-since-the-first-youtube-video/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/24/433335363675/EN_FULL_042315_382127_500/EN_FULL_042315_382127_500.m3u8
-    mp4_240: media\/2015\/04\/24\/433335363675\/EN_FULL_042315_382124_240.mp4
-    mp4_740: media\/2015\/04\/24\/433335363675\/EN_FULL_042315_382124_740.mp4
-    mp4_796: media\/2015\/04\/24\/433335363675\/EN_FULL_042315_382124_796.mp4
-    mp4_1296: media\/2015\/04\/24\/433335363675\/EN_FULL_042315_382124_1296.mp4
-  date: 42-03
-- title: 42-04
-  links:
-    orig: /videos/424-baltimore-police-release-new-video-in-fatal-arrest-army-ranger-school-allows-women-a-chance-at-history/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/24/434105923944/EN_0424_FULL_382808_0/EN_0424_FULL_382808_0.m3u8
-    mp4_240: media\/2015\/04\/24\/434105923944\/EN_0424_FULL_382805_240.mp4
-    mp4_740: media\/2015\/04\/24\/434105923944\/EN_0424_FULL_382805_740.mp4
-    mp4_796: media\/2015\/04\/24\/434105923944\/EN_0424_FULL_382805_796.mp4
-    mp4_1296: media\/2015\/04\/24\/434105923944\/EN_0424_FULL_382805_1296.mp4
-  date: 42-04
-- title: 42-01
-  links:
-    orig: /videos/421-prosecutors-urge-boston-jurors-to-choose-death-for-tsarnaev-will-new-genetic-test-for-breast-cancer-be-a-gamechanger/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/21/431727171762/EN_FULL_SHOW_0421_380778_0/EN_FULL_SHOW_0421_380778_0.m3u8
-    mp4_240: media\/2015\/04\/21\/431727171762\/EN_FULL_SHOW_0421_380772_240.mp4
-    mp4_740: media\/2015\/04\/21\/431727171762\/EN_FULL_SHOW_0421_380772_740.mp4
-    mp4_796: media\/2015\/04\/21\/431727171762\/EN_FULL_SHOW_0421_380772_796.mp4
-    mp4_1296: media\/2015\/04\/21\/431727171762\/EN_FULL_SHOW_0421_380772_1296.mp4
-  date: 42-01
+    orig: /videos/428-baltimore-calms-after-night-of-violence-police-presence-increased-american-veterans-reflect-on-their-return-to-vietnam/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/28/436056643580/EN_0428_FULL_SHOW_384877_0/EN_0428_FULL_SHOW_384877_0.m3u8
+    mp4_240: media\/2015\/04\/28\/436056643580\/EN_0428_FULL_SHOW_384874_240.mp4
+    mp4_740: media\/2015\/04\/28\/436056643580\/EN_0428_FULL_SHOW_384874_740.mp4
+    mp4_796: media\/2015\/04\/28\/436056643580\/EN_0428_FULL_SHOW_384874_796.mp4
+    mp4_1296: media\/2015\/04\/28\/436056643580\/EN_0428_FULL_SHOW_384874_1296.mp4
+  date: 42-08
 - title: 42-06
   links:
     orig: /videos/426-nepal-earthquake-death-toll-rises-sharply-amid-aftershocks-a-tale-of-two-winters-for-skiiers-in-the-northeast-and-the-west/
@@ -71,3 +26,48 @@
     mp4_796: media\/2015\/04\/27\/434864195667\/en_FULL_0426_V2_383288_796.mp4
     mp4_1296: media\/2015\/04\/27\/434864195667\/en_FULL_0426_V2_383288_1296.mp4
   date: 42-06
+- title: 42-01
+  links:
+    orig: /videos/421-prosecutors-urge-boston-jurors-to-choose-death-for-tsarnaev-will-new-genetic-test-for-breast-cancer-be-a-gamechanger/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/21/431727171762/EN_FULL_SHOW_0421_380778_0/EN_FULL_SHOW_0421_380778_0.m3u8
+    mp4_240: media\/2015\/04\/21\/431727171762\/EN_FULL_SHOW_0421_380772_240.mp4
+    mp4_740: media\/2015\/04\/21\/431727171762\/EN_FULL_SHOW_0421_380772_740.mp4
+    mp4_796: media\/2015\/04\/21\/431727171762\/EN_FULL_SHOW_0421_380772_796.mp4
+    mp4_1296: media\/2015\/04\/21\/431727171762\/EN_FULL_SHOW_0421_380772_1296.mp4
+  date: 42-01
+- title: 42-04
+  links:
+    orig: /videos/424-baltimore-police-release-new-video-in-fatal-arrest-army-ranger-school-allows-women-a-chance-at-history/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/24/434105923944/EN_0424_FULL_382808_0/EN_0424_FULL_382808_0.m3u8
+    mp4_240: media\/2015\/04\/24\/434105923944\/EN_0424_FULL_382805_240.mp4
+    mp4_740: media\/2015\/04\/24\/434105923944\/EN_0424_FULL_382805_740.mp4
+    mp4_796: media\/2015\/04\/24\/434105923944\/EN_0424_FULL_382805_796.mp4
+    mp4_1296: media\/2015\/04\/24\/434105923944\/EN_0424_FULL_382805_1296.mp4
+  date: 42-04
+- title: 42-05
+  links:
+    orig: /videos/425-nepal-earthquake-kills-over-a-thousand-people-making-space-in-hospitals-for-kids-with-chronic-illnesses/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/26/434479171726/EN_Full_0425_383033_500/EN_Full_0425_383033_500.m3u8
+    mp4_240: media\/2015\/04\/26\/434479171726\/EN_Full_0425_383024_240.mp4
+    mp4_740: media\/2015\/04\/26\/434479171726\/EN_Full_0425_383024_740.mp4
+    mp4_796: media\/2015\/04\/26\/434479171726\/EN_Full_0425_383024_796.mp4
+    mp4_1296: media\/2015\/04\/26\/434479171726\/EN_Full_0425_383024_1296.mp4
+  date: 42-05
+- title: 42-02
+  links:
+    orig: /videos/422-protests-grow-after-baltimore-mans-death-in-police-custody-kentucky-authorities-make-arrests-in-bourbon-heists/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/22/432516163792/EN_0422_FULL_SHOW_381558_0/EN_0422_FULL_SHOW_381558_0.m3u8
+    mp4_240: media\/2015\/04\/22\/432516163792\/EN_0422_FULL_SHOW_381547_240.mp4
+    mp4_740: media\/2015\/04\/22\/432516163792\/EN_0422_FULL_SHOW_381547_740.mp4
+    mp4_796: media\/2015\/04\/22\/432516163792\/EN_0422_FULL_SHOW_381547_796.mp4
+    mp4_1296: media\/2015\/04\/22\/432516163792\/EN_0422_FULL_SHOW_381547_1296.mp4
+  date: 42-02
+- title: 42-07
+  links:
+    orig: /videos/427-baltimore-protests-turn-violent-james-holmes-trial-begins-with-opening-statements/
+    ipad: ''
+    mp4_240: media\/2015\/05\/01\/437293635809\/EN_0430_FULL_SHOW_386166_240.mp4
+    mp4_740: media\/2015\/05\/01\/437293635809\/EN_0430_FULL_SHOW_386166_740.mp4
+    mp4_796: media\/2015\/05\/01\/437293635809\/EN_0430_FULL_SHOW_386166_796.mp4
+    mp4_1296: media\/2015\/05\/01\/437293635809\/EN_0430_FULL_SHOW_386166_1296.mp4
+  date: 42-07
