@@ -1,4 +1,13 @@
 ---
+- title: The Lesson of War, All-American, Whisky Island
+  links:
+    orig: /videos/the-lesson-of-war-all-american-whisky-island/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/05/02/438069827774/60_FULL_050115_387505_0/60_FULL_050115_387505_0.m3u8
+    mp4_240: media\/2015\/05\/02\/438069827774\/60_FULL_050115_387478_240.mp4
+    mp4_740: media\/2015\/05\/02\/438069827774\/60_FULL_050115_387478_740.mp4
+    mp4_796: media\/2015\/05\/02\/438069827774\/60_FULL_050115_387478_796.mp4
+    mp4_1296: media\/2015\/05\/02\/438069827774\/60_FULL_050115_387478_1296.mp4
+  date: The Lesson of War, All-American, Whisky Island
 - title: Death in the Mediterranean, The Battle Above
   links:
     orig: /videos/death-in-the-mediterranean-the-battle-above/
@@ -17,6 +26,15 @@
     mp4_796: media\/2015\/04\/19\/430507075750\/60_FULL_041915_379339_796.mp4
     mp4_1296: media\/2015\/04\/19\/430507075750\/60_FULL_041915_379339_1296.mp4
   date: A Crime Against Humanity, TED Talks, Hoop Dreams
+- title: ZMapp, A New Kind of Terrorist, Bradley Cooper
+  links:
+    orig: /videos/zmapp-a-new-kind-of-terrorist-bradley-cooper/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/02/15/399370307839/60_Full_021515_345550_500/60_Full_021515_345550_500.m3u8
+    mp4_240: media\/2015\/02\/15\/399370307839\/60_Full_021515_345538_240.mp4
+    mp4_740: media\/2015\/02\/15\/399370307839\/60_Full_021515_345538_740.mp4
+    mp4_796: media\/2015\/02\/15\/399370307839\/60_Full_021515_345538_796.mp4
+    mp4_1296: media\/2015\/02\/15\/399370307839\/60_Full_021515_345538_1296.mp4
+  date: ZMapp, A New Kind of Terrorist, Bradley Cooper
 - title: The Attack on Sony, Ambassador Kennedy, Rush to Judgment
   links:
     orig: /videos/the-attack-on-sony-ambassador-kennedy-rush-to-judgment/
@@ -26,42 +44,6 @@
     mp4_796: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_796.mp4
     mp4_1296: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_1296.mp4
   date: The Attack on Sony, Ambassador Kennedy, Rush to Judgment
-- title: DARPA Dan, The Swiss Leaks, Selma
-  links:
-    orig: /videos/darpa-dan-the-swiss-leaks-selma/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/02/08/395822659644/60_FULL_2815_342198_500/60_FULL_2815_342198_500.m3u8
-    mp4_240: media\/2015\/02\/08\/395822659644\/60_FULL_2815_342054_240.mp4
-    mp4_740: media\/2015\/02\/08\/395822659644\/60_FULL_2815_342054_740.mp4
-    mp4_796: media\/2015\/02\/08\/395822659644\/60_FULL_2815_342054_796.mp4
-    mp4_1296: media\/2015\/02\/08\/395822659644\/60_FULL_2815_342054_1296.mp4
-  date: DARPA Dan, The Swiss Leaks, Selma
-- title: Homeland Security, The Good Friday Agreement, Wikimania
-  links:
-    orig: /videos/homeland-security-the-good-friday-agreement-wikimania/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/02/23/402701891941/60_FULL_022215_V2_348998_500/60_FULL_022215_V2_348998_500.m3u8
-    mp4_240: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_240.mp4
-    mp4_740: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_740.mp4
-    mp4_796: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_796.mp4
-    mp4_1296: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_1296.mp4
-  date: Homeland Security, The Good Friday Agreement, Wikimania
-- title: The Storm after the Storm, Lumber Liquidators, Larry David
-  links:
-    orig: /videos/the-storm-after-the-storm-lumber-liquidators-larry-david/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/02/23/402701891941/60_FULL_022215_V2_348998_500/60_FULL_022215_V2_348998_500.m3u8
-    mp4_240: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_240.mp4
-    mp4_740: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_740.mp4
-    mp4_796: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_796.mp4
-    mp4_1296: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_1296.mp4
-  date: The Storm after the Storm, Lumber Liquidators, Larry David
-- title: Bashar al-Assad, Killing Cancer
-  links:
-    orig: /videos/bashar-al-assad-killing-cancer/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/29/419842627903/60_0329_Full_367012_500/60_0329_Full_367012_500.m3u8
-    mp4_240: media\/2015\/03\/29\/419842627903\/60_0329_Full_367006_240.mp4
-    mp4_740: media\/2015\/03\/29\/419842627903\/60_0329_Full_367006_740.mp4
-    mp4_796: media\/2015\/03\/29\/419842627903\/60_0329_Full_367006_796.mp4
-    mp4_1296: media\/2015\/03\/29\/419842627903\/60_0329_Full_367006_1296.mp4
-  date: Bashar al-Assad, Killing Cancer
 - title: Who Killed the Prosecutor? Coming Home, The Maestro
   links:
     orig: /videos/who-killed-the-prosecutor-coming-home-the-maestro/
@@ -71,3 +53,21 @@
     mp4_796: media\/2015\/03\/08\/410065475654\/60_Full_0308_355442_796.mp4
     mp4_1296: media\/2015\/03\/08\/410065475654\/60_Full_0308_355442_1296.mp4
   date: Who Killed the Prosecutor? Coming Home, The Maestro
+- title: Homeland Security, The Good Friday Agreement, Wikimania
+  links:
+    orig: /videos/homeland-security-the-good-friday-agreement-wikimania/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/02/23/402701891941/60_FULL_022215_V2_348998_500/60_FULL_022215_V2_348998_500.m3u8
+    mp4_240: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_240.mp4
+    mp4_740: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_740.mp4
+    mp4_796: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_796.mp4
+    mp4_1296: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_1296.mp4
+  date: Homeland Security, The Good Friday Agreement, Wikimania
+- title: Dead or Alive, A Few Good Women, Back to the Wild
+  links:
+    orig: /videos/dead-or-alive-a-few-good-women-back-to-the-wild/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/02/23/402701891941/60_FULL_022215_V2_348998_500/60_FULL_022215_V2_348998_500.m3u8
+    mp4_240: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_240.mp4
+    mp4_740: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_740.mp4
+    mp4_796: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_796.mp4
+    mp4_1296: media\/2015\/02\/23\/402701891941\/60_FULL_022215_V2_348988_1296.mp4
+  date: Dead or Alive, A Few Good Women, Back to the Wild
