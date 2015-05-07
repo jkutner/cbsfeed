@@ -1,4 +1,58 @@
 ---
+- title: 05-06
+  links:
+    orig: /videos/56-tornadoes-touch-down-in-plains-states-harlem-choir-helps-heal-former-drugs-addicts/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/05/06/441088067999/EN_0506_FULL_SHOW_389099_0/EN_0506_FULL_SHOW_389099_0.m3u8
+    mp4_240: media\/2015\/05\/06\/441088067999\/EN_0506_FULL_SHOW_389092_240.mp4
+    mp4_740: media\/2015\/05\/06\/441088067999\/EN_0506_FULL_SHOW_389092_740.mp4
+    mp4_796: media\/2015\/05\/06\/441088067999\/EN_0506_FULL_SHOW_389092_796.mp4
+    mp4_1296: media\/2015\/05\/06\/441088067999\/EN_0506_FULL_SHOW_389092_1296.mp4
+  date: 05-06
+- title: 42-07
+  links:
+    orig: /videos/427-baltimore-protests-turn-violent-james-holmes-trial-begins-with-opening-statements/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/05/06/441088067999/EN_0506_FULL_SHOW_389099_0/EN_0506_FULL_SHOW_389099_0.m3u8
+    mp4_240: media\/2015\/05\/06\/441088067999\/EN_0506_FULL_SHOW_389092_240.mp4
+    mp4_740: media\/2015\/05\/06\/441088067999\/EN_0506_FULL_SHOW_389092_740.mp4
+    mp4_796: media\/2015\/05\/06\/441088067999\/EN_0506_FULL_SHOW_389092_796.mp4
+    mp4_1296: media\/2015\/05\/06\/441088067999\/EN_0506_FULL_SHOW_389092_1296.mp4
+  date: 42-07
+- title: 42-09
+  links:
+    orig: /videos/429-investigation-results-of-freddie-grays-death-wont-be-made-public-mayweather-pacquiao-fight-a-financial-knockout/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/30/436673603696/EN_0429_FULL_SHOW_385508_500/EN_0429_FULL_SHOW_385508_500.m3u8
+    mp4_240: media\/2015\/04\/30\/436673603696\/EN_0429_FULL_SHOW_385488_240.mp4
+    mp4_740: media\/2015\/04\/30\/436673603696\/EN_0429_FULL_SHOW_385488_740.mp4
+    mp4_796: media\/2015\/04\/30\/436673603696\/EN_0429_FULL_SHOW_385488_796.mp4
+    mp4_1296: media\/2015\/04\/30\/436673603696\/EN_0429_FULL_SHOW_385488_1296.mp4
+  date: 42-09
+- title: 42-08
+  links:
+    orig: /videos/428-baltimore-calms-after-night-of-violence-police-presence-increased-american-veterans-reflect-on-their-return-to-vietnam/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/28/436056643580/EN_0428_FULL_SHOW_384877_0/EN_0428_FULL_SHOW_384877_0.m3u8
+    mp4_240: media\/2015\/04\/28\/436056643580\/EN_0428_FULL_SHOW_384874_240.mp4
+    mp4_740: media\/2015\/04\/28\/436056643580\/EN_0428_FULL_SHOW_384874_740.mp4
+    mp4_796: media\/2015\/04\/28\/436056643580\/EN_0428_FULL_SHOW_384874_796.mp4
+    mp4_1296: media\/2015\/04\/28\/436056643580\/EN_0428_FULL_SHOW_384874_1296.mp4
+  date: 42-08
+- title: 43-00
+  links:
+    orig: /videos/430-baltimore-police-revise-timeline-in-freddie-gray-arrest-lava-boils-over-on-hawaiis-big-island/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/05/01/437293635809/EN_0430_FULL_SHOW_386172_500/EN_0430_FULL_SHOW_386172_500.m3u8
+    mp4_240: media\/2015\/05\/01\/437293635809\/EN_0430_FULL_SHOW_386166_240.mp4
+    mp4_740: media\/2015\/05\/01\/437293635809\/EN_0430_FULL_SHOW_386166_740.mp4
+    mp4_796: media\/2015\/05\/01\/437293635809\/EN_0430_FULL_SHOW_386166_796.mp4
+    mp4_1296: media\/2015\/05\/01\/437293635809\/EN_0430_FULL_SHOW_386166_1296.mp4
+  date: 43-00
+- title: 42-06
+  links:
+    orig: /videos/426-nepal-earthquake-death-toll-rises-sharply-amid-aftershocks-a-tale-of-two-winters-for-skiiers-in-the-northeast-and-the-west/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/27/434864195667/en_FULL_0426_V2_383293_500/en_FULL_0426_V2_383293_500.m3u8
+    mp4_240: media\/2015\/04\/27\/434864195667\/en_FULL_0426_V2_383288_240.mp4
+    mp4_740: media\/2015\/04\/27\/434864195667\/en_FULL_0426_V2_383288_740.mp4
+    mp4_796: media\/2015\/04\/27\/434864195667\/en_FULL_0426_V2_383288_796.mp4
+    mp4_1296: media\/2015\/04\/27\/434864195667\/en_FULL_0426_V2_383288_1296.mp4
+  date: 42-06
 - title: 05-05
   links:
     orig: /videos/55-feds-texas-gunmen-were-not-high-priority-threats-artists-body-painting-creates-incredible-illusion/
@@ -17,57 +71,3 @@
     mp4_796: media\/2015\/05\/05\/439501379726\/EN_0504_FULL_SHOW_387901_796.mp4
     mp4_1296: media\/2015\/05\/05\/439501379726\/EN_0504_FULL_SHOW_387901_1296.mp4
   date: 05-04
-- title: 05-03
-  links:
-    orig: /videos/53-baltimore-ends-curfew-returns-to-a-new-normal-naming-the-royal-baby/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/05/04/438837827575/EN_FULL_SHOW_0503_387589_0/EN_FULL_SHOW_0503_387589_0.m3u8
-    mp4_240: media\/2015\/05\/04\/438837827575\/EN_FULL_SHOW_0503_387571_240.mp4
-    mp4_740: media\/2015\/05\/04\/438837827575\/EN_FULL_SHOW_0503_387571_740.mp4
-    mp4_796: media\/2015\/05\/04\/438837827575\/EN_FULL_SHOW_0503_387571_796.mp4
-    mp4_1296: media\/2015\/05\/04\/438837827575\/EN_FULL_SHOW_0503_387571_1296.mp4
-  date: 05-03
-- title: 43-00
-  links:
-    orig: /videos/430-baltimore-police-revise-timeline-in-freddie-gray-arrest-lava-boils-over-on-hawaiis-big-island/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/05/01/437293635809/EN_0430_FULL_SHOW_386172_500/EN_0430_FULL_SHOW_386172_500.m3u8
-    mp4_240: media\/2015\/05\/01\/437293635809\/EN_0430_FULL_SHOW_386166_240.mp4
-    mp4_740: media\/2015\/05\/01\/437293635809\/EN_0430_FULL_SHOW_386166_740.mp4
-    mp4_796: media\/2015\/05\/01\/437293635809\/EN_0430_FULL_SHOW_386166_796.mp4
-    mp4_1296: media\/2015\/05\/01\/437293635809\/EN_0430_FULL_SHOW_386166_1296.mp4
-  date: 43-00
-- title: 05-02
-  links:
-    orig: /videos/52-peaceful-protests-in-baltimore-nepal-quake-survivor-starts-online-campaign-to-help-family-rebuild/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/05/03/438415427968/EN_FULL_0502_387280_500/EN_FULL_0502_387280_500.m3u8
-    mp4_240: media\/2015\/05\/03\/438415422408\/EN_FULL_0502_387277_240.mp4
-    mp4_740: media\/2015\/05\/03\/438415427408\/EN_FULL_0502_387277_740.mp4
-    mp4_796: media\/2015\/05\/03\/438415427968\/EN_FULL_0502_387277_796.mp4
-    mp4_1296: media\/2015\/05\/03\/4384154212968\/EN_FULL_0502_387277_1296.mp4
-  date: 05-02
-- title: 05-01
-  links:
-    orig: /videos/51-baltimore-prosecutor-rules-freddie-grays-death-a-homicide-grammar-cop-completes-wikipedia-mission/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/05/02/438016067543/EN_0501_FULL_SHOW_386924_500/EN_0501_FULL_SHOW_386924_500.m3u8
-    mp4_240: media\/2015\/05\/02\/438016067543\/EN_0501_FULL_SHOW_386913_240.mp4
-    mp4_740: media\/2015\/05\/02\/438016067543\/EN_0501_FULL_SHOW_386913_740.mp4
-    mp4_796: media\/2015\/05\/02\/438016067543\/EN_0501_FULL_SHOW_386913_796.mp4
-    mp4_1296: media\/2015\/05\/02\/438016067543\/EN_0501_FULL_SHOW_386913_1296.mp4
-  date: 05-01
-- title: 42-09
-  links:
-    orig: /videos/429-investigation-results-of-freddie-grays-death-wont-be-made-public-mayweather-pacquiao-fight-a-financial-knockout/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/30/436673603696/EN_0429_FULL_SHOW_385508_500/EN_0429_FULL_SHOW_385508_500.m3u8
-    mp4_240: media\/2015\/04\/30\/436673603696\/EN_0429_FULL_SHOW_385488_240.mp4
-    mp4_740: media\/2015\/04\/30\/436673603696\/EN_0429_FULL_SHOW_385488_740.mp4
-    mp4_796: media\/2015\/04\/30\/436673603696\/EN_0429_FULL_SHOW_385488_796.mp4
-    mp4_1296: media\/2015\/04\/30\/436673603696\/EN_0429_FULL_SHOW_385488_1296.mp4
-  date: 42-09
-- title: 42-06
-  links:
-    orig: /videos/426-nepal-earthquake-death-toll-rises-sharply-amid-aftershocks-a-tale-of-two-winters-for-skiiers-in-the-northeast-and-the-west/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/27/434864195667/en_FULL_0426_V2_383293_500/en_FULL_0426_V2_383293_500.m3u8
-    mp4_240: media\/2015\/04\/27\/434864195667\/en_FULL_0426_V2_383288_240.mp4
-    mp4_740: media\/2015\/04\/27\/434864195667\/en_FULL_0426_V2_383288_740.mp4
-    mp4_796: media\/2015\/04\/27\/434864195667\/en_FULL_0426_V2_383288_796.mp4
-    mp4_1296: media\/2015\/04\/27\/434864195667\/en_FULL_0426_V2_383288_1296.mp4
-  date: 42-06
