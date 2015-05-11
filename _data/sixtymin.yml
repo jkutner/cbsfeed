@@ -1,4 +1,13 @@
 ---
+- title: The Spy Among Us, Misty Copeland
+  links:
+    orig: /videos/the-spy-among-us-misty-copeland/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: The Spy Among Us, Misty Copeland
 - title: The Lesson of War, All-American, Whisky Island
   links:
     orig: /videos/the-lesson-of-war-all-american-whisky-island/
@@ -17,6 +26,15 @@
     mp4_796: media\/2015\/04\/26\/434766915793\/60_fULL_0426_383201_796.mp4
     mp4_1296: media\/2015\/04\/26\/434766915793\/60_fULL_0426_383201_1296.mp4
   date: Death in the Mediterranean, The Battle Above
+- title: The Storm after the Storm, Lumber Liquidators, Larry David
+  links:
+    orig: /videos/the-storm-after-the-storm-lumber-liquidators-larry-david/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: The Storm after the Storm, Lumber Liquidators, Larry David
 - title: A Crime Against Humanity, TED Talks, Hoop Dreams
   links:
     orig: /videos/a-crime-against-humanity-ted-talks-hoop-dreams/
@@ -26,42 +44,6 @@
     mp4_796: media\/2015\/04\/19\/430507075750\/60_FULL_041915_379339_796.mp4
     mp4_1296: media\/2015\/04\/19\/430507075750\/60_FULL_041915_379339_1296.mp4
   date: A Crime Against Humanity, TED Talks, Hoop Dreams
-- title: ZMapp, A New Kind of Terrorist, Bradley Cooper
-  links:
-    orig: /videos/zmapp-a-new-kind-of-terrorist-bradley-cooper/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/02/15/399370307839/60_Full_021515_345550_500/60_Full_021515_345550_500.m3u8
-    mp4_240: media\/2015\/02\/15\/399370307839\/60_Full_021515_345538_240.mp4
-    mp4_740: media\/2015\/02\/15\/399370307839\/60_Full_021515_345538_740.mp4
-    mp4_796: media\/2015\/02\/15\/399370307839\/60_Full_021515_345538_796.mp4
-    mp4_1296: media\/2015\/02\/15\/399370307839\/60_Full_021515_345538_1296.mp4
-  date: ZMapp, A New Kind of Terrorist, Bradley Cooper
-- title: The Attack on Sony, Ambassador Kennedy, Rush to Judgment
-  links:
-    orig: /videos/the-attack-on-sony-ambassador-kennedy-rush-to-judgment/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: The Attack on Sony, Ambassador Kennedy, Rush to Judgment
-- title: Who Killed the Prosecutor? Coming Home, The Maestro
-  links:
-    orig: /videos/who-killed-the-prosecutor-coming-home-the-maestro/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/08/410065475654/60_Full_0308_355472_phone.m3u8
-    mp4_240: media\/2015\/03\/08\/410065475654\/60_Full_0308_355442_240.mp4
-    mp4_740: media\/2015\/03\/08\/410065475654\/60_Full_0308_355442_740.mp4
-    mp4_796: media\/2015\/03\/08\/410065475654\/60_Full_0308_355442_796.mp4
-    mp4_1296: media\/2015\/03\/08\/410065475654\/60_Full_0308_355442_1296.mp4
-  date: Who Killed the Prosecutor? Coming Home, The Maestro
-- title: Homeland Security, The Good Friday Agreement, Wikimania
-  links:
-    orig: /videos/homeland-security-the-good-friday-agreement-wikimania/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: Homeland Security, The Good Friday Agreement, Wikimania
 - title: Dead or Alive, A Few Good Women, Back to the Wild
   links:
     orig: /videos/dead-or-alive-a-few-good-women-back-to-the-wild/
@@ -71,3 +53,21 @@
     mp4_796: ''
     mp4_1296: ''
   date: Dead or Alive, A Few Good Women, Back to the Wild
+- title: The Attack on Sony, Ambassador Kennedy, Rush to Judgment
+  links:
+    orig: /videos/the-attack-on-sony-ambassador-kennedy-rush-to-judgment/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: The Attack on Sony, Ambassador Kennedy, Rush to Judgment
+- title: Iraq's Christians, Rare Earth Elements, Starstruck
+  links:
+    orig: /videos/iraqs-christians-rare-earth-elements-starstruck/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/22/416497219642/60_Full_032215_362946_tablet.m3u8
+    mp4_240: media\/2015\/03\/22\/416497219642\/60_Full_032215_362916_240.mp4
+    mp4_740: media\/2015\/03\/22\/416497219642\/60_Full_032215_362916_740.mp4
+    mp4_796: media\/2015\/03\/22\/416497219642\/60_Full_032215_362916_796.mp4
+    mp4_1296: media\/2015\/03\/22\/416497219642\/60_Full_032215_362916_1296.mp4
+  date: Iraq's Christians, Rare Earth Elements, Starstruck
