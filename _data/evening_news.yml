@@ -1,13 +1,22 @@
 ---
-- title: 51-01
+- title: 51-02
   links:
-    orig: /videos/511-nfl-suspends-tom-brady-for-4-games-michelle-obama-opens-up-on-race-in-graduation-speech/
+    orig: /videos/512-second-major-earthquake-hits-nepal-sisters-travel-cross-country-for-bone-marrow-donors/
     ipad: ''
     mp4_240: ''
     mp4_740: ''
     mp4_796: ''
     mp4_1296: ''
-  date: 51-01
+  date: 51-02
+- title: 51-00
+  links:
+    orig: /videos/510-tropical-storm-ana-makes-landfall-autistic-girl-from-oregon-kicked-off-airplane/
+    ipad: ''
+    mp4_240: media\/2015\/05\/11\/443004995813\/EN_FULL_SHOW_0510_1_390766_240.mp4
+    mp4_740: media\/2015\/05\/11\/443004995813\/EN_FULL_SHOW_0510_1_390766_740.mp4
+    mp4_796: media\/2015\/05\/11\/443004995813\/EN_FULL_SHOW_0510_1_390766_796.mp4
+    mp4_1296: media\/2015\/05\/11\/443004995813\/EN_FULL_SHOW_0510_1_390766_1296.mp4
+  date: 51-00
 - title: 05-09
   links:
     orig: /videos/59-beverly-hills-cracks-down-on-water-wasters-seaworld-hopes-to-turn-the-tide-after-negative-publicity/
@@ -62,12 +71,3 @@
     mp4_796: media\/2015\/05\/05\/439501379726\/EN_0504_FULL_SHOW_387901_796.mp4
     mp4_1296: media\/2015\/05\/05\/439501379726\/EN_0504_FULL_SHOW_387901_1296.mp4
   date: 05-04
-- title: 05-03
-  links:
-    orig: /videos/53-baltimore-ends-curfew-returns-to-a-new-normal-naming-the-royal-baby/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/05/04/438837827575/EN_FULL_SHOW_0503_387589_0/EN_FULL_SHOW_0503_387589_0.m3u8
-    mp4_240: media\/2015\/05\/04\/438837827575\/EN_FULL_SHOW_0503_387571_240.mp4
-    mp4_740: media\/2015\/05\/04\/438837827575\/EN_FULL_SHOW_0503_387571_740.mp4
-    mp4_796: media\/2015\/05\/04\/438837827575\/EN_FULL_SHOW_0503_387571_796.mp4
-    mp4_1296: media\/2015\/05\/04\/438837827575\/EN_FULL_SHOW_0503_387571_1296.mp4
-  date: 05-03
