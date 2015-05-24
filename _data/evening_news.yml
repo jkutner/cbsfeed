@@ -1,67 +1,22 @@
 ---
-- title: 52-02
+- title: 52-03
   links:
-    orig: /videos/522-police-d-c-murder-suspect-had-help-man-uses-sewing-machine-to-mend-struggling-neighborhood/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/05/23/449628739891/EN_Full_0522_396600_500/EN_Full_0522_396600_500.m3u8
-    mp4_240: media\/2015\/05\/23\/449628739891\/EN_Full_0522_396597_240.mp4
-    mp4_740: media\/2015\/05\/23\/449628739891\/EN_Full_0522_396597_740.mp4
-    mp4_796: media\/2015\/05\/23\/449628739891\/EN_Full_0522_396597_796.mp4
-    mp4_1296: media\/2015\/05\/23\/449628739891\/EN_Full_0522_396597_1296.mp4
-  date: 52-02
-- title: 52-00
-  links:
-    orig: /videos/520-confusion-delays-follow-takata-airbag-recall-what-its-like-atop-one-world-trade-center/
+    orig: /videos/523-cleveland-police-officer-acquitted-in-shooting-deaths-war-veterans-take-to-the-sky/
     ipad: ''
     mp4_240: ''
     mp4_740: ''
     mp4_796: ''
     mp4_1296: ''
-  date: 52-00
-- title: 51-08
+  date: 52-03
+- title: 52-01
   links:
-    orig: /videos/518-texas-biker-gang-members-facing-murder-charges-sisters-separated-at-birth-reunite-30-years-later/
+    orig: /videos/521-manhunt-for-man-in-murder-of-d-c-family-california-man-holds-incredible-running-streak/
     ipad: ''
     mp4_240: ''
     mp4_740: ''
     mp4_796: ''
     mp4_1296: ''
-  date: 51-08
-- title: 51-02
-  links:
-    orig: /videos/512-second-major-earthquake-hits-nepal-sisters-travel-cross-country-for-bone-marrow-donors/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 51-02
-- title: 51-06
-  links:
-    orig: /videos/516-key-isis-leader-killed-by-u-s-commandos-in-syria-raid-long-lost-sisters-meet-for-first-time-in-classroom/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/05/17/446668355725/EN_051615_FULL_393741_500/EN_051615_FULL_393741_500.m3u8
-    mp4_240: media\/2015\/05\/17\/446668355725\/EN_051615_FULL_393738_240.mp4
-    mp4_740: media\/2015\/05\/17\/446668355725\/EN_051615_FULL_393738_740.mp4
-    mp4_796: media\/2015\/05\/17\/446668355725\/EN_051615_FULL_393738_796.mp4
-    mp4_1296: media\/2015\/05\/17\/446668355725\/EN_051615_FULL_393738_1296.mp4
-  date: 51-06
-- title: 51-07
-  links:
-    orig: /videos/517-violent-storms-hit-large-swath-of-central-u-s-philadelphias-italian-market-celebrates-100th-birthday/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 51-07
-- title: 51-04
-  links:
-    orig: /videos/514-what-we-know-about-the-amtrak-engineer-meet-the-man-inside-big-bird-2/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 51-04
+  date: 52-01
 - title: 51-09
   links:
     orig: /videos/519-takata-air-bag-recall-largest-in-history-performers-compete-for-prime-spots-in-nyc-subway/
@@ -71,3 +26,48 @@
     mp4_796: ''
     mp4_1296: ''
   date: 51-09
+- title: 51-04
+  links:
+    orig: /videos/514-what-we-know-about-the-amtrak-engineer-meet-the-man-inside-big-bird-2/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: 51-04
+- title: 51-07
+  links:
+    orig: /videos/517-violent-storms-hit-large-swath-of-central-u-s-philadelphias-italian-market-celebrates-100th-birthday/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: 51-07
+- title: 51-08
+  links:
+    orig: /videos/518-texas-biker-gang-members-facing-murder-charges-sisters-separated-at-birth-reunite-30-years-later/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: 51-08
+- title: 51-05
+  links:
+    orig: /videos/515-jury-sentences-dzhokhar-tsarnaev-to-death-son-makes-mothers-prom-dream-come-true/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/05/16/446440515869/EN_FULL_SHOW_051515_393537_0/EN_FULL_SHOW_051515_393537_0.m3u8
+    mp4_240: media\/2015\/05\/16\/446440515869\/EN_FULL_SHOW_051515_393534_240.mp4
+    mp4_740: media\/2015\/05\/16\/446440515869\/EN_FULL_SHOW_051515_393534_740.mp4
+    mp4_796: media\/2015\/05\/16\/446440515869\/EN_FULL_SHOW_051515_393534_796.mp4
+    mp4_1296: media\/2015\/05\/16\/446440515869\/EN_FULL_SHOW_051515_393534_1296.mp4
+  date: 51-05
+- title: 52-00
+  links:
+    orig: /videos/520-confusion-delays-follow-takata-airbag-recall-what-its-like-atop-one-world-trade-center/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: 52-00
