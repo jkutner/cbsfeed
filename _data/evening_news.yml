@@ -1,4 +1,13 @@
 ---
+- title: 53-01
+  links:
+    orig: /videos/531-beau-biden-dies-at-46-grief-outpours-from-both-sides-of-the-aisle-and-two-mvps-lead-an-epic-nba-finals-matchup/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/06/01/454742083556/EN_0531_FULL_399746_0/EN_0531_FULL_399746_0.m3u8
+    mp4_240: media\/2015\/06\/01\/454742083556\/EN_0531_FULL_399743_240.mp4
+    mp4_740: media\/2015\/06\/01\/454742083556\/EN_0531_FULL_399743_740.mp4
+    mp4_796: media\/2015\/06\/01\/454742083556\/EN_0531_FULL_399743_796.mp4
+    mp4_1296: media\/2015\/06\/01\/454742083556\/EN_0531_FULL_399743_1296.mp4
+  date: 53-01
 - title: 52-09
   links:
     orig: /videos/529-hundreds-rescued-from-texas-flood-waters-steve-hartman-says-goodbye-to-his-childhood-home/
@@ -38,7 +47,7 @@
 - title: 52-06
   links:
     orig: /videos/526-crews-search-for-the-missing-in-texas-resistance-to-antibiotics-poses-global-health-risk/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/06/01/454742083556/EN_0531_FULL_399746_500/EN_0531_FULL_399746_500.m3u8
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/06/01/454742083556/EN_0531_FULL_399746_0/EN_0531_FULL_399746_0.m3u8
     mp4_240: media\/2015\/05\/27\/452004931939\/EN_0526_FullEpisode_397630_240.mp4
     mp4_740: media\/2015\/05\/27\/452004931939\/EN_0526_FullEpisode_397630_740.mp4
     mp4_796: media\/2015\/05\/27\/452004931939\/EN_0526_FullEpisode_397630_796.mp4
@@ -62,12 +71,3 @@
     mp4_796: media\/2015\/05\/28\/453617219880\/EN_Full_0528_398763_796.mp4
     mp4_1296: media\/2015\/05\/28\/453617219880\/EN_Full_0528_398763_1296.mp4
   date: 52-08
-- title: 52-01
-  links:
-    orig: /videos/521-manhunt-for-man-in-murder-of-d-c-family-california-man-holds-incredible-running-streak/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/06/01/454742083556/EN_0531_FULL_399746_0/EN_0531_FULL_399746_0.m3u8
-    mp4_240: media\/2015\/06\/01\/454742083556\/EN_0531_FULL_399743_240.mp4
-    mp4_740: media\/2015\/06\/01\/454742083556\/EN_0531_FULL_399743_740.mp4
-    mp4_796: media\/2015\/06\/01\/454742083556\/EN_0531_FULL_399743_796.mp4
-    mp4_1296: media\/2015\/06\/01\/454742083556\/EN_0531_FULL_399743_1296.mp4
-  date: 52-01
