@@ -1,4 +1,13 @@
 ---
+- title: Colorado Pot, The Storm after the Storm, Bradley Cooper
+  links:
+    orig: /videos/colorado-pot-the-storm-after-the-storm-bradley-cooper/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2013/10/25/56666691724/60_full_0226_380509_0/60_full_0226_380509_0.m3u8
+    mp4_240: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_240.mp4
+    mp4_740: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_740.mp4
+    mp4_796: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_796.mp4
+    mp4_1296: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_1296.mp4
+  date: Colorado Pot, The Storm after the Storm, Bradley Cooper
 - title: The Cleveland Division, Water, Who is Larry David?
   links:
     orig: /videos/the-cleveland-division-water-who-is-larry-david/
@@ -8,6 +17,15 @@
     mp4_796: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_796.mp4
     mp4_1296: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_1296.mp4
   date: The Cleveland Division, Water, Who is Larry David?
+- title: Bashar al-Assad, Killing Cancer
+  links:
+    orig: /videos/bashar-al-assad-killing-cancer/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/29/419842627903/60_0329_Full_367012_500/60_0329_Full_367012_500.m3u8
+    mp4_240: media\/2015\/03\/29\/419842627903\/60_0329_Full_367006_240.mp4
+    mp4_740: media\/2015\/03\/29\/419842627903\/60_0329_Full_367006_740.mp4
+    mp4_796: media\/2015\/03\/29\/419842627903\/60_0329_Full_367006_796.mp4
+    mp4_1296: media\/2015\/03\/29\/419842627903\/60_0329_Full_367006_1296.mp4
+  date: Bashar al-Assad, Killing Cancer
 - title: The Spy Among Us, Misty Copeland
   links:
     orig: /videos/the-spy-among-us-misty-copeland/
@@ -17,42 +35,6 @@
     mp4_796: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_796.mp4
     mp4_1296: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_1296.mp4
   date: The Spy Among Us, Misty Copeland
-- title: Iraq's Christians, Rare Earth Elements, Starstruck
-  links:
-    orig: /videos/iraqs-christians-rare-earth-elements-starstruck/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/03/22/416497219642/60_Full_032215_362946_tablet.m3u8
-    mp4_240: media\/2015\/03\/22\/416497219642\/60_Full_032215_362916_240.mp4
-    mp4_740: media\/2015\/03\/22\/416497219642\/60_Full_032215_362916_740.mp4
-    mp4_796: media\/2015\/03\/22\/416497219642\/60_Full_032215_362916_796.mp4
-    mp4_1296: media\/2015\/03\/22\/416497219642\/60_Full_032215_362916_1296.mp4
-  date: Iraq's Christians, Rare Earth Elements, Starstruck
-- title: An Unlikely Informant, The Unknown America, King of Crossfit
-  links:
-    orig: /videos/an-unlikely-informant-the-unknown-america-king-of-crossfit/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2013/10/25/56666691724/60_full_0226_380509_0/60_full_0226_380509_0.m3u8
-    mp4_240: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_240.mp4
-    mp4_740: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_740.mp4
-    mp4_796: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_796.mp4
-    mp4_1296: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_1296.mp4
-  date: An Unlikely Informant, The Unknown America, King of Crossfit
-- title: Homeland Security, The Good Friday Agreement, Wikimania
-  links:
-    orig: /videos/homeland-security-the-good-friday-agreement-wikimania/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2013/10/25/56666691724/60_full_0226_380509_0/60_full_0226_380509_0.m3u8
-    mp4_240: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_240.mp4
-    mp4_740: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_740.mp4
-    mp4_796: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_796.mp4
-    mp4_1296: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_1296.mp4
-  date: Homeland Security, The Good Friday Agreement, Wikimania
-- title: The Lesson of War, All-American, Whisky Island
-  links:
-    orig: /videos/the-lesson-of-war-all-american-whisky-island/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/05/02/438069827774/60_FULL_050115_387505_0/60_FULL_050115_387505_0.m3u8
-    mp4_240: media\/2015\/05\/02\/438069827774\/60_FULL_050115_387478_240.mp4
-    mp4_740: media\/2015\/05\/02\/438069827774\/60_FULL_050115_387478_740.mp4
-    mp4_796: media\/2015\/05\/02\/438069827774\/60_FULL_050115_387478_796.mp4
-    mp4_1296: media\/2015\/05\/02\/438069827774\/60_FULL_050115_387478_1296.mp4
-  date: The Lesson of War, All-American, Whisky Island
 - title: The Attack on Sony, Ambassador Kennedy, Rush to Judgment
   links:
     orig: /videos/the-attack-on-sony-ambassador-kennedy-rush-to-judgment/
@@ -62,12 +44,30 @@
     mp4_796: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_796.mp4
     mp4_1296: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_1296.mp4
   date: The Attack on Sony, Ambassador Kennedy, Rush to Judgment
-- title: Death in the Mediterranean, The Battle Above
+- title: An Unlikely Informant, The Unknown America, King of Crossfit
   links:
-    orig: /videos/death-in-the-mediterranean-the-battle-above/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/26/434766915793/60_fULL_0426_383227_500/60_fULL_0426_383227_500.m3u8
-    mp4_240: media\/2015\/04\/26\/434766915793\/60_fULL_0426_383201_240.mp4
-    mp4_740: media\/2015\/04\/26\/434766915793\/60_fULL_0426_383201_740.mp4
-    mp4_796: media\/2015\/04\/26\/434766915793\/60_fULL_0426_383201_796.mp4
-    mp4_1296: media\/2015\/04\/26\/434766915793\/60_fULL_0426_383201_1296.mp4
-  date: Death in the Mediterranean, The Battle Above
+    orig: /videos/an-unlikely-informant-the-unknown-america-king-of-crossfit/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2013/10/25/56666691724/60_full_0226_380509_0/60_full_0226_380509_0.m3u8
+    mp4_240: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_240.mp4
+    mp4_740: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_740.mp4
+    mp4_796: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_796.mp4
+    mp4_1296: media\/2013\/10\/25\/56666691724\/60_full_0226_380457_1296.mp4
+  date: An Unlikely Informant, The Unknown America, King of Crossfit
+- title: A Crime Against Humanity, TED Talks, Hoop Dreams
+  links:
+    orig: /videos/a-crime-against-humanity-ted-talks-hoop-dreams/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/04/19/430507075750/60_FULL_041915_379358_500/60_FULL_041915_379358_500.m3u8
+    mp4_240: media\/2015\/04\/19\/430507075750\/60_FULL_041915_379339_240.mp4
+    mp4_740: media\/2015\/04\/19\/430507075750\/60_FULL_041915_379339_740.mp4
+    mp4_796: media\/2015\/04\/19\/430507075750\/60_FULL_041915_379339_796.mp4
+    mp4_1296: media\/2015\/04\/19\/430507075750\/60_FULL_041915_379339_1296.mp4
+  date: A Crime Against Humanity, TED Talks, Hoop Dreams
+- title: The Lesson of War, All-American, Whisky Island
+  links:
+    orig: /videos/the-lesson-of-war-all-american-whisky-island/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/05/02/438069827774/60_FULL_050115_387505_0/60_FULL_050115_387505_0.m3u8
+    mp4_240: media\/2015\/05\/02\/438069827774\/60_FULL_050115_387478_240.mp4
+    mp4_740: media\/2015\/05\/02\/438069827774\/60_FULL_050115_387478_740.mp4
+    mp4_796: media\/2015\/05\/02\/438069827774\/60_FULL_050115_387478_796.mp4
+    mp4_1296: media\/2015\/05\/02\/438069827774\/60_FULL_050115_387478_1296.mp4
+  date: The Lesson of War, All-American, Whisky Island
