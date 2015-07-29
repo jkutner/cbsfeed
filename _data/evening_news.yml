@@ -1,4 +1,13 @@
 ---
+- title: 72-08
+  links:
+    orig: /videos/728-roger-goodell-upholds-brady-suspension-8-year-old-gets-double-hand-transplant/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/28/493023811792/EN_0728_FULL_SHOW_427323_0/EN_0728_FULL_SHOW_427323_0.m3u8
+    mp4_240: media\/2015\/07\/28\/493023811792\/EN_0728_FULL_SHOW_427314_240.mp4
+    mp4_740: media\/2015\/07\/28\/493023811792\/EN_0728_FULL_SHOW_427314_740.mp4
+    mp4_796: media\/2015\/07\/28\/493023811792\/EN_0728_FULL_SHOW_427314_796.mp4
+    mp4_1296: media\/2015\/07\/28\/493023811792\/EN_0728_FULL_SHOW_427314_1296.mp4
+  date: 72-08
 - title: 72-06
   links:
     orig: /videos/726-video-catches-final-hours-of-john-houser-la-theater-gunman-swimming-helps-autistic-teen/
@@ -8,42 +17,6 @@
     mp4_796: media\/2015\/07\/27\/491587651597\/EN_0726_FULLSHOW_426314_796.mp4
     mp4_1296: media\/2015\/07\/27\/491587651597\/EN_0726_FULLSHOW_426314_1296.mp4
   date: 72-06
-- title: 72-04
-  links:
-    orig: /videos/724-gunman-kills-2-wounds-9-in-louisiana-movie-theater-five-airlines-investigated-for-price-gouging/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/28/493023811792/EN_0728_FULL_SHOW_427323_0/EN_0728_FULL_SHOW_427323_0.m3u8
-    mp4_240: media\/2015\/07\/28\/493023811792\/EN_0728_FULL_SHOW_427314_240.mp4
-    mp4_740: media\/2015\/07\/28\/493023811792\/EN_0728_FULL_SHOW_427314_740.mp4
-    mp4_796: media\/2015\/07\/28\/493023811792\/EN_0728_FULL_SHOW_427314_796.mp4
-    mp4_1296: media\/2015\/07\/28\/493023811792\/EN_0728_FULL_SHOW_427314_1296.mp4
-  date: 72-04
-- title: 72-02
-  links:
-    orig: /videos/722-sandra-blands-answers-on-jail-form-raises-new-questions-japanese-hotel-boasts-robotic-staff/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/28/493023811792/EN_0728_FULL_SHOW_427323_0/EN_0728_FULL_SHOW_427323_0.m3u8
-    mp4_240: media\/2015\/07\/23\/489816643622\/EN_0721_FullShow_424769_240.mp4
-    mp4_740: media\/2015\/07\/23\/489816643622\/EN_0721_FullShow_424769_740.mp4
-    mp4_796: media\/2015\/07\/23\/489816643622\/EN_0721_FullShow_424769_796.mp4
-    mp4_1296: media\/2015\/07\/23\/489816643622\/EN_0721_FullShow_424769_1296.mp4
-  date: 72-02
-- title: 72-03
-  links:
-    orig: /videos/723-fbi-director-isis-is-bigger-threat-than-al-qaeda-why-wisconsin-wants-to-bring-back-mayflies/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/28/493023811792/EN_0728_FULL_SHOW_427323_0/EN_0728_FULL_SHOW_427323_0.m3u8
-    mp4_240: media\/2015\/07\/24\/490529347899\/EN_0723_FULLSHOW_425326_240.mp4
-    mp4_740: media\/2015\/07\/24\/490529347899\/EN_0723_FULLSHOW_425326_740.mp4
-    mp4_796: media\/2015\/07\/24\/490529347899\/EN_0723_FULLSHOW_425326_796.mp4
-    mp4_1296: media\/2015\/07\/24\/490529347899\/EN_0723_FULLSHOW_425326_1296.mp4
-  date: 72-03
-- title: 72-00
-  links:
-    orig: /videos/720-donald-trump-remains-defiant-in-face-of-gop-criticism-watch-surfer-fights-off-shark/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/20/488139331781/EN_0720_FULL_SHOW_423637_500/EN_0720_FULL_SHOW_423637_500.m3u8
-    mp4_240: media\/2015\/07\/20\/488139331781\/EN_0720_FULL_SHOW_423634_240.mp4
-    mp4_740: media\/2015\/07\/20\/488139331781\/EN_0720_FULL_SHOW_423634_740.mp4
-    mp4_796: media\/2015\/07\/20\/488139331781\/EN_0720_FULL_SHOW_423634_796.mp4
-    mp4_1296: media\/2015\/07\/20\/488139331781\/EN_0720_FULL_SHOW_423634_1296.mp4
-  date: 72-00
 - title: 71-09
   links:
     orig: /videos/719-bill-cosby-testimony-paints-horrible-picture-of-comic-becky-hammon-first-female-nba-coach-earns-respect/
@@ -53,21 +26,48 @@
     mp4_796: media\/2015\/07\/19\/487285827981\/EN_0719_FULL_SHOW_423077_796.mp4
     mp4_1296: media\/2015\/07\/19\/487285827981\/EN_0719_FULL_SHOW_423077_1296.mp4
   date: 71-09
-- title: 71-08
+- title: 72-04
   links:
-    orig: /videos/718-one-more-dies-from-chattanooga-shooting-assault-rifle-scare-in-new-york-city/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/19/487071299932/EN_0718_FULL_SHOW_422839_500/EN_0718_FULL_SHOW_422839_500.m3u8
-    mp4_240: media\/2015\/07\/19\/487071299932\/EN_0718_FULL_SHOW_422836_240.mp4
-    mp4_740: media\/2015\/07\/19\/487071299932\/EN_0718_FULL_SHOW_422836_740.mp4
-    mp4_796: media\/2015\/07\/19\/487071299932\/EN_0718_FULL_SHOW_422836_796.mp4
-    mp4_1296: media\/2015\/07\/19\/487071299932\/EN_0718_FULL_SHOW_422836_1296.mp4
-  date: 71-08
-- title: 72-01
+    orig: /videos/724-gunman-kills-2-wounds-9-in-louisiana-movie-theater-five-airlines-investigated-for-price-gouging/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/28/493023811792/EN_0728_FULL_SHOW_427323_0/EN_0728_FULL_SHOW_427323_0.m3u8
+    mp4_240: media\/2015\/07\/28\/493023811792\/EN_0728_FULL_SHOW_427314_240.mp4
+    mp4_740: media\/2015\/07\/28\/493023811792\/EN_0728_FULL_SHOW_427314_740.mp4
+    mp4_796: media\/2015\/07\/28\/493023811792\/EN_0728_FULL_SHOW_427314_796.mp4
+    mp4_1296: media\/2015\/07\/28\/493023811792\/EN_0728_FULL_SHOW_427314_1296.mp4
+  date: 72-04
+- title: 72-03
   links:
-    orig: /videos/721-why-el-nino-could-help-and-hurt-california-amazing-grace-comes-to-broadway/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/22/488857667792/EN_0721_FULL_SHOW_424200_0/EN_0721_FULL_SHOW_424200_0.m3u8
-    mp4_240: media\/2015\/07\/22\/488857667792\/EN_0721_FULL_SHOW_424197_240.mp4
-    mp4_740: media\/2015\/07\/22\/488857667792\/EN_0721_FULL_SHOW_424197_740.mp4
-    mp4_796: media\/2015\/07\/22\/488857667792\/EN_0721_FULL_SHOW_424197_796.mp4
-    mp4_1296: media\/2015\/07\/22\/488857667792\/EN_0721_FULL_SHOW_424197_1296.mp4
-  date: 72-01
+    orig: /videos/723-fbi-director-isis-is-bigger-threat-than-al-qaeda-why-wisconsin-wants-to-bring-back-mayflies/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/28/493023811792/EN_0728_FULL_SHOW_427323_0/EN_0728_FULL_SHOW_427323_0.m3u8
+    mp4_240: media\/2015\/07\/24\/490529347899\/EN_0723_FULLSHOW_425326_240.mp4
+    mp4_740: media\/2015\/07\/24\/490529347899\/EN_0723_FULLSHOW_425326_740.mp4
+    mp4_796: media\/2015\/07\/24\/490529347899\/EN_0723_FULLSHOW_425326_796.mp4
+    mp4_1296: media\/2015\/07\/24\/490529347899\/EN_0723_FULLSHOW_425326_1296.mp4
+  date: 72-03
+- title: 72-02
+  links:
+    orig: /videos/722-sandra-blands-answers-on-jail-form-raises-new-questions-japanese-hotel-boasts-robotic-staff/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/28/493023811792/EN_0728_FULL_SHOW_427323_0/EN_0728_FULL_SHOW_427323_0.m3u8
+    mp4_240: media\/2015\/07\/23\/489816643622\/EN_0721_FullShow_424769_240.mp4
+    mp4_740: media\/2015\/07\/23\/489816643622\/EN_0721_FullShow_424769_740.mp4
+    mp4_796: media\/2015\/07\/23\/489816643622\/EN_0721_FullShow_424769_796.mp4
+    mp4_1296: media\/2015\/07\/23\/489816643622\/EN_0721_FullShow_424769_1296.mp4
+  date: 72-02
+- title: 72-05
+  links:
+    orig: /videos/725-who-was-the-la-movie-theater-gunman-new-baseball-hall-of-fame-inductees/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/26/491332163754/EN_0725_FULL_EPISODE_426060_0/EN_0725_FULL_EPISODE_426060_0.m3u8
+    mp4_240: media\/2015\/07\/26\/491332163754\/EN_0725_FULL_EPISODE_426053_240.mp4
+    mp4_740: media\/2015\/07\/26\/491332163754\/EN_0725_FULL_EPISODE_426053_740.mp4
+    mp4_796: media\/2015\/07\/26\/491332163754\/EN_0725_FULL_EPISODE_426053_796.mp4
+    mp4_1296: media\/2015\/07\/26\/491332163754\/EN_0725_FULL_EPISODE_426053_1296.mp4
+  date: 72-05
+- title: 72-00
+  links:
+    orig: /videos/720-donald-trump-remains-defiant-in-face-of-gop-criticism-watch-surfer-fights-off-shark/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/20/488139331781/EN_0720_FULL_SHOW_423637_500/EN_0720_FULL_SHOW_423637_500.m3u8
+    mp4_240: media\/2015\/07\/20\/488139331781\/EN_0720_FULL_SHOW_423634_240.mp4
+    mp4_740: media\/2015\/07\/20\/488139331781\/EN_0720_FULL_SHOW_423634_740.mp4
+    mp4_796: media\/2015\/07\/20\/488139331781\/EN_0720_FULL_SHOW_423634_796.mp4
+    mp4_1296: media\/2015\/07\/20\/488139331781\/EN_0720_FULL_SHOW_423634_1296.mp4
+  date: 72-00
