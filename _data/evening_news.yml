@@ -1,13 +1,4 @@
 ---
-- title: 72-07
-  links:
-    orig: /videos/727-fiat-chysler-to-buy-back-defective-vehicles-lost-dr-seuss-story-to-debut/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/28/492139587923/EN_072715_FULL_EP_426755_500/EN_072715_FULL_EP_426755_500.m3u8
-    mp4_240: media\/2015\/07\/28\/492139587923\/EN_072715_FULL_EP_426749_240.mp4
-    mp4_740: media\/2015\/07\/28\/492139587923\/EN_072715_FULL_EP_426749_740.mp4
-    mp4_796: media\/2015\/07\/28\/492139587923\/EN_072715_FULL_EP_426749_796.mp4
-    mp4_1296: media\/2015\/07\/28\/492139587923\/EN_072715_FULL_EP_426749_1296.mp4
-  date: 72-07
 - title: 72-05
   links:
     orig: /videos/725-who-was-the-la-movie-theater-gunman-new-baseball-hall-of-fame-inductees/
@@ -20,7 +11,7 @@
 - title: 72-03
   links:
     orig: /videos/723-fbi-director-isis-is-bigger-threat-than-al-qaeda-why-wisconsin-wants-to-bring-back-mayflies/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/28/492139587923/EN_072715_FULL_EP_426755_500/EN_072715_FULL_EP_426755_500.m3u8
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/28/493023811792/EN_0728_FULL_SHOW_427323_0/EN_0728_FULL_SHOW_427323_0.m3u8
     mp4_240: media\/2015\/07\/24\/490529347899\/EN_0723_FULLSHOW_425326_240.mp4
     mp4_740: media\/2015\/07\/24\/490529347899\/EN_0723_FULLSHOW_425326_740.mp4
     mp4_796: media\/2015\/07\/24\/490529347899\/EN_0723_FULLSHOW_425326_796.mp4
@@ -47,7 +38,7 @@
 - title: 72-02
   links:
     orig: /videos/722-sandra-blands-answers-on-jail-form-raises-new-questions-japanese-hotel-boasts-robotic-staff/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/28/492139587923/EN_072715_FULL_EP_426755_500/EN_072715_FULL_EP_426755_500.m3u8
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/28/493023811792/EN_0728_FULL_SHOW_427323_0/EN_0728_FULL_SHOW_427323_0.m3u8
     mp4_240: media\/2015\/07\/23\/489816643622\/EN_0721_FullShow_424769_240.mp4
     mp4_740: media\/2015\/07\/23\/489816643622\/EN_0721_FullShow_424769_740.mp4
     mp4_796: media\/2015\/07\/23\/489816643622\/EN_0721_FullShow_424769_796.mp4
@@ -65,9 +56,18 @@
 - title: 72-04
   links:
     orig: /videos/724-gunman-kills-2-wounds-9-in-louisiana-movie-theater-five-airlines-investigated-for-price-gouging/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/28/492139587923/EN_072715_FULL_EP_426755_500/EN_072715_FULL_EP_426755_500.m3u8
-    mp4_240: media\/2015\/07\/28\/492139587923\/EN_072715_FULL_EP_426749_240.mp4
-    mp4_740: media\/2015\/07\/28\/492139587923\/EN_072715_FULL_EP_426749_740.mp4
-    mp4_796: media\/2015\/07\/28\/492139587923\/EN_072715_FULL_EP_426749_796.mp4
-    mp4_1296: media\/2015\/07\/28\/492139587923\/EN_072715_FULL_EP_426749_1296.mp4
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/28/493023811792/EN_0728_FULL_SHOW_427323_0/EN_0728_FULL_SHOW_427323_0.m3u8
+    mp4_240: media\/2015\/07\/28\/493023811792\/EN_0728_FULL_SHOW_427314_240.mp4
+    mp4_740: media\/2015\/07\/28\/493023811792\/EN_0728_FULL_SHOW_427314_740.mp4
+    mp4_796: media\/2015\/07\/28\/493023811792\/EN_0728_FULL_SHOW_427314_796.mp4
+    mp4_1296: media\/2015\/07\/28\/493023811792\/EN_0728_FULL_SHOW_427314_1296.mp4
   date: 72-04
+- title: 71-07
+  links:
+    orig: /videos/717-marines-killed-in-chattanooga-attack-identified-why-a-91-year-old-veteran-is-running-across-america/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/18/486695491786/EN_0717_FULL_SHOW_1_422631_500/EN_0717_FULL_SHOW_1_422631_500.m3u8
+    mp4_240: media\/2015\/07\/18\/486695491786\/EN_0717_FULL_SHOW_1_422628_240.mp4
+    mp4_740: media\/2015\/07\/18\/486695491786\/EN_0717_FULL_SHOW_1_422628_740.mp4
+    mp4_796: media\/2015\/07\/18\/486695491786\/EN_0717_FULL_SHOW_1_422628_796.mp4
+    mp4_1296: media\/2015\/07\/18\/486695491786\/EN_0717_FULL_SHOW_1_422628_1296.mp4
+  date: 71-07
