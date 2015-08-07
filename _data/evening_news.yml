@@ -1,40 +1,13 @@
 ---
-- title: 08-05
+- title: 08-06
   links:
-    orig: /videos/85-axe-wielding-man-shot-dead-at-tennessee-movie-theater-study-suggests-health-benefits-from-spicy-food/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/06/499285571855/EN_080515_FULL_EPISODE_v4_430363_0/EN_080515_FULL_EPISODE_v4_430363_0.m3u8
-    mp4_240: media\/2015\/08\/06\/499285571855\/EN_080515_FULL_EPISODE_v4_430361_240.mp4
-    mp4_740: media\/2015\/08\/06\/499285571855\/EN_080515_FULL_EPISODE_v4_430361_740.mp4
-    mp4_796: media\/2015\/08\/06\/499285571855\/EN_080515_FULL_EPISODE_v4_430361_796.mp4
-    mp4_1296: media\/2015\/08\/06\/499285571855\/EN_080515_FULL_EPISODE_v4_430361_1296.mp4
-  date: 08-05
-- title: 72-06
-  links:
-    orig: /videos/726-video-catches-final-hours-of-john-houser-la-theater-gunman-swimming-helps-autistic-teen/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/06/499285571855/EN_080515_FULL_EPISODE_v4_430363_0/EN_080515_FULL_EPISODE_v4_430363_0.m3u8
-    mp4_240: media\/2015\/07\/27\/491587651597\/EN_0726_FULLSHOW_426314_240.mp4
-    mp4_740: media\/2015\/07\/27\/491587651597\/EN_0726_FULLSHOW_426314_740.mp4
-    mp4_796: media\/2015\/07\/27\/491587651597\/EN_0726_FULLSHOW_426314_796.mp4
-    mp4_1296: media\/2015\/07\/27\/491587651597\/EN_0726_FULLSHOW_426314_1296.mp4
-  date: 72-06
-- title: 72-05
-  links:
-    orig: /videos/725-who-was-the-la-movie-theater-gunman-new-baseball-hall-of-fame-inductees/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/26/491332163754/EN_0725_FULL_EPISODE_426060_0/EN_0725_FULL_EPISODE_426060_0.m3u8
-    mp4_240: media\/2015\/07\/26\/491332163754\/EN_0725_FULL_EPISODE_426053_240.mp4
-    mp4_740: media\/2015\/07\/26\/491332163754\/EN_0725_FULL_EPISODE_426053_740.mp4
-    mp4_796: media\/2015\/07\/26\/491332163754\/EN_0725_FULL_EPISODE_426053_796.mp4
-    mp4_1296: media\/2015\/07\/26\/491332163754\/EN_0725_FULL_EPISODE_426053_1296.mp4
-  date: 72-05
-- title: 72-09
-  links:
-    orig: /videos/729-speculation-grows-after-discovery-of-airplane-debris-archaeologists-find-human-remains-in-jamestown-va/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/29/493793347989/EN_072915_FULL_EPISODE_427892_0/EN_072915_FULL_EPISODE_427892_0.m3u8
-    mp4_240: media\/2015\/07\/29\/493793347989\/EN_072915_FULL_EPISODE_427889_240.mp4
-    mp4_740: media\/2015\/07\/29\/493793347989\/EN_072915_FULL_EPISODE_427889_740.mp4
-    mp4_796: media\/2015\/07\/29\/493793347989\/EN_072915_FULL_EPISODE_427889_796.mp4
-    mp4_1296: media\/2015\/07\/29\/493793347989\/EN_072915_FULL_EPISODE_427889_1296.mp4
-  date: 72-09
+    orig: /videos/86-early-u-s-training-of-syrian-rebels-seen-as-failure-whats-behind-flight-delays/
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
+  date: 08-06
 - title: 72-08
   links:
     orig: /videos/728-roger-goodell-upholds-brady-suspension-8-year-old-gets-double-hand-transplant/
@@ -47,12 +20,21 @@
 - title: 73-00
   links:
     orig: /videos/730-investigators-say-debris-is-from-boeing-777-u-k-boy-with-cerebral-palsy-cheered-at-triathlon-finish-line/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/06/499285571855/EN_080515_FULL_EPISODE_v4_430363_0/EN_080515_FULL_EPISODE_v4_430363_0.m3u8
-    mp4_240: media\/2015\/08\/06\/499285571855\/EN_080515_FULL_EPISODE_v4_430361_240.mp4
-    mp4_740: media\/2015\/08\/06\/499285571855\/EN_080515_FULL_EPISODE_v4_430361_740.mp4
-    mp4_796: media\/2015\/08\/06\/499285571855\/EN_080515_FULL_EPISODE_v4_430361_796.mp4
-    mp4_1296: media\/2015\/08\/06\/499285571855\/EN_080515_FULL_EPISODE_v4_430361_1296.mp4
+    ipad: ''
+    mp4_240: ''
+    mp4_740: ''
+    mp4_796: ''
+    mp4_1296: ''
   date: 73-00
+- title: 72-09
+  links:
+    orig: /videos/729-speculation-grows-after-discovery-of-airplane-debris-archaeologists-find-human-remains-in-jamestown-va/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/29/493793347989/EN_072915_FULL_EPISODE_427892_0/EN_072915_FULL_EPISODE_427892_0.m3u8
+    mp4_240: media\/2015\/07\/29\/493793347989\/EN_072915_FULL_EPISODE_427889_240.mp4
+    mp4_740: media\/2015\/07\/29\/493793347989\/EN_072915_FULL_EPISODE_427889_740.mp4
+    mp4_796: media\/2015\/07\/29\/493793347989\/EN_072915_FULL_EPISODE_427889_796.mp4
+    mp4_1296: media\/2015\/07\/29\/493793347989\/EN_072915_FULL_EPISODE_427889_1296.mp4
+  date: 72-09
 - title: 73-01
   links:
     orig: /videos/731-high-heat-and-dry-winds-fuel-wildfires-a-journey-to-the-past/
@@ -62,10 +44,28 @@
     mp4_796: media\/2015\/08\/01\/495626307953\/EN_073115_FULL_EPISODE_7p_428719_796.mp4
     mp4_1296: media\/2015\/08\/01\/495626307953\/EN_073115_FULL_EPISODE_7p_428719_1296.mp4
   date: 73-01
+- title: 72-06
+  links:
+    orig: /videos/726-video-catches-final-hours-of-john-houser-la-theater-gunman-swimming-helps-autistic-teen/
+    ipad: ''
+    mp4_240: media\/2015\/07\/27\/491587651597\/EN_0726_FULLSHOW_426314_240.mp4
+    mp4_740: media\/2015\/07\/27\/491587651597\/EN_0726_FULLSHOW_426314_740.mp4
+    mp4_796: media\/2015\/07\/27\/491587651597\/EN_0726_FULLSHOW_426314_796.mp4
+    mp4_1296: media\/2015\/07\/27\/491587651597\/EN_0726_FULLSHOW_426314_1296.mp4
+  date: 72-06
+- title: 08-05
+  links:
+    orig: /videos/85-axe-wielding-man-shot-dead-at-tennessee-movie-theater-study-suggests-health-benefits-from-spicy-food/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/06/499285571855/EN_080515_FULL_EPISODE_v4_430363_0/EN_080515_FULL_EPISODE_v4_430363_0.m3u8
+    mp4_240: media\/2015\/08\/06\/499285571855\/EN_080515_FULL_EPISODE_v4_430361_240.mp4
+    mp4_740: media\/2015\/08\/06\/499285571855\/EN_080515_FULL_EPISODE_v4_430361_740.mp4
+    mp4_796: media\/2015\/08\/06\/499285571855\/EN_080515_FULL_EPISODE_v4_430361_796.mp4
+    mp4_1296: media\/2015\/08\/06\/499285571855\/EN_080515_FULL_EPISODE_v4_430361_1296.mp4
+  date: 08-05
 - title: 08-04
   links:
     orig: /videos/84-violent-weather-claims-2-lives-in-n-h-circus-tent-collapse-nyc-outbreak-of-legionnaires-disease-draws-scrutiny/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/06/499285571855/EN_080515_FULL_EPISODE_v4_430363_0/EN_080515_FULL_EPISODE_v4_430363_0.m3u8
+    ipad: ''
     mp4_240: media\/2015\/08\/05\/498567747936\/EN_0804_FULLSHOW_429932_240.mp4
     mp4_740: media\/2015\/08\/05\/498567747936\/EN_0804_FULLSHOW_429932_740.mp4
     mp4_796: media\/2015\/08\/05\/498567747936\/EN_0804_FULLSHOW_429932_796.mp4
