@@ -1,22 +1,13 @@
 ---
-- title: 08-08
+- title: 80-09
   links:
-    orig: /videos/88-donald-trump-defends-comments-about-megyn-kelly-program-helps-young-african-american-pilots-earn-their-wings/
-    ipad: ''
-    mp4_240: media\/2015\/08\/09\/500976707837\/EN_0808_FullShow_431370_240.mp4
-    mp4_740: media\/2015\/08\/09\/500976707837\/EN_0808_FullShow_431370_740.mp4
-    mp4_796: media\/2015\/08\/09\/500976707837\/EN_0808_FullShow_431370_796.mp4
-    mp4_1296: media\/2015\/08\/09\/500976707837\/EN_0808_FullShow_431370_1296.mp4
-  date: 08-08
-- title: 73-00
-  links:
-    orig: /videos/730-investigators-say-debris-is-from-boeing-777-u-k-boy-with-cerebral-palsy-cheered-at-triathlon-finish-line/
-    ipad: ''
-    mp4_240: media\/2015\/08\/09\/500976707837\/EN_0808_FullShow_431370_240.mp4
-    mp4_740: media\/2015\/08\/09\/500976707837\/EN_0808_FullShow_431370_740.mp4
-    mp4_796: media\/2015\/08\/09\/500976707837\/EN_0808_FullShow_431370_796.mp4
-    mp4_1296: media\/2015\/08\/09\/500976707837\/EN_0808_FullShow_431370_1296.mp4
-  date: 73-00
+    orig: /videos/809-donald-trump-doesnt-bow-on-megyn-kelly-controversy-new-york-yankees-or-82nd-infantry/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/10/501232195631/EN_080915_FULL_EPISODE_431573_500/EN_080915_FULL_EPISODE_431573_500.m3u8
+    mp4_240: media\/2015\/08\/10\/501232195631\/EN_080915_FULL_EPISODE_431569_240.mp4
+    mp4_740: media\/2015\/08\/10\/501232195631\/EN_080915_FULL_EPISODE_431569_740.mp4
+    mp4_796: media\/2015\/08\/10\/501232195631\/EN_080915_FULL_EPISODE_431569_796.mp4
+    mp4_1296: media\/2015\/08\/10\/501232195631\/EN_080915_FULL_EPISODE_431569_1296.mp4
+  date: 80-09
 - title: 73-01
   links:
     orig: /videos/731-high-heat-and-dry-winds-fuel-wildfires-a-journey-to-the-past/
@@ -26,19 +17,28 @@
     mp4_796: media\/2015\/08\/01\/495626307953\/EN_073115_FULL_EPISODE_7p_428719_796.mp4
     mp4_1296: media\/2015\/08\/01\/495626307953\/EN_073115_FULL_EPISODE_7p_428719_1296.mp4
   date: 73-01
-- title: 72-09
+- title: 73-00
   links:
-    orig: /videos/729-speculation-grows-after-discovery-of-airplane-debris-archaeologists-find-human-remains-in-jamestown-va/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/07/29/493793347989/EN_072915_FULL_EPISODE_427892_0/EN_072915_FULL_EPISODE_427892_0.m3u8
-    mp4_240: media\/2015\/07\/29\/493793347989\/EN_072915_FULL_EPISODE_427889_240.mp4
-    mp4_740: media\/2015\/07\/29\/493793347989\/EN_072915_FULL_EPISODE_427889_740.mp4
-    mp4_796: media\/2015\/07\/29\/493793347989\/EN_072915_FULL_EPISODE_427889_796.mp4
-    mp4_1296: media\/2015\/07\/29\/493793347989\/EN_072915_FULL_EPISODE_427889_1296.mp4
-  date: 72-09
+    orig: /videos/730-investigators-say-debris-is-from-boeing-777-u-k-boy-with-cerebral-palsy-cheered-at-triathlon-finish-line/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/10/501232195631/EN_080915_FULL_EPISODE_431573_500/EN_080915_FULL_EPISODE_431573_500.m3u8
+    mp4_240: media\/2015\/08\/10\/501232195631\/EN_080915_FULL_EPISODE_431569_240.mp4
+    mp4_740: media\/2015\/08\/10\/501232195631\/EN_080915_FULL_EPISODE_431569_740.mp4
+    mp4_796: media\/2015\/08\/10\/501232195631\/EN_080915_FULL_EPISODE_431569_796.mp4
+    mp4_1296: media\/2015\/08\/10\/501232195631\/EN_080915_FULL_EPISODE_431569_1296.mp4
+  date: 73-00
+- title: 08-08
+  links:
+    orig: /videos/88-donald-trump-defends-comments-about-megyn-kelly-program-helps-young-african-american-pilots-earn-their-wings/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/10/501232195631/EN_080915_FULL_EPISODE_431573_500/EN_080915_FULL_EPISODE_431573_500.m3u8
+    mp4_240: media\/2015\/08\/09\/500976707837\/EN_0808_FullShow_431370_240.mp4
+    mp4_740: media\/2015\/08\/09\/500976707837\/EN_0808_FullShow_431370_740.mp4
+    mp4_796: media\/2015\/08\/09\/500976707837\/EN_0808_FullShow_431370_796.mp4
+    mp4_1296: media\/2015\/08\/09\/500976707837\/EN_0808_FullShow_431370_1296.mp4
+  date: 08-08
 - title: 08-07
   links:
     orig: /videos/87-james-holmes-sentenced-to-life-in-prison-after-losing-parents-6-year-old-boy-seeks-smiles/
-    ipad: ''
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/10/501232195631/EN_080915_FULL_EPISODE_431573_500/EN_080915_FULL_EPISODE_431573_500.m3u8
     mp4_240: media\/2015\/08\/08\/500633667614\/EN_0807_FULLEPISODE_431214_240.mp4
     mp4_740: media\/2015\/08\/08\/500633667614\/EN_0807_FULLEPISODE_431214_740.mp4
     mp4_796: media\/2015\/08\/08\/500633667614\/EN_0807_FULLEPISODE_431214_796.mp4
@@ -47,11 +47,11 @@
 - title: 08-06
   links:
     orig: /videos/86-early-u-s-training-of-syrian-rebels-seen-as-failure-whats-behind-flight-delays/
-    ipad: ''
-    mp4_240: media\/2015\/08\/09\/500976707837\/EN_0808_FullShow_431370_240.mp4
-    mp4_740: media\/2015\/08\/09\/500976707837\/EN_0808_FullShow_431370_740.mp4
-    mp4_796: media\/2015\/08\/09\/500976707837\/EN_0808_FullShow_431370_796.mp4
-    mp4_1296: media\/2015\/08\/09\/500976707837\/EN_0808_FullShow_431370_1296.mp4
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/10/501232195631/EN_080915_FULL_EPISODE_431573_500/EN_080915_FULL_EPISODE_431573_500.m3u8
+    mp4_240: media\/2015\/08\/10\/501232195631\/EN_080915_FULL_EPISODE_431569_240.mp4
+    mp4_740: media\/2015\/08\/10\/501232195631\/EN_080915_FULL_EPISODE_431569_740.mp4
+    mp4_796: media\/2015\/08\/10\/501232195631\/EN_080915_FULL_EPISODE_431569_796.mp4
+    mp4_1296: media\/2015\/08\/10\/501232195631\/EN_080915_FULL_EPISODE_431569_1296.mp4
   date: 08-06
 - title: 08-05
   links:
@@ -65,7 +65,7 @@
 - title: 08-04
   links:
     orig: /videos/84-violent-weather-claims-2-lives-in-n-h-circus-tent-collapse-nyc-outbreak-of-legionnaires-disease-draws-scrutiny/
-    ipad: ''
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/10/501232195631/EN_080915_FULL_EPISODE_431573_500/EN_080915_FULL_EPISODE_431573_500.m3u8
     mp4_240: media\/2015\/08\/05\/498567747936\/EN_0804_FULLSHOW_429932_240.mp4
     mp4_740: media\/2015\/08\/05\/498567747936\/EN_0804_FULLSHOW_429932_740.mp4
     mp4_796: media\/2015\/08\/05\/498567747936\/EN_0804_FULLSHOW_429932_796.mp4
