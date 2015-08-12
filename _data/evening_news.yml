@@ -1,22 +1,13 @@
 ---
-- title: 81-00
+- title: 81-01
   links:
-    orig: /videos/810-state-of-emergency-issued-in-ferguson-cutting-edge-heart-surgery-saves-skydiver/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/11/501752899984/EN_081015_Full_Show_431928_500/EN_081015_Full_Show_431928_500.m3u8
-    mp4_240: media\/2015\/08\/11\/501752899984\/EN_081015_Full_Show_431925_240.mp4
-    mp4_740: media\/2015\/08\/11\/501752899984\/EN_081015_Full_Show_431925_740.mp4
-    mp4_796: media\/2015\/08\/11\/501752899984\/EN_081015_Full_Show_431925_796.mp4
-    mp4_1296: media\/2015\/08\/11\/501752899984\/EN_081015_Full_Show_431925_1296.mp4
-  date: 81-00
-- title: 73-01
-  links:
-    orig: /videos/731-high-heat-and-dry-winds-fuel-wildfires-a-journey-to-the-past/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/01/495626307953/EN_073115_FULL_EPISODE_7p_428722_0/EN_073115_FULL_EPISODE_7p_428722_0.m3u8
-    mp4_240: media\/2015\/08\/01\/495626307953\/EN_073115_FULL_EPISODE_7p_428719_240.mp4
-    mp4_740: media\/2015\/08\/01\/495626307953\/EN_073115_FULL_EPISODE_7p_428719_740.mp4
-    mp4_796: media\/2015\/08\/01\/495626307953\/EN_073115_FULL_EPISODE_7p_428719_796.mp4
-    mp4_1296: media\/2015\/08\/01\/495626307953\/EN_073115_FULL_EPISODE_7p_428719_1296.mp4
-  date: 73-01
+    orig: /videos/811-john-kerry-very-possible-russia-and-china-are-reading-my-emails-drones-seen-as-hazard-during-fighting-of-fires/
+    ipad: ''
+    mp4_240: media\/2015\/08\/12\/502562371790\/EN_0811_FULL_SHOW_432489_240.mp4
+    mp4_740: media\/2015\/08\/12\/502562371790\/EN_0811_FULL_SHOW_432489_740.mp4
+    mp4_796: media\/2015\/08\/12\/502562371790\/EN_0811_FULL_SHOW_432489_796.mp4
+    mp4_1296: media\/2015\/08\/12\/502562371790\/EN_0811_FULL_SHOW_432489_1296.mp4
+  date: 81-01
 - title: 08-09
   links:
     orig: /videos/89-donald-trump-doesnt-bow-on-megyn-kelly-controversy-new-york-yankees-or-82nd-infantry/
@@ -48,10 +39,10 @@
   links:
     orig: /videos/86-early-u-s-training-of-syrian-rebels-seen-as-failure-whats-behind-flight-delays/
     ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
+    mp4_240: media\/2015\/08\/12\/502562371790\/EN_0811_FULL_SHOW_432489_240.mp4
+    mp4_740: media\/2015\/08\/12\/502562371790\/EN_0811_FULL_SHOW_432489_740.mp4
+    mp4_796: media\/2015\/08\/12\/502562371790\/EN_0811_FULL_SHOW_432489_796.mp4
+    mp4_1296: media\/2015\/08\/12\/502562371790\/EN_0811_FULL_SHOW_432489_1296.mp4
   date: 08-06
 - title: 08-05
   links:
@@ -71,3 +62,12 @@
     mp4_796: media\/2015\/08\/05\/498567747936\/EN_0804_FULLSHOW_429932_796.mp4
     mp4_1296: media\/2015\/08\/05\/498567747936\/EN_0804_FULLSHOW_429932_1296.mp4
   date: 08-04
+- title: 08-03
+  links:
+    orig: /videos/83-california-wildfire-challenging-firefighters-beloved-hitchbot-destroyed-in-philadelphia/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/04/497813571737/EN_0803_FULL_SHOW_429531_500/EN_0803_FULL_SHOW_429531_500.m3u8
+    mp4_240: media\/2015\/08\/04\/497813571737\/EN_0803_FULL_SHOW_429528_240.mp4
+    mp4_740: media\/2015\/08\/04\/497813571737\/EN_0803_FULL_SHOW_429528_740.mp4
+    mp4_796: media\/2015\/08\/04\/497813571737\/EN_0803_FULL_SHOW_429528_796.mp4
+    mp4_1296: media\/2015\/08\/04\/497813571737\/EN_0803_FULL_SHOW_429528_1296.mp4
+  date: 08-03
