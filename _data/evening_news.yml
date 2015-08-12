@@ -20,12 +20,21 @@
 - title: 08-08
   links:
     orig: /videos/88-donald-trump-defends-comments-about-megyn-kelly-program-helps-young-african-american-pilots-earn-their-wings/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/12/502562371790/EN_0811_FULL_SHOW_432492_0/EN_0811_FULL_SHOW_432492_0.m3u8
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/12/502562371790/EN_0811_FULL_SHOW_432492_500/EN_0811_FULL_SHOW_432492_500.m3u8
     mp4_240: media\/2015\/08\/09\/500976707837\/EN_0808_FullShow_431370_240.mp4
     mp4_740: media\/2015\/08\/09\/500976707837\/EN_0808_FullShow_431370_740.mp4
     mp4_796: media\/2015\/08\/09\/500976707837\/EN_0808_FullShow_431370_796.mp4
     mp4_1296: media\/2015\/08\/09\/500976707837\/EN_0808_FullShow_431370_1296.mp4
   date: 08-08
+- title: 08-07
+  links:
+    orig: /videos/87-james-holmes-sentenced-to-life-in-prison-after-losing-parents-6-year-old-boy-seeks-smiles/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/12/502562371790/EN_0811_FULL_SHOW_432492_500/EN_0811_FULL_SHOW_432492_500.m3u8
+    mp4_240: media\/2015\/08\/08\/500633667614\/EN_0807_FULLEPISODE_431214_240.mp4
+    mp4_740: media\/2015\/08\/08\/500633667614\/EN_0807_FULLEPISODE_431214_740.mp4
+    mp4_796: media\/2015\/08\/08\/500633667614\/EN_0807_FULLEPISODE_431214_796.mp4
+    mp4_1296: media\/2015\/08\/08\/500633667614\/EN_0807_FULLEPISODE_431214_1296.mp4
+  date: 08-07
 - title: 08-06
   links:
     orig: /videos/86-early-u-s-training-of-syrian-rebels-seen-as-failure-whats-behind-flight-delays/
@@ -62,12 +71,3 @@
     mp4_796: media\/2015\/08\/04\/497813571737\/EN_0803_FULL_SHOW_429528_796.mp4
     mp4_1296: media\/2015\/08\/04\/497813571737\/EN_0803_FULL_SHOW_429528_1296.mp4
   date: 08-03
-- title: 08-02
-  links:
-    orig: /videos/82-rocky-fire-doubles-in-size-overnight-jack-of-all-trades/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/12/502562371790/EN_0811_FULL_SHOW_432492_500/EN_0811_FULL_SHOW_432492_500.m3u8
-    mp4_240: media\/2015\/08\/03\/497107523680\/EN_0802_FullEpisode_429115_240.mp4
-    mp4_740: media\/2015\/08\/03\/497107523680\/EN_0802_FullEpisode_429115_740.mp4
-    mp4_796: media\/2015\/08\/03\/497107523680\/EN_0802_FullEpisode_429115_796.mp4
-    mp4_1296: media\/2015\/08\/03\/497107523680\/EN_0802_FullEpisode_429115_1296.mp4
-  date: 08-02
