@@ -1,40 +1,13 @@
 ---
-- title: 09-05
+- title: 09-06
   links:
-    orig: /videos/95-flood-of-migrants-arrive-in-austria-after-overwhelming-hungary-african-children-with-albinism-targeted-by-poachers/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 09-05
-- title: 82-07
-  links:
-    orig: /videos/827-gunman-in-wdbj-shooting-had-troubled-past-african-american-ballet-dancer-pays-it-forward/
-    ipad: ''
-    mp4_240: ''
-    mp4_740: ''
-    mp4_796: ''
-    mp4_1296: ''
-  date: 82-07
-- title: 00-00
-  links:
-    orig: /videos/wdbj-reporter-cameraman-killed-on-live-tv-the-restaurant-katrina-couldnt-keep-down/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/26/513721411751/EN_082615_FULL_437467_0/EN_082615_FULL_437467_0.m3u8
-    mp4_240: media\/2015\/08\/26\/513721411751\/EN_082615_FULL_437464_240.mp4
-    mp4_740: media\/2015\/08\/26\/513721411751\/EN_082615_FULL_437464_740.mp4
-    mp4_796: media\/2015\/08\/26\/513721411751\/EN_082615_FULL_437464_796.mp4
-    mp4_1296: media\/2015\/08\/26\/513721411751\/EN_082615_FULL_437464_1296.mp4
-  date: 00-00
-- title: 82-09
-  links:
-    orig: /videos/829-suspect-arrested-in-killing-of-texas-sheriffs-deputy-pig-rescue-farm-is-hog-heaven/
-    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/30/515808835550/EN_082915_FULL_EPISODE_438368_500/EN_082915_FULL_EPISODE_438368_500.m3u8
-    mp4_240: media\/2015\/08\/30\/515808835550\/EN_082915_FULL_EPISODE_438365_240.mp4
-    mp4_740: media\/2015\/08\/30\/515808835550\/EN_082915_FULL_EPISODE_438365_740.mp4
-    mp4_796: media\/2015\/08\/30\/515808835550\/EN_082915_FULL_EPISODE_438365_796.mp4
-    mp4_1296: media\/2015\/08\/30\/515808835550\/EN_082915_FULL_EPISODE_438365_1296.mp4
-  date: 82-09
+    orig: /videos/96-germany-braces-to-take-in-migrants-couple-celebrates-60th-anniversary-at-the-waldorf-astoria/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/09/07/520413251998/EN_090615_Full_Episode_441137_500/EN_090615_Full_Episode_441137_500.m3u8
+    mp4_240: media\/2015\/09\/07\/520413251998\/EN_090615_Full_Episode_441135_240.mp4
+    mp4_740: media\/2015\/09\/07\/520413251998\/EN_090615_Full_Episode_441135_740.mp4
+    mp4_796: media\/2015\/09\/07\/520413251998\/EN_090615_Full_Episode_441135_796.mp4
+    mp4_1296: media\/2015\/09\/07\/520413251998\/EN_090615_Full_Episode_441135_1296.mp4
+  date: 09-06
 - title: 82-08
   links:
     orig: /videos/828-jury-returns-mixed-verdict-in-prep-school-rape-trial-katrina-anniversary-man-works-to-revive-lower-ninth-ward/
@@ -53,6 +26,15 @@
     mp4_796: media\/2015\/08\/31\/516146243918\/EN_083015_Full_Episode_438582_796.mp4
     mp4_1296: media\/2015\/08\/31\/516146243918\/EN_083015_Full_Episode_438582_1296.mp4
   date: 83-00
+- title: 82-09
+  links:
+    orig: /videos/829-suspect-arrested-in-killing-of-texas-sheriffs-deputy-pig-rescue-farm-is-hog-heaven/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/08/30/515808835550/EN_082915_FULL_EPISODE_438368_500/EN_082915_FULL_EPISODE_438368_500.m3u8
+    mp4_240: media\/2015\/08\/30\/515808835550\/EN_082915_FULL_EPISODE_438365_240.mp4
+    mp4_740: media\/2015\/08\/30\/515808835550\/EN_082915_FULL_EPISODE_438365_740.mp4
+    mp4_796: media\/2015\/08\/30\/515808835550\/EN_082915_FULL_EPISODE_438365_796.mp4
+    mp4_1296: media\/2015\/08\/30\/515808835550\/EN_082915_FULL_EPISODE_438365_1296.mp4
+  date: 82-09
 - title: 83-01
   links:
     orig: /videos/831-suspect-in-texas-police-officers-slaying-appears-in-court-search-for-nazi-gold-keeps-treasure-hunters-stoked-in-poland/
@@ -62,6 +44,24 @@
     mp4_796: media\/2015\/09\/01\/516759107893\/EN_0831_Full_episode_438968_796.mp4
     mp4_1296: media\/2015\/09\/01\/516759107893\/EN_0831_Full_episode_438968_1296.mp4
   date: 83-01
+- title: 82-07
+  links:
+    orig: /videos/827-gunman-in-wdbj-shooting-had-troubled-past-african-american-ballet-dancer-pays-it-forward/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/09/07/520413251998/EN_090615_Full_Episode_441137_500/EN_090615_Full_Episode_441137_500.m3u8
+    mp4_240: media\/2015\/09\/07\/520413251998\/EN_090615_Full_Episode_441135_240.mp4
+    mp4_740: media\/2015\/09\/07\/520413251998\/EN_090615_Full_Episode_441135_740.mp4
+    mp4_796: media\/2015\/09\/07\/520413251998\/EN_090615_Full_Episode_441135_796.mp4
+    mp4_1296: media\/2015\/09\/07\/520413251998\/EN_090615_Full_Episode_441135_1296.mp4
+  date: 82-07
+- title: 09-05
+  links:
+    orig: /videos/95-flood-of-migrants-arrive-in-austria-after-overwhelming-hungary-african-children-with-albinism-targeted-by-poachers/
+    ipad: ipad-streaming.cbsnews.com/media/mpx/2015/09/07/520413251998/EN_090615_Full_Episode_441137_500/EN_090615_Full_Episode_441137_500.m3u8
+    mp4_240: media\/2015\/09\/07\/520413251998\/EN_090615_Full_Episode_441135_240.mp4
+    mp4_740: media\/2015\/09\/07\/520413251998\/EN_090615_Full_Episode_441135_740.mp4
+    mp4_796: media\/2015\/09\/07\/520413251998\/EN_090615_Full_Episode_441135_796.mp4
+    mp4_1296: media\/2015\/09\/07\/520413251998\/EN_090615_Full_Episode_441135_1296.mp4
+  date: 09-05
 - title: 09-04
   links:
     orig: /videos/94-good-jobs-are-back-says-new-study-the-tale-of-the-wandering-piano-man/
